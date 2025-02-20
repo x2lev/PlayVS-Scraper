@@ -1,12 +1,13 @@
+import time
 from selenium import webdriver
 from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 from selenium.common.exceptions import NoSuchElementException
 
-TEAM_TO_SCRAPE = 'Kadet Smash Bros'
-if not TEAM_TO_SCRAPE:
-    TEAM_TO_SCRAPE = input('Enter the team to scrape: ')
+TEAM_NAME = 'Kadet Smash Bros'
+if not TEAM_NAME:
+    TEAM_NAME = input('Enter the team name: ')
 
 driver = webdriver.Firefox()
 action_chains = ActionChains(driver)
@@ -33,20 +34,21 @@ driver.find_element(By.CSS_SELECTOR, 'li[data-cy="Spring 2025"]').click()
 driver.implicitly_wait(5)
 
 # Find the team
+action_chains.send_keys(Keys.PAGE_DOWN).perform()
 teams = driver.find_element(By.XPATH, '//p[text()="Overall"]/..//following-sibling::div/*')
-#with open('output.html', 'w', encoding='UTF-8') as f:
-#    f.write(teams.get_attribute('outerHTML'))
-while True:
+while not (team := driver.find_elements(By.XPATH, f'//p[text()="{TEAM_NAME}"]')):
     teams.send_keys(Keys.PAGE_DOWN)
-    try:
-        team = driver.find_element(By.XPATH, f'//p[text()="{TEAM_TO_SCRAPE}"]')
-        break
-    except NoSuchElementException:
-        pass
+time.sleep(.5)
+teams.send_keys(Keys.PAGE_DOWN)
+team[0].click()
 
-with open('output.html', 'w', encoding='UTF-8') as f:
-    f.write(team.get_attribute('outerHTML'))
+time.sleep(1)
+driver.implicitly_wait(5)
 
-team.click()
+# Find their matches
+match_history = driver.find_element(By.CSS_SELECTOR, 'div[data-testid="TeamOverview_MatchHistory"]')
+matches = match_history.find_elements(By.CLASS_NAME, 'li')
+print(matches)
+
 input('press enter to close!')
 driver.close()
