@@ -1,0 +1,76 @@
+[
+    "Kadet Smash Bros",
+    [
+        {
+            "name": "David Basanez",
+            "games": [
+                {
+                    "stage": "Battlefield",
+                    "char": "Cloud",
+                    "opp": "Donkey Kong",
+                    "result": "win"
+                },
+                {
+                    "stage": "Battlefield",
+                    "char": "Cloud",
+                    "opp": "Hero",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "steven Morrison",
+            "games": []
+        },
+        {
+            "name": "Creed Anderson",
+            "games": [
+                {
+                    "stage": "Battlefield",
+                    "char": "Bayonetta",
+                    "opp": "Jigglypuff",
+                    "result": "win"
+                },
+                {
+                    "stage": "Battlefield",
+                    "char": "Bowser Jr.",
+                    "opp": "Jigglypuff",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "David Basanez",
+            "games": [
+                {
+                    "stage": "Battlefield",
+                    "char": "Cloud",
+                    "opp": "Isabelle",
+                    "result": "loss"
+                },
+                {
+                    "stage": "Battlefield",
+                    "char": "Cloud",
+                    "opp": "Isabelle",
+                    "result": "win"
+                },
+                {
+                    "stage": "Battlefield",
+                    "char": "Cloud",
+                    "opp": "Isabelle",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Creed Anderson",
+            "games": []
+        },
+        {
+            "name": "James Phelps",
+            "games": []
+        }
+    ]
+]
