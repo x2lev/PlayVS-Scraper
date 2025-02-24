@@ -1,40 +1,132 @@
 [
-    "Kadet Smash Bros",
+    "DSISD A",
     [
         {
-            "name": "David Basanez",
+            "name": "Cyrus Gonce",
             "games": [
                 {
-                    "stage": "Battlefield",
-                    "char": "Cloud",
-                    "opp": "Donkey Kong",
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Incineroar",
+                    "opp": "Chrom",
                     "result": "win"
                 },
                 {
-                    "stage": "Battlefield",
-                    "char": "Cloud",
-                    "opp": "Hero",
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Incineroar",
+                    "opp": "Cloud",
                     "result": "win"
                 }
             ]
         },
         {
-            "name": "steven Morrison",
-            "games": []
-        },
-        {
-            "name": "Creed Anderson",
+            "name": "Asher Boyce",
             "games": [
                 {
-                    "stage": "Battlefield",
-                    "char": "Bayonetta",
-                    "opp": "Jigglypuff",
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Ridley",
                     "result": "win"
                 },
                 {
-                    "stage": "Battlefield",
-                    "char": "Bowser Jr.",
-                    "opp": "Jigglypuff",
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Wolf",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Dallas Winslow",
+            "games": []
+        }
+    ],
+    [
+        {
+            "name": "Asher Boyce",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "King K. Rool",
+                    "opp": "Sephiroth",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "King K. Rool",
+                    "opp": "Sephiroth",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Dallas Winslow",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Isabelle",
+                    "opp": "Link",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Pyra/Mythra",
+                    "opp": "Link",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Cyrus Gonce",
+            "games": []
+        }
+    ],
+    [
+        {
+            "name": "Asher Boyce",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Small Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Mr. Game & Watch",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Small Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Mr. Game & Watch",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Alfred Matthews",
+            "games": []
+        },
+        {
+            "name": "Sebastian Stucklen",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Cloud",
+                    "opp": "Sora",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Cloud",
+                    "opp": "Sora",
                     "result": "win"
                 }
             ]
@@ -42,35 +134,808 @@
     ],
     [
         {
-            "name": "David Basanez",
+            "name": "Alfred Matthews",
             "games": [
                 {
-                    "stage": "Battlefield",
+                    "season": "Spring 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
                     "char": "Cloud",
+                    "opp": "Pok\u00e9mon Trainer",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Cloud",
+                    "opp": "Pok\u00e9mon Trainer",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Asher Boyce",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "King K. Rool",
+                    "opp": "Kazuya",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "King K. Rool",
+                    "opp": "Kazuya",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "King K. Rool",
+                    "opp": "Greninja",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Sebastian Stucklen",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Dr. Mario",
+                    "opp": "Random",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Dr. Mario",
+                    "opp": "Random",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Asher Boyce",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Kirby",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Kirby",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Sebastian Stucklen",
+            "games": []
+        },
+        {
+            "name": "Alfred Matthews",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Battlefield",
+                    "char": "Roy",
+                    "opp": "Pyra/Mythra",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Battlefield",
+                    "char": "Roy",
+                    "opp": "Young Link",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Sebastian Stucklen",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Pyra/Mythra",
+                    "opp": "Ice Climbers",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Pyra/Mythra",
+                    "opp": "Pyra/Mythra",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Parker Wentworth",
+            "games": []
+        },
+        {
+            "name": "Sebastian Stucklen",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Kazuya",
+                    "opp": "Kirby",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Kazuya",
+                    "opp": "Kirby",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Alfred Matthews",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Incineroar",
+                    "opp": "Cloud",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Incineroar",
+                    "opp": "Cloud",
+                    "result": "loss"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Alfred Matthews",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Town & City",
+                    "char": "Cloud",
+                    "opp": "Meta Knight",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Town & City",
+                    "char": "Cloud",
+                    "opp": "Meta Knight",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Parker Wentworth",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Town & City",
+                    "char": "Kazuya",
+                    "opp": "Pyra/Mythra",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Town & City",
+                    "char": "Byleth",
+                    "opp": "Pyra/Mythra",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Sebastian Stucklen",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Town & City",
+                    "char": "Chrom",
+                    "opp": "Sora",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Town & City",
+                    "char": "Chrom",
+                    "opp": "Link",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Sebastian Stucklen",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Town & City",
+                    "char": "Roy",
+                    "opp": "Mii Brawler",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Town & City",
+                    "char": "Roy",
+                    "opp": "Mii Gunner",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Parker Wentworth",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Smashville",
+                    "char": "Byleth",
+                    "opp": "Donkey Kong",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Smashville",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Donkey Kong",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Sebastian Stucklen",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Smashville",
+                    "char": "Ike",
+                    "opp": "Bowser Jr.",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Smashville",
+                    "char": "Ike",
+                    "opp": "Bowser Jr.",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Smashville",
+                    "char": "Ike",
+                    "opp": "Bowser Jr.",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Alfred Matthews",
+            "games": []
+        }
+    ],
+    [
+        {
+            "name": "Parker Wentworth",
+            "games": []
+        },
+        {
+            "name": "Sebastian Stucklen",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Cloud",
+                    "opp": "Pikachu",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Pikachu",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Alfred Matthews",
+            "games": []
+        }
+    ],
+    [
+        {
+            "name": "Sebastian Stucklen",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Battlefield",
+                    "char": "Fox",
+                    "opp": "Piranha Plant",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Battlefield",
+                    "char": "Samus",
+                    "opp": "Piranha Plant",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Battlefield",
+                    "char": "Samus",
+                    "opp": "Piranha Plant",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Parker Wentworth",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Battlefield",
+                    "char": "Byleth",
+                    "opp": "Mr. Game & Watch",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Battlefield",
+                    "char": "Byleth",
+                    "opp": "Mr. Game & Watch",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Battlefield",
+                    "char": "Byleth",
+                    "opp": "Mr. Game & Watch",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Martin Romero-Valadez",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Battlefield",
+                    "char": "Joker",
+                    "opp": "Mr. Game & Watch",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Battlefield",
+                    "char": "Joker",
+                    "opp": "Mr. Game & Watch",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Martin Romero-Valadez",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Battlefield",
+                    "char": "Joker",
+                    "opp": "Piranha Plant",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Battlefield",
+                    "char": "Joker",
+                    "opp": "Piranha Plant",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Sebastian Stucklen",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Battlefield",
+                    "char": "Fox",
+                    "opp": "Kirby",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Battlefield",
+                    "char": "Fox",
+                    "opp": "Kirby",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Sebastian Stucklen",
+            "games": []
+        },
+        {
+            "name": "Martin Romero-Valadez",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Smashville",
+                    "char": "Fox",
                     "opp": "Isabelle",
                     "result": "loss"
                 },
                 {
-                    "stage": "Battlefield",
-                    "char": "Cloud",
+                    "season": "Fall 2023",
+                    "stage": "Smashville",
+                    "char": "Fox",
                     "opp": "Isabelle",
                     "result": "win"
                 },
                 {
-                    "stage": "Battlefield",
-                    "char": "Cloud",
+                    "season": "Fall 2023",
+                    "stage": "Smashville",
+                    "char": "Fox",
                     "opp": "Isabelle",
                     "result": "win"
                 }
             ]
         },
         {
-            "name": "Creed Anderson",
+            "name": "Parker Wentworth",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Smashville",
+                    "char": "Joker",
+                    "opp": "Sephiroth",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Smashville",
+                    "char": "Joker",
+                    "opp": "Sephiroth",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Smashville",
+                    "char": "Joker",
+                    "opp": "Sephiroth",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Sebastian Stucklen",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Battlefield",
+                    "char": "Fox",
+                    "opp": "Inkling",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Battlefield",
+                    "char": "Fox",
+                    "opp": "Snake",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Parker Wentworth",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Battlefield",
+                    "char": "Byleth",
+                    "opp": "R.O.B.",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Battlefield",
+                    "char": "Byleth",
+                    "opp": "R.O.B.",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Battlefield",
+                    "char": "Byleth",
+                    "opp": "R.O.B.",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Parker Wentworth",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Battlefield",
+                    "char": "Byleth",
+                    "opp": "R.O.B.",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Battlefield",
+                    "char": "Wolf",
+                    "opp": "R.O.B.",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Sebastian Stucklen",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Battlefield",
+                    "char": "Fox",
+                    "opp": "Wolf",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Battlefield",
+                    "char": "Fox",
+                    "opp": "Snake",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Martin Romero-Valadez",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Battlefield",
+                    "char": "Joker",
+                    "opp": "Pikachu",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Battlefield",
+                    "char": "Joker",
+                    "opp": "Pikachu",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Battlefield",
+                    "char": "Joker",
+                    "opp": "Pikachu",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Sebastian Stucklen",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Smashville",
+                    "char": "Pyra/Mythra",
+                    "opp": "King K. Rool",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Smashville",
+                    "char": "Pyra/Mythra",
+                    "opp": "King K. Rool",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Sebastian Stucklen",
             "games": []
         },
         {
-            "name": "James Phelps",
+            "name": "Parker Wentworth",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Smashville",
+                    "char": "Roy",
+                    "opp": "Pyra/Mythra",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Smashville",
+                    "char": "Roy",
+                    "opp": "Pyra/Mythra",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Martin Romero-Valadez",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Smashville",
+                    "char": "Kazuya",
+                    "opp": "Byleth",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Smashville",
+                    "char": "Kazuya",
+                    "opp": "Byleth",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Parker Wentworth",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "MakoMart",
+                    "char": "Joker",
+                    "opp": "Joker",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "MakoMart",
+                    "char": "Kazuya",
+                    "opp": "Kazuya",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Sebastian Stucklen",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "MakoMart",
+                    "char": "Incineroar",
+                    "opp": "Bowser",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "MakoMart",
+                    "char": "Incineroar",
+                    "opp": "Incineroar",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Martin Romero-Valadez",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "MakoMart",
+                    "char": "Piranha Plant",
+                    "opp": "Piranha Plant",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "MakoMart",
+                    "char": "Kirby",
+                    "opp": "Kirby",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Sebastian Stucklen",
             "games": []
+        },
+        {
+            "name": "Martin Romero-Valadez",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Smashville",
+                    "char": "Incineroar",
+                    "opp": "King Dedede",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Smashville",
+                    "char": "Incineroar",
+                    "opp": "King Dedede",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Smashville",
+                    "char": "King K. Rool",
+                    "opp": "King Dedede",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Parker Wentworth",
+            "games": []
+        }
+    ],
+    [
+        {
+            "name": "Martin Romero-Valadez",
+            "games": []
+        },
+        {
+            "name": "Parker Wentworth",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Battlefield",
+                    "char": "Joker",
+                    "opp": "Mega Man",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Sebastian Stucklen",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Battlefield",
+                    "char": "Byleth",
+                    "opp": "Bowser",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Battlefield",
+                    "char": "Byleth",
+                    "opp": "Bowser Jr.",
+                    "result": "win"
+                }
+            ]
         }
     ]
 ]
