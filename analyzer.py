@@ -29,23 +29,29 @@ for match in data:
             players[name]['char'][char][result] += 1
             players[name]['opp'][opp][result] += 1
 
+lines = []
 for name, player in players.items():
-    print(f'\n{name}')
-    print('  Position')
+    lines.append(f'\n{name}')
+    lines.append('  Position')
     for i in range(5):
-        print(f'    {i+1}: {player['pos'][i]} game(s)')
-    print('  Stages')
+        lines.append(f'    {i+1}: {player['pos'][i]} series')
+    lines.append('  Stages')
     for stage, results in player['stage'].items():
         w = results['win']
         t = results['win'] + results['loss']
-        print(f'    {stage}: {t} game(s), {round(w/t, 4)*100}% win rate')
-    print('  Characters')
+        lines.append(f'    {stage}: {t} game(s), {round(w/t, 4)*100}% win rate')
+    lines.append('  Characters')
     for char, results in player['char'].items():
         w = results['win']
         t = results['win'] + results['loss']
-        print(f'    {char}: {t} game(s), {round(w/t, 4)*100}% win rate')
-    print('  Opponents')
+        lines.append(f'    {char}: {t} game(s), {round(w/t, 4)*100}% win rate')
+    lines.append('  Opponents')
     for opp, results in player['opp'].items():
         w = results['win']
         t = results['win'] + results['loss']
-        print(f'    {opp}: {t} game(s), {round(w/t, 4)*100}% win rate')
+        lines.append(f'    {opp}: {t} game(s), {round(w/t, 4)*100}% win rate')
+
+print('\n'.join(lines))
+
+with open('output', 'w', encoding='UTF-8') as f:
+    f.write('\n'.join(lines))

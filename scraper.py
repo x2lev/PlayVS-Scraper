@@ -4,6 +4,10 @@ from selenium import webdriver
 from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
+from selenium.common.exceptions import ElementClickInterceptedException, NoSuchElementException
+
+TEAM_URL = ''#'https://app.playvs.com/app/team/76862a5c-caec-48a8-ae2d-7793d54bf037'
+STANDINGS_URL = 'https://app.playvs.com/app/standings'
 
 TEAM_NAME = 'Kadet Smash Bros'
 if not TEAM_NAME:
@@ -11,7 +15,7 @@ if not TEAM_NAME:
 
 driver = webdriver.Firefox()
 action_chains = ActionChains(driver)
-driver.get('https://app.playvs.com/app/standings')
+driver.get(TEAM_URL if TEAM_URL else STANDINGS_URL)
 
 driver.implicitly_wait(5)
 
@@ -25,26 +29,34 @@ driver.find_element(By.CSS_SELECTOR, 'button[type="submit"]').click()
 
 driver.implicitly_wait(5)
 
-# Go to Smash Standings
-driver.find_element(By.XPATH, '//p[contains(text(),"League of Legends")]').click()
-driver.find_element(By.XPATH, '//p[contains(text(),"Super Smash Bros")]').click()
-driver.find_element(By.XPATH, '//p[contains(text(), "Spring") or contains(text(), "Fall")]').click()
-driver.find_element(By.CSS_SELECTOR, 'li[data-cy="Spring 2025"]').click()
+if not TEAM_URL:
+    # Go to Smash Standings
+    driver.find_element(By.XPATH, '//p[contains(text(),"League of Legends")]').click()
+    driver.find_element(By.XPATH, '//p[contains(text(),"Super Smash Bros")]').click()
+    driver.find_element(By.XPATH, '//p[contains(text(), "Spring") or contains(text(), "Fall")]').click()
+    driver.find_element(By.CSS_SELECTOR, 'li[data-cy="Spring 2025"]').click()
 
-driver.implicitly_wait(5)
+    driver.implicitly_wait(5)
 
-# Find the team
-action_chains.send_keys(Keys.PAGE_DOWN).perform()
-teams = driver.find_element(By.XPATH, '//p[text()="Overall"]/..//following-sibling::div/*')
-while not (team := driver.find_elements(By.XPATH, f'//p[text()="{TEAM_NAME}"]')):
-    teams.send_keys(Keys.PAGE_DOWN)
-time.sleep(.5)
-teams.send_keys(Keys.PAGE_DOWN)
-team[0].click()
+    # Find the team
+    action_chains.send_keys(Keys.PAGE_DOWN).send_keys(Keys.PAGE_DOWN).perform()
+    team = []
+    while True:
+        teams = driver.find_element(By.XPATH, '//p[text()="Overall"]/..//following-sibling::div/*')
+        try:
+            team = teams.find_element(By.XPATH, f'//p[text()="{TEAM_NAME}"]')
+            try:
+                time.sleep(0.5)
+                team.click()
+                break
+            except ElementClickInterceptedException:
+                teams.send_keys(Keys.ARROW_DOWN)
+        except NoSuchElementException:
+            teams.send_keys(Keys.PAGE_DOWN)
 
-time.sleep(1)
-driver.implicitly_wait(5)
-driver.switch_to.window(driver.window_handles[1])
+    driver.implicitly_wait(5)
+    driver.close()
+    driver.switch_to.window(driver.window_handles[0])
 
 # Find their matches
 match_history = driver.find_element(By.CSS_SELECTOR, 'div[data-testid="TeamOverview_MatchHistory"]')
@@ -56,10 +68,10 @@ for match in matches:
     data.append([])
     match.find_element(By.CSS_SELECTOR, 'img').click()
 
-    time.sleep(2)
+    time.sleep(4)
     driver.implicitly_wait(5)
-
-    driver.switch_to.window(driver.window_handles[2])
+    
+    driver.switch_to.window(driver.window_handles[1])
     banner = driver.find_element(By.CSS_SELECTOR,
                                  'div[data-testid="NxEsportBanner__TextContainer"]')
     is_home = banner.find_element(By.CSS_SELECTOR, 'span').text == TEAM_NAME
@@ -95,8 +107,12 @@ for match in matches:
             names = [t for t in texts if all(x.isalpha() or x.isspace() for x in t)]
             data[-1][-1]['name'] = names[0 if is_home else 1]
             data[-1][-1]['games'] = []
-    driver.switch_to.window(driver.window_handles[1])
-driver.close()
+    driver.switch_to.window(driver.window_handles[0])
+
+windows = len(driver.window_handles)
+for i in range(windows):
+    driver.switch_to.window(driver.window_handles[0])
+    driver.close()
 
 with open('data.json', 'w', encoding='UTF-8') as f:
     f.write(json.dumps(data, indent=4))
