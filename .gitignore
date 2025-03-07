@@ -1,8 +1,8 @@
 # Manually added
 login
 output.html
-data.json
 .vscode
+history/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

@@ -1,6 +1,8 @@
 import json
 
-with open('data.json', 'r', encoding='UTF-8') as f:
+TEAM_NAME = 'Creek Smash Red Team'
+
+with open(f'{TEAM_NAME}.json', 'r', encoding='UTF-8') as f:
     data = json.loads(f.read())
 
 lines = []
@@ -45,19 +47,19 @@ for name, player in sorted(players.items(), key=lambda t: list(t)[0]):
         for stage, results in sorted(player['stage'].items(), key=lambda t: list(t)[1]['win'] + list(t)[1]['loss'], reverse=True):
             w = results['win']
             t = results['win'] + results['loss']
-            lines.append(f'    {stage}: {t} game(s), {round(w/t, 4)*100}% win rate')
+            lines.append(f'    {stage}: {t} game(s), {round(w/t*100, 2)}% win rate')
         lines.append('  Characters')
         for char, results in sorted(player['char'].items(), key=lambda t: list(t)[1]['win'] + list(t)[1]['loss'], reverse=True):
             w = results['win']
             t = results['win'] + results['loss']
-            lines.append(f'    {char}: {t} game(s), {round(w/t, 4)*100}% win rate')
+            lines.append(f'    {char}: {t} game(s), {round(w/t*100, 2)}% win rate')
         lines.append('  Opponents')
         for opp, results in sorted(player['opp'].items(), key=lambda t: list(t)[1]['win'] + list(t)[1]['loss'], reverse=True):
             w = results['win']
             t = results['win'] + results['loss']
-            lines.append(f'    {opp}: {t} game(s), {round(w/t, 4)*100}% win rate')
+            lines.append(f'    {opp}: {t} game(s), {round(w/t*100, 2)}% win rate')
 
 print('\n'.join(lines))
 
-with open('output', 'w', encoding='UTF-8') as f:
+with open(f'formatted_data/{TEAM_NAME}', 'w', encoding='UTF-8') as f:
     f.write('\n'.join(lines))

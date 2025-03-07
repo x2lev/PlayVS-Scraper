@@ -6,10 +6,10 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 from selenium.common.exceptions import ElementClickInterceptedException, NoSuchElementException
 
-TEAM_URL = ''#'https://app.playvs.com/app/team/d52bebba-87a6-439f-b299-7ab951a01968'
+TEAM_URL = ''#'https://app.playvs.com/app/match/07466470-0c70-441c-b7d9-7baf5b0f1f46/mission-control'
 STANDINGS_URL = 'https://app.playvs.com/app/standings'
 
-TEAM_NAME = 'DSISD A'
+TEAM_NAME = 'Creek Smash Red Team'
 if not TEAM_NAME:
     TEAM_NAME = input('Enter the team name: ')
 
@@ -21,6 +21,14 @@ driver.implicitly_wait(5)
 
 # Login
 driver.find_element(By.CSS_SELECTOR, 'button[aria-label="Close"]').click()
+'''
+time.sleep(1)
+try:
+    driver.find_element(By.CSS_SELECTOR, 'p[data-cy="Sign In"]').click()
+except NoSuchElementException:
+    pass
+'''
+driver.implicitly_wait(5)
 with open('login', 'r', encoding='UTF-8') as f:
     email, password = f.readlines()
     driver.find_element(By.NAME, 'email').send_keys(email)
@@ -33,8 +41,10 @@ if not TEAM_URL:
     # Go to Smash Standings
     driver.find_element(By.XPATH, '//p[contains(text(),"League of Legends")]').click()
     driver.find_element(By.XPATH, '//p[contains(text(),"Super Smash Bros")]').click()
-    driver.find_element(By.XPATH, '//p[contains(text(), "Spring") or contains(text(), "Fall")]').click()
-    driver.find_element(By.XPATH, '//p[text()="Spring 2025"]').click()
+
+    if not driver.find_elements(By.XPATH, '//p[text()="Spring 2025"]'):
+        driver.find_element(By.XPATH, '//p[contains(text(), "Spring") or contains(text(), "Fall")]').click()
+        driver.find_element(By.XPATH, '//p[text()="Spring 2025"]').click()
 
     driver.implicitly_wait(5)
 
@@ -75,7 +85,7 @@ def scrape_matches(s):
         try:
             match.find_element(By.CSS_SELECTOR, 'img').click()
             data.append([])
-            time.sleep(4)
+            time.sleep(5)
             driver.implicitly_wait(5)
 
             driver.switch_to.window(driver.window_handles[1])
@@ -152,5 +162,5 @@ for i in range(1, len(seasons)):
         scrape_matches(seasons[i])
 driver.close()
 
-with open('data.json', 'w', encoding='UTF-8') as f:
+with open(f'match_data/{TEAM_NAME}.json', 'w', encoding='UTF-8') as f:
     f.write(json.dumps(data, indent=4))
