@@ -1,0 +1,3011 @@
+[
+    "ACHS Varsity",
+    [
+        {
+            "name": "Polo Rodriguez",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Donkey Kong",
+                    "opp": "Kirby",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Donkey Kong",
+                    "opp": "Captain Falcon",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Brandon Palma",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Diddy Kong",
+                    "opp": "Luigi",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Diddy Kong",
+                    "opp": "Hero",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Diddy Kong",
+                    "opp": "Hero",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Devyn Maloy",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Sora",
+                    "opp": "Cloud",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Sora",
+                    "opp": "Cloud",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Sora",
+                    "opp": "Cloud",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Devyn Maloy",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Steve",
+                    "opp": "Toon Link",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Steve",
+                    "opp": "Yoshi",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Brandon Palma",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Diddy Kong",
+                    "opp": "Terry",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Diddy Kong",
+                    "opp": "Bowser Jr.",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Polo Rodriguez",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Donkey Kong",
+                    "opp": "Wolf",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Donkey Kong",
+                    "opp": "Ness",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Polo Rodriguez",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Donkey Kong",
+                    "opp": "Hero",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Donkey Kong",
+                    "opp": "Hero",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Brandon Palma",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Diddy Kong",
+                    "opp": "Joker",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Diddy Kong",
+                    "opp": "Joker",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Diddy Kong",
+                    "opp": "Joker",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Devyn Maloy",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Steve",
+                    "opp": "Ness",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Steve",
+                    "opp": "Ness",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Devyn Maloy",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Sora",
+                    "opp": "Pyra/Mythra",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Sora",
+                    "opp": "Pyra/Mythra",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Polo Rodriguez",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Donkey Kong",
+                    "opp": "Cloud",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Donkey Kong",
+                    "opp": "Samus",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Brandon Palma",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Diddy Kong",
+                    "opp": "Little Mac",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Diddy Kong",
+                    "opp": "Little Mac",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Brandon Palma",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Diddy Kong",
+                    "opp": "Sephiroth",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Diddy Kong",
+                    "opp": "Ridley",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Devyn Maloy",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Sora",
+                    "opp": "Steve",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Steve",
+                    "opp": "Steve",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Polo Rodriguez",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Donkey Kong",
+                    "opp": "Bowser Jr.",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Donkey Kong",
+                    "opp": "Pok\u00e9mon Trainer",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Devyn Maloy",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Smashville",
+                    "char": "Sora",
+                    "opp": "Corrin",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Smashville",
+                    "char": "Sora",
+                    "opp": "Corrin",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Smashville",
+                    "char": "Sora",
+                    "opp": "Corrin",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Polo Rodriguez",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Smashville",
+                    "char": "Incineroar",
+                    "opp": "Isabelle",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Smashville",
+                    "char": "Incineroar",
+                    "opp": "Isabelle",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Brandon Palma",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Smashville",
+                    "char": "Diddy Kong",
+                    "opp": "Dark Pit",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Smashville",
+                    "char": "Diddy Kong",
+                    "opp": "Luigi",
+                    "result": "loss"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Polo Rodriguez",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Incineroar",
+                    "opp": "Donkey Kong",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Incineroar",
+                    "opp": "Donkey Kong",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Incineroar",
+                    "opp": "Donkey Kong",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Brandon Palma",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Diddy Kong",
+                    "opp": "Sephiroth",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Diddy Kong",
+                    "opp": "Sephiroth",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Devyn Maloy",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Steve",
+                    "opp": "Snake",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Steve",
+                    "opp": "Snake",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Brandon Palma",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Diddy Kong",
+                    "opp": "Donkey Kong",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Diddy Kong",
+                    "opp": "Donkey Kong",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Diddy Kong",
+                    "opp": "Donkey Kong",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Polo Rodriguez",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Incineroar",
+                    "opp": "Sephiroth",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Incineroar",
+                    "opp": "Sephiroth",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Incineroar",
+                    "opp": "Sephiroth",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Brandon Palma",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Diddy Kong",
+                    "opp": "Little Mac",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Diddy Kong",
+                    "opp": "Captain Falcon",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Polo Rodriguez",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Incineroar",
+                    "opp": "Mega Man",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Incineroar",
+                    "opp": "Ganondorf",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Incineroar",
+                    "opp": "Ganondorf",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Devyn Maloy",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Sora",
+                    "opp": "Pyra/Mythra",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Sora",
+                    "opp": "Pyra/Mythra",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Brandon Palma",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Diddy Kong",
+                    "opp": "Captain Falcon",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Diddy Kong",
+                    "opp": "Little Mac",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Polo Rodriguez",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Incineroar",
+                    "opp": "Zelda",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Incineroar",
+                    "opp": "Zelda",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Incineroar",
+                    "opp": "Zelda",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Brandon Palma",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Diddy Kong",
+                    "opp": "Bayonetta",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Diddy Kong",
+                    "opp": "Bayonetta",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Devyn Maloy",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Sora",
+                    "opp": "Byleth",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Sora",
+                    "opp": "Byleth",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Sora",
+                    "opp": "Byleth",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Brandon Palma",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Diddy Kong",
+                    "opp": "Byleth",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Diddy Kong",
+                    "opp": "Marth",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Polo Rodriguez",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Smashville",
+                    "char": "Incineroar",
+                    "opp": "Captain Falcon",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Smashville",
+                    "char": "Incineroar",
+                    "opp": "Captain Falcon",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Brandon Palma",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Smashville",
+                    "char": "Diddy Kong",
+                    "opp": "Steve",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Devyn Maloy",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Smashville",
+                    "char": "Sora",
+                    "opp": "Zelda",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Brandon Palma",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Smashville",
+                    "char": "Diddy Kong",
+                    "opp": "Captain Falcon",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Brandon Palma",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Fox",
+                    "opp": "Pok\u00e9mon Trainer",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Fox",
+                    "opp": "Sora",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Polo Rodriguez",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Incineroar",
+                    "opp": "Captain Falcon",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Incineroar",
+                    "opp": "Ganondorf",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Devyn Maloy",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Sora",
+                    "opp": "Terry",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Sora",
+                    "opp": "Terry",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Brandon Palma",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Ness",
+                    "opp": "Piranha Plant",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Ness",
+                    "opp": "Piranha Plant",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Devyn Maloy",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Sora",
+                    "opp": "Terry",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Steve",
+                    "opp": "Terry",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Steve",
+                    "opp": "Terry",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Polo Rodriguez",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Incineroar",
+                    "opp": "Donkey Kong",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Incineroar",
+                    "opp": "Diddy Kong",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Brandon Palma",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Falco",
+                    "opp": "Terry",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Falco",
+                    "opp": "Terry",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Falco",
+                    "opp": "Terry",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Brandon Palma",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Rosalina & Luma",
+                    "opp": "Captain Falcon",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Rosalina & Luma",
+                    "opp": "Captain Falcon",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Polo Rodriguez",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Donkey Kong",
+                    "opp": "Min Min",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Sonic",
+                    "opp": "Min Min",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Incineroar",
+                    "opp": "Min Min",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Devyn Maloy",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Steve",
+                    "opp": "Kirby",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Steve",
+                    "opp": "Toon Link",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Brandon Palma",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Falco",
+                    "opp": "Joker",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Falco",
+                    "opp": "Joker",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Devyn Maloy",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Sora",
+                    "opp": "Bayonetta",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Steve",
+                    "opp": "Bayonetta",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Polo Rodriguez",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Incineroar",
+                    "opp": "Zelda",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Incineroar",
+                    "opp": "Zelda",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Alejandro Rodriguez Espinoza",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Corrin",
+                    "opp": "Byleth",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Banjo & Kazooie",
+                    "opp": "Byleth",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Polo Rodriguez",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Incineroar",
+                    "opp": "Bayonetta",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Incineroar",
+                    "opp": "Bayonetta",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Incineroar",
+                    "opp": "Bayonetta",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Alejandro Rodriguez Espinoza",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Corrin",
+                    "opp": "Zelda",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Ike",
+                    "opp": "Zelda",
+                    "result": "loss"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Polo Rodriguez",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Incineroar",
+                    "opp": "Hero",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Incineroar",
+                    "opp": "Mario",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Alejandro Rodriguez Espinoza",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Byleth",
+                    "opp": "Pit",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Kirby",
+                    "opp": "Pit",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Jigglypuff",
+                    "opp": "Ness",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Devyn Maloy",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Corrin",
+                    "opp": "Mr. Game & Watch",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Corrin",
+                    "opp": "Yoshi",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Polo Rodriguez",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Incineroar",
+                    "opp": "Bayonetta",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Donkey Kong",
+                    "opp": "King Dedede",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Devyn Maloy",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Sora",
+                    "opp": "Wario",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Sora",
+                    "opp": "Wario",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Sora",
+                    "opp": "Wario",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Alejandro Rodriguez Espinoza",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Ike",
+                    "opp": "Greninja",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Corrin",
+                    "opp": "Lucario",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "kaden detreville",
+            "games": []
+        },
+        {
+            "name": "Alejandro Rodriguez Espinoza",
+            "games": []
+        },
+        {
+            "name": "Polo Rodriguez",
+            "games": []
+        }
+    ],
+    [
+        {
+            "name": "Luis Flores Cereceres",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Fox",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Wolf",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Brandon Palma",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Rosalina & Luma",
+                    "opp": "Mewtwo",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Rosalina & Luma",
+                    "opp": "Mewtwo",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Devyn Maloy",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Steve",
+                    "opp": "R.O.B.",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Steve",
+                    "opp": "R.O.B.",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Brandon Palma",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Rosalina & Luma",
+                    "opp": "Fox",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Rosalina & Luma",
+                    "opp": "Sephiroth",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Rosalina & Luma",
+                    "opp": "Sephiroth",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Luis Flores Cereceres",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Mr. Game & Watch",
+                    "opp": "R.O.B.",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Mr. Game & Watch",
+                    "opp": "R.O.B.",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Mr. Game & Watch",
+                    "opp": "R.O.B.",
+                    "result": "loss"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Brandon Palma",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Rosalina & Luma",
+                    "opp": "Pyra/Mythra",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Rosalina & Luma",
+                    "opp": "Ice Climbers",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Rosalina & Luma",
+                    "opp": "Ice Climbers",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Devyn Maloy",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Steve",
+                    "opp": "Banjo & Kazooie",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Steve",
+                    "opp": "Young Link",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Luis Flores Cereceres",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Cloud",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Cloud",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Cloud",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Luis Flores Cereceres",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Sonic",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Pyra/Mythra",
+                    "opp": "Sonic",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Pyra/Mythra",
+                    "opp": "Palutena",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Brandon Palma",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Falco",
+                    "opp": "Cloud",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Rosalina & Luma",
+                    "opp": "Cloud",
+                    "result": "loss"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Devyn Maloy",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Battlefield",
+                    "char": "Steve",
+                    "opp": "Joker",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Battlefield",
+                    "char": "Steve",
+                    "opp": "Joker",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Battlefield",
+                    "char": "Steve",
+                    "opp": "Joker",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Luis Flores Cereceres",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Battlefield",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Captain Falcon",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Battlefield",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Captain Falcon",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Brandon Palma",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Battlefield",
+                    "char": "Rosalina & Luma",
+                    "opp": "Little Mac",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Battlefield",
+                    "char": "Rosalina & Luma",
+                    "opp": "Little Mac",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Luis Flores Cereceres",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Battlefield",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Joker",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Battlefield",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Joker",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Brandon Palma",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Battlefield",
+                    "char": "Rosalina & Luma",
+                    "opp": "Incineroar",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Battlefield",
+                    "char": "Rosalina & Luma",
+                    "opp": "Corrin",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Battlefield",
+                    "char": "Falco",
+                    "opp": "Corrin",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Luis Flores Cereceres",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Battlefield",
+                    "char": "Pyra/Mythra",
+                    "opp": "Greninja",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Battlefield",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Greninja",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Battlefield",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Joker",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Kendall Matthews",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Battlefield",
+                    "char": "Samus",
+                    "opp": "Meta Knight",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Battlefield",
+                    "char": "Samus",
+                    "opp": "Meta Knight",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Brandon Palma",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Battlefield",
+                    "char": "Falco",
+                    "opp": "Greninja",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Battlefield",
+                    "char": "Rosalina & Luma",
+                    "opp": "Greninja",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Battlefield",
+                    "char": "Rosalina & Luma",
+                    "opp": "Greninja",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Luis Flores Cereceres",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Battlefield",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Incineroar",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Battlefield",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Incineroar",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Battlefield",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Incineroar",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Brandon Palma",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Battlefield",
+                    "char": "Rosalina & Luma",
+                    "opp": "Joker",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Battlefield",
+                    "char": "Rosalina & Luma",
+                    "opp": "Isabelle",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Luis Flores Cereceres",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Battlefield",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Falco",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Battlefield",
+                    "char": "Pyra/Mythra",
+                    "opp": "Falco",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Devyn Maloy",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Battlefield",
+                    "char": "Steve",
+                    "opp": "King K. Rool",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Battlefield",
+                    "char": "Steve",
+                    "opp": "King K. Rool",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Battlefield",
+                    "char": "Steve",
+                    "opp": "King K. Rool",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Luis Flores Cereceres",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Battlefield",
+                    "char": "Mr. Game & Watch",
+                    "opp": "King K. Rool",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Battlefield",
+                    "char": "Mr. Game & Watch",
+                    "opp": "King K. Rool",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Brandon Palma",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Town & City",
+                    "char": "Rosalina & Luma",
+                    "opp": "Sora",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Town & City",
+                    "char": "Rosalina & Luma",
+                    "opp": "Sora",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Luis Flores Cereceres",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Town & City",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Hero",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Town & City",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Hero",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Town & City",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Hero",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Kendall Matthews",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Town & City",
+                    "char": "Samus",
+                    "opp": "Joker",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Town & City",
+                    "char": "Samus",
+                    "opp": "Joker",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Luis Flores Cereceres",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Town & City",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Sora",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Town & City",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Sora",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Town & City",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Sora",
+                    "result": "loss"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Brandon Palma",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Falco",
+                    "opp": "Kazuya",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Corrin",
+                    "opp": "Bowser",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Devyn Maloy",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Steve",
+                    "opp": "Diddy Kong",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Steve",
+                    "opp": "Diddy Kong",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Luis Flores Cereceres",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Piranha Plant",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Wolf",
+                    "opp": "Piranha Plant",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Luis Flores Cereceres",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Mr. Game & Watch",
+                    "opp": "King K. Rool",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Mr. Game & Watch",
+                    "opp": "King K. Rool",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Brandon Palma",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Falco",
+                    "opp": "Mr. Game & Watch",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Falco",
+                    "opp": "Mr. Game & Watch",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Kendall Matthews",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Samus",
+                    "opp": "Mewtwo",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Samus",
+                    "opp": "Mewtwo",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Brandon Palma",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Falco",
+                    "opp": "Joker",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Falco",
+                    "opp": "Joker",
+                    "result": "loss"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Kendall Matthews",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Samus",
+                    "opp": "Kazuya",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Samus",
+                    "opp": "Joker",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Samus",
+                    "opp": "Joker",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Brandon Palma",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Falco",
+                    "opp": "Pyra/Mythra",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Falco",
+                    "opp": "Falco",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Luis Flores Cereceres",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Joker",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Byleth",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Luis Flores Cereceres",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Lucas",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Lucas",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Brandon Palma",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Falco",
+                    "opp": "R.O.B.",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Falco",
+                    "opp": "Fox",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Falco",
+                    "opp": "R.O.B.",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Kendall Matthews",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Steve",
+                    "opp": "Mewtwo",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Sora",
+                    "opp": "Mewtwo",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Luis Flores Cereceres",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Mr. Game & Watch",
+                    "opp": "R.O.B.",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Cloud",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Luis Flores Cereceres",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Yoshi",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Yoshi",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Brandon Palma",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Falco",
+                    "opp": "Kirby",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Falco",
+                    "opp": "Kirby",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Kendall Matthews",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Samus",
+                    "opp": "Ken",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Samus",
+                    "opp": "Ken",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Brandon Palma",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Falco",
+                    "opp": "Kirby",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Falco",
+                    "opp": "Kirby",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Luis Flores Cereceres",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Town & City",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Pyra/Mythra",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Town & City",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Pyra/Mythra",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Kendall Matthews",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Town & City",
+                    "char": "Samus",
+                    "opp": "Ness",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Town & City",
+                    "char": "Samus",
+                    "opp": "Ness",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Town & City",
+                    "char": "Samus",
+                    "opp": "Ness",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Rustic",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Town & City",
+                    "char": "Falco",
+                    "opp": "King K. Rool",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Town & City",
+                    "char": "Falco",
+                    "opp": "King K. Rool",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Luis Flores Cereceres",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Town & City",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Ness",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Town & City",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Ness",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Luis Flores Cereceres",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Final Destination",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Sephiroth",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Brandon Palma",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Final Destination",
+                    "char": "Falco",
+                    "opp": "Banjo & Kazooie",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Andres Garcia",
+            "games": []
+        },
+        {
+            "name": "Andres Garcia",
+            "games": []
+        }
+    ],
+    [
+        {
+            "name": "Luis Flores Cereceres",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Donkey Kong",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Pyra/Mythra",
+                    "opp": "Donkey Kong",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Andres Garcia",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Simon",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Lucas",
+                    "opp": "Simon",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Brandon Palma",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Falco",
+                    "opp": "Byleth",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Falco",
+                    "opp": "Byleth",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Falco",
+                    "opp": "Wii Fit Trainer",
+                    "result": "loss"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Andres Garcia",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Greninja",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Lucas",
+                    "opp": "Falco",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Brandon Palma",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Falco",
+                    "opp": "Donkey Kong",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Falco",
+                    "opp": "R.O.B.",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Luis Flores Cereceres",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Samus",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Samus",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Brandon Palma",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Falco",
+                    "opp": "Ridley",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Falco",
+                    "opp": "Cloud",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Luis Flores Cereceres",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Cloud",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Cloud",
+                    "result": "loss"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Andres Garcia",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Kirby",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Lucas",
+                    "opp": "Kirby",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Luis Flores Cereceres",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Zelda",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Zelda",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Zelda",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Brandon Palma",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Falco",
+                    "opp": "Joker",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Falco",
+                    "opp": "Ice Climbers",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Falco",
+                    "opp": "Ice Climbers",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Luis Flores Cereceres",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Kirby",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Steve",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Steve",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Luis Flores Cereceres",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Smashville",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Kazuya",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Smashville",
+                    "char": "Pyra/Mythra",
+                    "opp": "Kazuya",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Andres Garcia",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Smashville",
+                    "char": "Lucas",
+                    "opp": "Fox",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Smashville",
+                    "char": "Lucas",
+                    "opp": "Pok\u00e9mon Trainer",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Brandon Palma",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Smashville",
+                    "char": "Falco",
+                    "opp": "Incineroar",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Smashville",
+                    "char": "R.O.B.",
+                    "opp": "Incineroar",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Luis Flores Cereceres",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Smashville",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Kazuya",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Smashville",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Kazuya",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Brandon Palma",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Smashville",
+                    "char": "Falco",
+                    "opp": "Lucas",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Smashville",
+                    "char": "Falco",
+                    "opp": "Fox",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Ham",
+            "games": [
+                {
+                    "season": "Spring 2023",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Fox",
+                    "opp": "Piranha Plant",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2023",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Fox",
+                    "opp": "Piranha Plant",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Kendall Matthews",
+            "games": [
+                {
+                    "season": "Spring 2023",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Samus",
+                    "opp": "Bowser Jr.",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2023",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Samus",
+                    "opp": "Bowser Jr.",
+                    "result": "loss"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Brandon Palma",
+            "games": [
+                {
+                    "season": "Spring 2023",
+                    "stage": "Battlefield",
+                    "char": "Samus",
+                    "opp": "Terry",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2023",
+                    "stage": "Battlefield",
+                    "char": "Samus",
+                    "opp": "Terry",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2023",
+                    "stage": "Battlefield",
+                    "char": "Samus",
+                    "opp": "Terry",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Kendall Matthews",
+            "games": [
+                {
+                    "season": "Spring 2023",
+                    "stage": "Battlefield",
+                    "char": "Fox",
+                    "opp": "Kazuya",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2023",
+                    "stage": "Battlefield",
+                    "char": "Fox",
+                    "opp": "Kazuya",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Brandon Palma",
+            "games": [
+                {
+                    "season": "Spring 2023",
+                    "stage": "Battlefield",
+                    "char": "Samus",
+                    "opp": "Byleth",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2023",
+                    "stage": "Battlefield",
+                    "char": "Samus",
+                    "opp": "Marth",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Kendall Matthews",
+            "games": [
+                {
+                    "season": "Spring 2023",
+                    "stage": "Battlefield",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Samus",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2023",
+                    "stage": "Battlefield",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Pyra/Mythra",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Luis Flores Cereceres",
+            "games": [
+                {
+                    "season": "Spring 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Zero Suit Samus",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Zero Suit Samus",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Kendall Matthews",
+            "games": [
+                {
+                    "season": "Spring 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Sephiroth",
+                    "opp": "Incineroar",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Sephiroth",
+                    "opp": "Incineroar",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Brandon Palma",
+            "games": [
+                {
+                    "season": "Spring 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Samus",
+                    "opp": "Bowser",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Samus",
+                    "opp": "Bowser",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Samus",
+                    "opp": "Bowser",
+                    "result": "loss"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Luis Flores Cereceres",
+            "games": [
+                {
+                    "season": "Spring 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Cloud",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Mr. Game & Watch",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Min Min",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Kendall Matthews",
+            "games": [
+                {
+                    "season": "Spring 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Samus",
+                    "opp": "Wolf",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Samus",
+                    "opp": "Wolf",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Samus",
+                    "opp": "Wolf",
+                    "result": "loss"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Luis Flores Cereceres",
+            "games": [
+                {
+                    "season": "Spring 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Steve",
+                    "opp": "Jigglypuff",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Jigglypuff",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Kendall Matthews",
+            "games": [
+                {
+                    "season": "Spring 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Steve",
+                    "opp": "Bayonetta",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2023",
+                    "stage": "Small Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Hero",
+                    "result": "loss"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Luis Flores Cereceres",
+            "games": [
+                {
+                    "season": "Spring 2023",
+                    "stage": "Final Destination",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Peach",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2023",
+                    "stage": "Final Destination",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Peach",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Kendall Matthews",
+            "games": [
+                {
+                    "season": "Spring 2023",
+                    "stage": "Final Destination",
+                    "char": "Samus",
+                    "opp": "Bowser",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2023",
+                    "stage": "Final Destination",
+                    "char": "Samus",
+                    "opp": "Bowser",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    []
+]

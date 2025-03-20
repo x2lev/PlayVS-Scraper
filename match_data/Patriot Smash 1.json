@@ -1,0 +1,3324 @@
+[
+    "Patriot Smash 1",
+    [
+        {
+            "name": "Caleb Marcotte",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Kazuya",
+                    "opp": "Sephiroth",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Kazuya",
+                    "opp": "Sephiroth",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Taveon Williams",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Lucas",
+                    "opp": "Steve",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Lucas",
+                    "opp": "Steve",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Devon Carribine",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Joker",
+                    "opp": "King K. Rool",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Joker",
+                    "opp": "Joker",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Devon Carribine",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Joker",
+                    "opp": "Terry",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Joker",
+                    "opp": "Terry",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Devon Carribine",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Joker",
+                    "opp": "Roy",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Joker",
+                    "opp": "Roy",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Taveon Williams",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Lucas",
+                    "opp": "Kirby",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Ness",
+                    "opp": "Captain Falcon",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Caleb Marcotte",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Kazuya",
+                    "opp": "Mewtwo",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Kazuya",
+                    "opp": "Mewtwo",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Taveon Williams",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Ness",
+                    "opp": "Kazuya",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Ness",
+                    "opp": "Kazuya",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Caleb Marcotte",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Kazuya",
+                    "opp": "Captain Falcon",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Kazuya",
+                    "opp": "Cloud",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Kazuya",
+                    "opp": "Cloud",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Devon Carribine",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Joker",
+                    "opp": "Dr. Mario",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Joker",
+                    "opp": "Piranha Plant",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Caleb Marcotte",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Kazuya",
+                    "opp": "Simon",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Kazuya",
+                    "opp": "Simon",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Kazuya",
+                    "opp": "Simon",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Taveon Williams",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Lucas",
+                    "opp": "Sora",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Lucas",
+                    "opp": "Sora",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Devon Carribine",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Joker",
+                    "opp": "Bowser Jr.",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Joker",
+                    "opp": "Bowser Jr.",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Devon Carribine",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Joker",
+                    "opp": "Simon",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Joker",
+                    "opp": "Simon",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Joker",
+                    "opp": "Simon",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Devon Carribine",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Joker",
+                    "opp": "Steve",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Joker",
+                    "opp": "Steve",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Joker",
+                    "opp": "Steve",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Caleb Marcotte",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Kazuya",
+                    "opp": "Donkey Kong",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Kazuya",
+                    "opp": "Donkey Kong",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Taveon Williams",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Lucas",
+                    "opp": "Sephiroth",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Lucas",
+                    "opp": "Sephiroth",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Devon Carribine",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Joker",
+                    "opp": "Mario",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Joker",
+                    "opp": "Sephiroth",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Caleb Marcotte",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Kazuya",
+                    "opp": "Terry",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Kazuya",
+                    "opp": "Sora",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Taveon Williams",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Lucas",
+                    "opp": "Lucario",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Lucas",
+                    "opp": "Lucario",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Caleb Marcotte",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Kazuya",
+                    "opp": "Meta Knight",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Random",
+                    "opp": "Meta Knight",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Kazuya",
+                    "opp": "Meta Knight",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Claire Philp",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Kazuya",
+                    "opp": "Joker",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Terry",
+                    "opp": "Joker",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Sam Woodard",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Luigi",
+                    "opp": "Incineroar",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Pichu",
+                    "opp": "Incineroar",
+                    "result": "loss"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Caleb Marcotte",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Smashville",
+                    "char": "Kazuya",
+                    "opp": "Bowser",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Smashville",
+                    "char": "Kazuya",
+                    "opp": "Bowser",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Claire Philp",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Smashville",
+                    "char": "Kazuya",
+                    "opp": "Pyra/Mythra",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Smashville",
+                    "char": "Kazuya",
+                    "opp": "Pyra/Mythra",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Alan Davis",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Smashville",
+                    "char": "Wii Fit Trainer",
+                    "opp": "Banjo & Kazooie",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Smashville",
+                    "char": "Banjo & Kazooie",
+                    "opp": "Zero Suit Samus",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Claire Philp",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "R.O.B.",
+                    "opp": "Ganondorf",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "R.O.B.",
+                    "opp": "Hero",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Caleb Marcotte",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Kazuya",
+                    "opp": "Little Mac",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Kazuya",
+                    "opp": "Terry",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Kazuya",
+                    "opp": "Little Mac",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Alan Davis",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Joker",
+                    "opp": "Inkling",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Cloud",
+                    "opp": "Joker",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Claire Philp",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "R.O.B.",
+                    "opp": "Joker",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Terry",
+                    "opp": "Joker",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Terry",
+                    "opp": "Joker",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Caleb Marcotte",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Kazuya",
+                    "opp": "Terry",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Kazuya",
+                    "opp": "Piranha Plant",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "ANCHANTED",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Captain Falcon",
+                    "opp": "Greninja",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Cloud",
+                    "opp": "Greninja",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Mewtwo",
+                    "opp": "Greninja",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Sam Woodard",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Little Mac",
+                    "opp": "Captain Falcon",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Little Mac",
+                    "opp": "Captain Falcon",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Craff",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Kazuya",
+                    "opp": "King K. Rool",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Kazuya",
+                    "opp": "King K. Rool",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Caleb Marcotte",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Kazuya",
+                    "opp": "Captain Falcon",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Kazuya",
+                    "opp": "Wii Fit Trainer",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Caleb Marcotte",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Smashville",
+                    "char": "Kazuya",
+                    "opp": "Pyra/Mythra",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Smashville",
+                    "char": "Kazuya",
+                    "opp": "Steve",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Alan Davis",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Smashville",
+                    "char": "Pyra/Mythra",
+                    "opp": "Ness",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Smashville",
+                    "char": "Pyra/Mythra",
+                    "opp": "Ness",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Claire Philp",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Smashville",
+                    "char": "R.O.B.",
+                    "opp": "Sonic",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Smashville",
+                    "char": "R.O.B.",
+                    "opp": "Bayonetta",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Caleb Marcotte",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Smashville",
+                    "char": "Kazuya",
+                    "opp": "Ness",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Smashville",
+                    "char": "Kazuya",
+                    "opp": "Ness",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Caleb Marcotte",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Kazuya",
+                    "opp": "Samus",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Kazuya",
+                    "opp": "Samus",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Sam Woodard",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "R.O.B.",
+                    "opp": "Kazuya",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "R.O.B.",
+                    "opp": "Kazuya",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Claire Philp",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Terry",
+                    "opp": "Steve",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Terry",
+                    "opp": "Steve",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Caleb Marcotte",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Smashville",
+                    "char": "Kazuya",
+                    "opp": "Kazuya",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Smashville",
+                    "char": "Kazuya",
+                    "opp": "Mr. Game & Watch",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Alan Davis",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Smashville",
+                    "char": "R.O.B.",
+                    "opp": "Zero Suit Samus",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Smashville",
+                    "char": "R.O.B.",
+                    "opp": "Zero Suit Samus",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Smashville",
+                    "char": "Terry",
+                    "opp": "Zero Suit Samus",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Claire Philp",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Smashville",
+                    "char": "Kazuya",
+                    "opp": "Sora",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Smashville",
+                    "char": "Kazuya",
+                    "opp": "Sora",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Lorenzo Johnson",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Kazuya",
+                    "opp": "Link",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Kazuya",
+                    "opp": "Meta Knight",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Caleb Marcotte",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Kazuya",
+                    "opp": "King Dedede",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Kazuya",
+                    "opp": "Bowser Jr.",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Claire Philp",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Kazuya",
+                    "opp": "Byleth",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Kazuya",
+                    "opp": "Joker",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Claire Philp",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "R.O.B.",
+                    "opp": "Kazuya",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Terry",
+                    "opp": "Kazuya",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Terry",
+                    "opp": "Terry",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Lorenzo Johnson",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Kazuya",
+                    "opp": "Little Mac",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Kazuya",
+                    "opp": "Little Mac",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Caleb Marcotte",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Kazuya",
+                    "opp": "Incineroar",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Kazuya",
+                    "opp": "Incineroar",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Bowser",
+                    "opp": "Incineroar",
+                    "result": "loss"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Devon Carribine",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Mewtwo",
+                    "opp": "Banjo & Kazooie",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Mewtwo",
+                    "opp": "Kirby",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "William Waters",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "King K. Rool",
+                    "opp": "Ryu",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "King K. Rool",
+                    "opp": "Cloud",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "King K. Rool",
+                    "opp": "Cloud",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Finn Squires",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Ice Climbers",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Ice Climbers",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Ice Climbers",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Finn Squires",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Cloud",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Cloud",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Devon Carribine",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Joker",
+                    "opp": "Ice Climbers",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Joker",
+                    "opp": "Ice Climbers",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Joker",
+                    "opp": "Ice Climbers",
+                    "result": "loss"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Finn Squires",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Inkling",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Shulk",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "William Waters",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Small Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Link",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Small Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Link",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Devon Carribine",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Cloud",
+                    "opp": "Robin",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Byleth",
+                    "opp": "Pyra/Mythra",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Devon Carribine",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Mewtwo",
+                    "opp": "Kirby",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Mewtwo",
+                    "opp": "Kirby",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "William Waters",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "King K. Rool",
+                    "opp": "Wario",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "King K. Rool",
+                    "opp": "Luigi",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Finn Squires",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Bowser",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Bowser",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Devon Carribine",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Joker",
+                    "opp": "Bowser",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Joker",
+                    "opp": "Bowser",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "William Waters",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Corrin",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Corrin",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Devon Carribine",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Battlefield",
+                    "char": "Joker",
+                    "opp": "Olimar",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Battlefield",
+                    "char": "Joker",
+                    "opp": "Olimar",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Finn Squires",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Battlefield",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Isabelle",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Battlefield",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Isabelle",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "William Waters",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Byleth",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Byleth",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Byleth",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Devon Carribine",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Battlefield",
+                    "char": "Joker",
+                    "opp": "Olimar",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Battlefield",
+                    "char": "Joker",
+                    "opp": "Olimar",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Battlefield",
+                    "char": "Joker",
+                    "opp": "Olimar",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "William Waters",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Small Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Fox",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Small Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Ridley",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Finn Squires",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Mr. Game & Watch",
+                    "opp": "R.O.B.",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Mr. Game & Watch",
+                    "opp": "R.O.B.",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Mr. Game & Watch",
+                    "opp": "R.O.B.",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Devon Carribine",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Joker",
+                    "opp": "Mewtwo",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Joker",
+                    "opp": "Mewtwo",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Mewtwo",
+                    "opp": "Mewtwo",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "William Waters",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Cloud",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Palutena",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Devon Carribine",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Battlefield",
+                    "char": "Joker",
+                    "opp": "Incineroar",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Battlefield",
+                    "char": "Joker",
+                    "opp": "Mewtwo",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Finn Squires",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Battlefield",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Dr. Mario",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Battlefield",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Sora",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Devon Carribine",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Joker",
+                    "opp": "Kirby",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Joker",
+                    "opp": "Kirby",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "William Waters",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "King K. Rool",
+                    "opp": "Cloud",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "King K. Rool",
+                    "opp": "Cloud",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Finn Squires",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Ice Climbers",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Ice Climbers",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "William Waters",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "King K. Rool",
+                    "opp": "Cloud",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "King K. Rool",
+                    "opp": "Cloud",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Devon Carribine",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Town & City",
+                    "char": "Joker",
+                    "opp": "Shulk",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Town & City",
+                    "char": "Joker",
+                    "opp": "Shulk",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Town & City",
+                    "char": "Joker",
+                    "opp": "Shulk",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "William Waters",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Town & City",
+                    "char": "King K. Rool",
+                    "opp": "Inkling",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Town & City",
+                    "char": "King K. Rool",
+                    "opp": "Inkling",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Finn Squires",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Town & City",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Donkey Kong",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Town & City",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Sephiroth",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Devon Carribine",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Town & City",
+                    "char": "Joker",
+                    "opp": "Shulk",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Town & City",
+                    "char": "Joker",
+                    "opp": "Shulk",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Devon Carribine",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Joker",
+                    "opp": "Simon",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Joker",
+                    "opp": "Simon",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Joker",
+                    "opp": "Simon",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "William Waters",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Donkey Kong",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Donkey Kong",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Donkey Kong",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Finn Squires",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Bowser Jr.",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Bowser Jr.",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Devon Carribine",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Joker",
+                    "opp": "Simon",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Joker",
+                    "opp": "Simon",
+                    "result": "loss"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Finn Squires",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Pikachu",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Pikachu",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Pikachu",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "William Waters",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "King K. Rool",
+                    "opp": "Mr. Game & Watch",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "King K. Rool",
+                    "opp": "Mr. Game & Watch",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Devon Carribine",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Joker",
+                    "opp": "Joker",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Joker",
+                    "opp": "Joker",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Joker",
+                    "opp": "Joker",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Devon Carribine",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Town & City",
+                    "char": "Mewtwo",
+                    "opp": "Shulk",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Town & City",
+                    "char": "Joker",
+                    "opp": "Toon Link",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Town & City",
+                    "char": "Joker",
+                    "opp": "Shulk",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "William Waters",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Town & City",
+                    "char": "King K. Rool",
+                    "opp": "Inkling",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Town & City",
+                    "char": "King K. Rool",
+                    "opp": "Ridley",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Finn Squires",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Town & City",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Donkey Kong",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Town & City",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Donkey Kong",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Town & City",
+                    "char": "Mr. Game & Watch",
+                    "opp": "King K. Rool",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Devon Carribine",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Town & City",
+                    "char": "Joker",
+                    "opp": "Shulk",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Town & City",
+                    "char": "Joker",
+                    "opp": "Shulk",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Town & City",
+                    "char": "Joker",
+                    "opp": "Shulk",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "William Waters",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Town & City",
+                    "char": "King K. Rool",
+                    "opp": "Inkling",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Town & City",
+                    "char": "King K. Rool",
+                    "opp": "Hero",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "William Waters",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Mr. Game & Watch",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Mr. Game & Watch",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Finn Squires",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Falco",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Falco",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Devon Carribine",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Mewtwo",
+                    "opp": "Samus",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Mewtwo",
+                    "opp": "Samus",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Devon Carribine",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Joker",
+                    "opp": "Falco",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Joker",
+                    "opp": "Falco",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Devon Carribine",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Joker",
+                    "opp": "Incineroar",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Mewtwo",
+                    "opp": "Incineroar",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Mewtwo",
+                    "opp": "Wolf",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Finn Squires",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Dr. Mario",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Piranha Plant",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "William Waters",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "King K. Rool",
+                    "opp": "Banjo & Kazooie",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Donkey Kong",
+                    "opp": "Little Mac",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "William Waters",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Byleth",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Battlefield",
+                    "char": "King Dedede",
+                    "opp": "Sora",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Sora",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Finn Squires",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Battlefield",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Pyra/Mythra",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Battlefield",
+                    "char": "Greninja",
+                    "opp": "Pyra/Mythra",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Devon Carribine",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Battlefield",
+                    "char": "Mewtwo",
+                    "opp": "King K. Rool",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Battlefield",
+                    "char": "Joker",
+                    "opp": "King K. Rool",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "William Waters",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Zero Suit Samus",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Zero Suit Samus",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Devon Carribine",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Chrom",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Joker",
+                    "opp": "Marth",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Finn Squires",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Kirby",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Kirby",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "William Waters",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Bowser",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Donkey Kong",
+                    "opp": "Bowser",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Bowser",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Devon Carribine",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Joker",
+                    "opp": "Isabelle",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Joker",
+                    "opp": "R.O.B.",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Finn Squires",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Diddy Kong",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Diddy Kong",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "William Waters",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "King Dedede",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Ness",
+                    "opp": "Hero",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Hero",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Devon Carribine",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Joker",
+                    "opp": "Captain Falcon",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Mewtwo",
+                    "opp": "Sora",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Finn Squires",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Mr. Game & Watch",
+                    "opp": "King K. Rool",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Little Mac",
+                    "opp": "King K. Rool",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "William Waters",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Battlefield",
+                    "char": "Pok\u00e9mon Trainer",
+                    "opp": "Isabelle",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Battlefield",
+                    "char": "Pok\u00e9mon Trainer",
+                    "opp": "Isabelle",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Battlefield",
+                    "char": "Pok\u00e9mon Trainer",
+                    "opp": "Isabelle",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Finn Squires",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Battlefield",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Olimar",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Battlefield",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Olimar",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Battlefield",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Pyra/Mythra",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Devon Carribine",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Corrin",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Corrin",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Min Min",
+                    "result": "loss"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Devon Carribine",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "MakoMart",
+                    "char": "Joker",
+                    "opp": "Ridley",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "MakoMart",
+                    "char": "Joker",
+                    "opp": "Joker",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Finn Squires",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "MakoMart",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Cloud",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "MakoMart",
+                    "char": "Cloud",
+                    "opp": "Cloud",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "MakoMart",
+                    "char": "Cloud",
+                    "opp": "Cloud",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "William Waters",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "MakoMart",
+                    "char": "King K. Rool",
+                    "opp": "Samus",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "MakoMart",
+                    "char": "King Dedede",
+                    "opp": "Samus",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Finn Squires",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "MakoMart",
+                    "char": "Greninja",
+                    "opp": "Greninja",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "MakoMart",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Cloud",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "MakoMart",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Zero Suit Samus",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "William Waters",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "MakoMart",
+                    "char": "King K. Rool",
+                    "opp": "King K. Rool",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "MakoMart",
+                    "char": "King K. Rool",
+                    "opp": "R.O.B.",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "William Waters",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Pok\u00e9mon Trainer",
+                    "opp": "Little Mac",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Donkey Kong",
+                    "opp": "Little Mac",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Finn Squires",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Donkey Kong",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Greninja",
+                    "opp": "Ryu",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Ryu",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Devon Carribine",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "King K. Rool",
+                    "opp": "Mewtwo",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Captain Falcon",
+                    "opp": "Pichu",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Devon Carribine",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Mewtwo",
+                    "opp": "Mewtwo",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Mewtwo",
+                    "opp": "Sephiroth",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Finn Squires",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Meta Knight",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Meta Knight",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Meta Knight",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "William Waters",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Pok\u00e9mon Trainer",
+                    "opp": "Pikachu",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "King K. Rool",
+                    "opp": "Pikachu",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Devon Carribine",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Joker",
+                    "opp": "Pikachu",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Mewtwo",
+                    "opp": "Pikachu",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Finn Squires",
+            "games": [
+                {
+                    "season": "Fall 2023",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Meta Knight",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Meta Knight",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2023",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Meta Knight",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "William Waters",
+            "games": []
+        },
+        {
+            "name": "Finn Squires",
+            "games": []
+        },
+        {
+            "name": "Devon Carribine",
+            "games": []
+        }
+    ],
+    [
+        {
+            "name": "William Waters",
+            "games": [
+                {
+                    "season": "Spring 2023",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "King K. Rool",
+                    "opp": "Kazuya",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2023",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Dark Pit",
+                    "opp": "Kazuya",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Finn Squires",
+            "games": [
+                {
+                    "season": "Spring 2023",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Palutena",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2023",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Palutena",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Jackson Withers",
+            "games": [
+                {
+                    "season": "Spring 2023",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Steve",
+                    "opp": "Pichu",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2023",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Steve",
+                    "opp": "Ken",
+                    "result": "loss"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "William Waters",
+            "games": [
+                {
+                    "season": "Spring 2023",
+                    "stage": "Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Min Min",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2023",
+                    "stage": "Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Kazuya",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Finn Squires",
+            "games": [
+                {
+                    "season": "Spring 2023",
+                    "stage": "Battlefield",
+                    "char": "Greninja",
+                    "opp": "Pyra/Mythra",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2023",
+                    "stage": "Battlefield",
+                    "char": "Roy",
+                    "opp": "Fox",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2023",
+                    "stage": "Battlefield",
+                    "char": "Roy",
+                    "opp": "Pyra/Mythra",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Jackson Withers",
+            "games": [
+                {
+                    "season": "Spring 2023",
+                    "stage": "Battlefield",
+                    "char": "Steve",
+                    "opp": "Kirby",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2023",
+                    "stage": "Battlefield",
+                    "char": "Steve",
+                    "opp": "Kirby",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "William Waters",
+            "games": [
+                {
+                    "season": "Spring 2023",
+                    "stage": "Small Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Pyra/Mythra",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2023",
+                    "stage": "Small Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Kirby",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Jackson Withers",
+            "games": [
+                {
+                    "season": "Spring 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Steve",
+                    "opp": "Greninja",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Steve",
+                    "opp": "Greninja",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Finn Squires",
+            "games": [
+                {
+                    "season": "Spring 2023",
+                    "stage": "Final Destination",
+                    "char": "Greninja",
+                    "opp": "Mr. Game & Watch",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2023",
+                    "stage": "Final Destination",
+                    "char": "Greninja",
+                    "opp": "Mr. Game & Watch",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Jackson Withers",
+            "games": [
+                {
+                    "season": "Spring 2023",
+                    "stage": "Final Destination",
+                    "char": "Steve",
+                    "opp": "Snake",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2023",
+                    "stage": "Final Destination",
+                    "char": "Steve",
+                    "opp": "Snake",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Finn Squires",
+            "games": [
+                {
+                    "season": "Spring 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Byleth",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Greninja",
+                    "opp": "Cloud",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Jackson Withers",
+            "games": [
+                {
+                    "season": "Spring 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Steve",
+                    "opp": "Steve",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Steve",
+                    "opp": "Isabelle",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Finn Squires",
+            "games": [
+                {
+                    "season": "Spring 2023",
+                    "stage": "Final Destination",
+                    "char": "Greninja",
+                    "opp": "Terry",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2023",
+                    "stage": "Final Destination",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Terry",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2023",
+                    "stage": "Final Destination",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Kazuya",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "William Waters",
+            "games": [
+                {
+                    "season": "Spring 2023",
+                    "stage": "Final Destination",
+                    "char": "King K. Rool",
+                    "opp": "Roy",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2023",
+                    "stage": "Final Destination",
+                    "char": "Dark Pit",
+                    "opp": "Joker",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2023",
+                    "stage": "Final Destination",
+                    "char": "King K. Rool",
+                    "opp": "Joker",
+                    "result": "loss"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "William Waters",
+            "games": [
+                {
+                    "season": "Spring 2023",
+                    "stage": "Small Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Piranha Plant",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2023",
+                    "stage": "Small Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Piranha Plant",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Finn Squires",
+            "games": [
+                {
+                    "season": "Spring 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Pyra/Mythra",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2023",
+                    "stage": "Small Battlefield",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Pyra/Mythra",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "William Waters",
+            "games": [
+                {
+                    "season": "Spring 2023",
+                    "stage": "Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "King K. Rool",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2023",
+                    "stage": "Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "King K. Rool",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "joker",
+            "games": [
+                {
+                    "season": "Spring 2023",
+                    "stage": "Battlefield",
+                    "char": "Greninja",
+                    "opp": "Byleth",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2023",
+                    "stage": "Battlefield",
+                    "char": "Roy",
+                    "opp": "Joker",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "William Waters",
+            "games": [
+                {
+                    "season": "Spring 2023",
+                    "stage": "Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Jigglypuff",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2023",
+                    "stage": "Battlefield",
+                    "char": "Dark Pit",
+                    "opp": "Jigglypuff",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Finn Squires",
+            "games": [
+                {
+                    "season": "Spring 2023",
+                    "stage": "Battlefield",
+                    "char": "Greninja",
+                    "opp": "Bayonetta",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2023",
+                    "stage": "Battlefield",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Bayonetta",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2023",
+                    "stage": "Battlefield",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Dr. Mario",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Devon Carribine",
+            "games": [
+                {
+                    "season": "Spring 2023",
+                    "stage": "Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Joker",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2023",
+                    "stage": "Battlefield",
+                    "char": "Mewtwo",
+                    "opp": "Joker",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2023",
+                    "stage": "Battlefield",
+                    "char": "Mewtwo",
+                    "opp": "Pit",
+                    "result": "loss"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Devon Carribine",
+            "games": [
+                {
+                    "season": "Spring 2023",
+                    "stage": "Final Destination",
+                    "char": "Mewtwo",
+                    "opp": "Pac-Man",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2023",
+                    "stage": "Final Destination",
+                    "char": "Fox",
+                    "opp": "Pac-Man",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "William Waters",
+            "games": [
+                {
+                    "season": "Spring 2023",
+                    "stage": "Final Destination",
+                    "char": "King K. Rool",
+                    "opp": "Donkey Kong",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2023",
+                    "stage": "Final Destination",
+                    "char": "King K. Rool",
+                    "opp": "Donkey Kong",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2023",
+                    "stage": "Final Destination",
+                    "char": "King K. Rool",
+                    "opp": "Donkey Kong",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Finn Squires",
+            "games": [
+                {
+                    "season": "Spring 2023",
+                    "stage": "Final Destination",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Luigi",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2023",
+                    "stage": "Final Destination",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Luigi",
+                    "result": "win"
+                }
+            ]
+        }
+    ]
+]

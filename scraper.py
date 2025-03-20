@@ -9,7 +9,8 @@ from selenium.common.exceptions import ElementClickInterceptedException, NoSuchE
 TEAM_URL = ''#'https://app.playvs.com/app/match/07466470-0c70-441c-b7d9-7baf5b0f1f46/mission-control'
 STANDINGS_URL = 'https://app.playvs.com/app/standings'
 
-TEAM_NAME = 'Creek Smash Red Team'
+TEAM_NAME = 'Patriot Smash 1'
+
 if not TEAM_NAME:
     TEAM_NAME = input('Enter the team name: ')
 
@@ -43,7 +44,8 @@ if not TEAM_URL:
     driver.find_element(By.XPATH, '//p[contains(text(),"Super Smash Bros")]').click()
 
     if not driver.find_elements(By.XPATH, '//p[text()="Spring 2025"]'):
-        driver.find_element(By.XPATH, '//p[contains(text(), "Spring") or contains(text(), "Fall")]').click()
+        driver.find_element(By.XPATH, '//p[contains(text(), "Spring") '\
+                                      'or contains(text(), "Fall")]').click()
         driver.find_element(By.XPATH, '//p[text()="Spring 2025"]').click()
 
     driver.implicitly_wait(5)
@@ -54,17 +56,16 @@ if not TEAM_URL:
         time.sleep(0.5)
         overall = driver.find_element(By.XPATH,
                                       '//p[text()="Overall"]/..//following-sibling::div/*')
-        team_p = None
         for p in overall.find_elements(By.CSS_SELECTOR, 'p'):
             if p.text == TEAM_NAME:
-                team_p = p
+                TEAM_P = p
                 break
         else:
+            TEAM_P = None
             overall.send_keys(Keys.PAGE_DOWN)
-        
-        if team_p:
+        if TEAM_P:
             try:
-                team_p.click()
+                TEAM_P.click()
                 break
             except ElementClickInterceptedException:
                 overall.send_keys(Keys.ARROW_DOWN)
@@ -142,6 +143,10 @@ driver.find_element(By.XPATH, '//p[text()="Spring 2025"]').click()
 seasons = [s.find_element(By.CSS_SELECTOR, 'p').text for s in driver.find_elements(By.XPATH,
                         '//li[contains(@data-cy, "Spring") or contains(@data-cy, "Fall")]')][::-1]
 action_chains.key_down(Keys.ESCAPE).key_up(Keys.ESCAPE).perform()
+scrape_matches('Spring 2025')
+driver.find_element(By.XPATH, '//p[text()="Playoffs"]').click()
+driver.find_element(By.XPATH, '//p[text()="Regular Season"]').click()
+driver.implicitly_wait(5)
 scrape_matches('Spring 2025')
 for i in range(1, len(seasons)):
     if int(seasons[i].split(' ')[1]) > 2022:
