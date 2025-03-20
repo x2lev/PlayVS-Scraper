@@ -1,0 +1,1447 @@
+[
+    "Lancer Esports",
+    [
+        {
+            "name": "Edward Ruiz",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Sephiroth",
+                    "opp": "Kazuya",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Sephiroth",
+                    "opp": "Kazuya",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "jaziel gomez",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Steve",
+                    "opp": "Lucas",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Steve",
+                    "opp": "Lucas",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Wily Rivas",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Joker",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Joker",
+                    "opp": "Joker",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Edward Ruiz",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Terry",
+                    "opp": "Joker",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Terry",
+                    "opp": "Joker",
+                    "result": "loss"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Wily Rivas",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "King K. Rool",
+                    "opp": "Pikachu",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "King K. Rool",
+                    "opp": "Pikachu",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Edward Ruiz",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Terry",
+                    "opp": "Incineroar",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Sephiroth",
+                    "opp": "Incineroar",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "jaziel gomez",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Steve",
+                    "opp": "Cloud",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Steve",
+                    "opp": "Cloud",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Joker",
+                    "opp": "Cloud",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Edward Ruiz",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Kazuya",
+                    "opp": "Cloud",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Kazuya",
+                    "opp": "Cloud",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "jaziel gomez",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Steve",
+                    "opp": "Incineroar",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Steve",
+                    "opp": "King Dedede",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Edward Ruiz",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Kazuya",
+                    "opp": "Mii Brawler",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Terry",
+                    "opp": "Mii Brawler",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Wily Rivas",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "King K. Rool",
+                    "opp": "Little Mac",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Joker",
+                    "opp": "Villager",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Edward Ruiz",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Kazuya",
+                    "opp": "Inkling",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Kazuya",
+                    "opp": "Joker",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Edward Ruiz",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Kazuya",
+                    "opp": "Cloud",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Kazuya",
+                    "opp": "Cloud",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Wily Rivas",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Sephiroth",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Ridley",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Yandel Gonzalez",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Mr. Game & Watch",
+                    "opp": "King K. Rool",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Mr. Game & Watch",
+                    "opp": "King K. Rool",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Wily Rivas",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Cloud",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Joker",
+                    "opp": "Cloud",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Edward Ruiz",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Sephiroth",
+                    "opp": "King K. Rool",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Sephiroth",
+                    "opp": "King K. Rool",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Edward Ruiz",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Kazuya",
+                    "opp": "King K. Rool",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Kazuya",
+                    "opp": "King K. Rool",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Wily Rivas",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "King K. Rool",
+                    "opp": "Ridley",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Ridley",
+                    "opp": "Ridley",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Yandel Gonzalez",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Dr. Mario",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Donkey Kong",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Edward Ruiz",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Luigi",
+                    "opp": "Ridley",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Luigi",
+                    "opp": "Hero",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Wily Rivas",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Donkey Kong",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Joker",
+                    "opp": "Fox",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Donkey Kong",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Yandel Gonzalez",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Bowser",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Bowser",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Edward Ruiz",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Terry",
+                    "opp": "Incineroar",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Terry",
+                    "opp": "Incineroar",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Edward Ruiz",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Terry",
+                    "opp": "Donkey Kong",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Terry",
+                    "opp": "Donkey Kong",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Wily Rivas",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Bowser",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "King K. Rool",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Edward Ruiz",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Sephiroth",
+                    "opp": "Sephiroth",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Sephiroth",
+                    "opp": "Sephiroth",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Estrella Felix",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Pyra/Mythra",
+                    "opp": "Donkey Kong",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Zelda",
+                    "opp": "Donkey Kong",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Wily Rivas",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "King K. Rool",
+                    "opp": "Snake",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "King K. Rool",
+                    "opp": "Snake",
+                    "result": "loss"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Wily Rivas",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Hero",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Hero",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Edward Ruiz",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Sephiroth",
+                    "opp": "Bowser",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Sephiroth",
+                    "opp": "Sephiroth",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "jaziel gomez",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Steve",
+                    "opp": "Incineroar",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Steve",
+                    "opp": "Incineroar",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Wily Rivas",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Incineroar",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Luigi",
+                    "opp": "Incineroar",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Edward Ruiz",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Terry",
+                    "opp": "Sora",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Terry",
+                    "opp": "Dr. Mario",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Edward Ruiz",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Sephiroth",
+                    "opp": "Mega Man",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Kazuya",
+                    "opp": "Mega Man",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Wily Rivas",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Toon Link",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Byleth",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "jaziel gomez",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Steve",
+                    "opp": "Little Mac",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Steve",
+                    "opp": "Little Mac",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Edward Ruiz",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Terry",
+                    "opp": "Little Mac",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Kazuya",
+                    "opp": "Little Mac",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Kazuya",
+                    "opp": "Little Mac",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Wily Rivas",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Pyra/Mythra",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Captain Falcon",
+                    "opp": "Pyra/Mythra",
+                    "result": "loss"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Estrella Felix",
+            "games": []
+        },
+        {
+            "name": "Edward Ruiz",
+            "games": []
+        },
+        {
+            "name": "Wily Rivas",
+            "games": []
+        }
+    ],
+    [
+        {
+            "name": "Gill Reeves",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Pac-Man",
+                    "opp": "Kirby",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Pac-Man",
+                    "opp": "Kirby",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Edward Ruiz",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Terry",
+                    "opp": "Hero",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Kazuya",
+                    "opp": "Hero",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Wily Rivas",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "King K. Rool",
+                    "opp": "Zelda",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "King K. Rool",
+                    "opp": "Joker",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Captain Falcon",
+                    "opp": "Joker",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Edward Ruiz",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Luigi",
+                    "opp": "Joker",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Kazuya",
+                    "opp": "Joker",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Wily Rivas",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "King K. Rool",
+                    "opp": "Kirby",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "King K. Rool",
+                    "opp": "Kirby",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Edward Ruiz",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Terry",
+                    "opp": "Marth",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Terry",
+                    "opp": "Marth",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Wily Rivas",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Kazuya",
+                    "opp": "Yoshi",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Kazuya",
+                    "opp": "Yoshi",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Sir-Gabe DeHerrera",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Bowser",
+                    "opp": "Piranha Plant",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Bowser",
+                    "opp": "Piranha Plant",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Wily Rivas",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Link",
+                    "opp": "Yoshi",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Link",
+                    "opp": "Yoshi",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Sir-Gabe DeHerrera",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Bowser",
+                    "opp": "Fox",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Incineroar",
+                    "opp": "Fox",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Edward Ruiz",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Luigi",
+                    "opp": "Terry",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Kazuya",
+                    "opp": "Terry",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Luigi",
+                    "opp": "Terry",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Wily Rivas",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Captain Falcon",
+                    "opp": "Pyra/Mythra",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Captain Falcon",
+                    "opp": "Pyra/Mythra",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "King K. Rool",
+                    "opp": "Pyra/Mythra",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Edward Ruiz",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Luigi",
+                    "opp": "Captain Falcon",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Kazuya",
+                    "opp": "Captain Falcon",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Wily Rivas",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Captain Falcon",
+                    "opp": "Pyra/Mythra",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "King K. Rool",
+                    "opp": "Pyra/Mythra",
+                    "result": "loss"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Wily Rivas",
+            "games": []
+        },
+        {
+            "name": "Edward Ruiz",
+            "games": []
+        },
+        {
+            "name": "Sir-Gabe DeHerrera",
+            "games": []
+        },
+        {
+            "name": "Wily Rivas",
+            "games": []
+        },
+        {
+            "name": "Edward Ruiz",
+            "games": []
+        }
+    ],
+    [
+        {
+            "name": "Wily Rivas",
+            "games": []
+        },
+        {
+            "name": "Edward Ruiz",
+            "games": []
+        },
+        {
+            "name": "Gill Reeves",
+            "games": []
+        }
+    ],
+    [
+        {
+            "name": "Wily Rivas",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "King K. Rool",
+                    "opp": "Bowser",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "King K. Rool",
+                    "opp": "Bowser",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "brooklynn amberr",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Pyra/Mythra",
+                    "opp": "Bayonetta",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Pyra/Mythra",
+                    "opp": "Bayonetta",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Edward Ruiz",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Luigi",
+                    "opp": "Byleth",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Kazuya",
+                    "opp": "Byleth",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Kazuya",
+                    "opp": "Incineroar",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Edward Ruiz",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Luigi",
+                    "opp": "Steve",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Kazuya",
+                    "opp": "Steve",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Sir-Gabe DeHerrera",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Bowser",
+                    "opp": "Sephiroth",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Bowser",
+                    "opp": "Sephiroth",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Bowser",
+                    "opp": "Sephiroth",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Wily Rivas",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Small Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Mega Man",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Small Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Mega Man",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Wily Rivas",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Small Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Steve",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Small Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Dark Pit",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Edward Ruiz",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Sephiroth",
+                    "opp": "R.O.B.",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Luigi",
+                    "opp": "R.O.B.",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Gill Reeves",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Mewtwo",
+                    "opp": "Fox",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Mewtwo",
+                    "opp": "Fox",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Wily Rivas",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Small Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Diddy Kong",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Small Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Cloud",
+                    "result": "loss"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Edward Ruiz",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Luigi",
+                    "opp": "Cloud",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Luigi",
+                    "opp": "Cloud",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Wily Rivas",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Small Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Bowser Jr.",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Captain Falcon",
+                    "opp": "Bowser Jr.",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Captain Falcon",
+                    "opp": "Inkling",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "jaziel gomez",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Bayonetta",
+                    "opp": "Link",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Robin",
+                    "opp": "Link",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Edward Ruiz",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Bowser",
+                    "opp": "Joker",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Kazuya",
+                    "opp": "Cloud",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Wily Rivas",
+            "games": [
+                {
+                    "season": "Spring 2024",
+                    "stage": "Small Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Link",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Small Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Link",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2024",
+                    "stage": "Small Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Link",
+                    "result": "win"
+                }
+            ]
+        }
+    ]
+]

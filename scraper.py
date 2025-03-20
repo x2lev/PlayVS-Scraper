@@ -8,7 +8,7 @@ from selenium.common.exceptions import ElementClickInterceptedException, NoSuchE
 
 STANDINGS_URL = 'https://app.playvs.com/app/standings'
 
-TEAM_NAME = 'Patriot Smash 1'
+TEAM_NAME = 'Lancer Esports'
 
 if not TEAM_NAME:
     TEAM_NAME = input('Enter the team name: ')
