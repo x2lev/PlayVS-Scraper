@@ -6,7 +6,6 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 from selenium.common.exceptions import ElementClickInterceptedException, NoSuchElementException
 
-TEAM_URL = ''#'https://app.playvs.com/app/match/07466470-0c70-441c-b7d9-7baf5b0f1f46/mission-control'
 STANDINGS_URL = 'https://app.playvs.com/app/standings'
 
 TEAM_NAME = 'Patriot Smash 1'
@@ -16,19 +15,12 @@ if not TEAM_NAME:
 
 driver = webdriver.Firefox()
 action_chains = ActionChains(driver)
-driver.get(TEAM_URL if TEAM_URL else STANDINGS_URL)
+driver.get(STANDINGS_URL)
 
 driver.implicitly_wait(5)
 
 # Login
 driver.find_element(By.CSS_SELECTOR, 'button[aria-label="Close"]').click()
-'''
-time.sleep(1)
-try:
-    driver.find_element(By.CSS_SELECTOR, 'p[data-cy="Sign In"]').click()
-except NoSuchElementException:
-    pass
-'''
 driver.implicitly_wait(5)
 with open('login', 'r', encoding='UTF-8') as f:
     email, password = f.readlines()
@@ -38,41 +30,40 @@ driver.find_element(By.CSS_SELECTOR, 'button[type="submit"]').click()
 
 driver.implicitly_wait(5)
 
-if not TEAM_URL:
-    # Go to Smash Standings
-    driver.find_element(By.XPATH, '//p[contains(text(),"League of Legends")]').click()
-    driver.find_element(By.XPATH, '//p[contains(text(),"Super Smash Bros")]').click()
+# Go to Smash Standings
+driver.find_element(By.XPATH, '//p[contains(text(),"League of Legends")]').click()
+driver.find_element(By.XPATH, '//p[contains(text(),"Super Smash Bros")]').click()
 
-    if not driver.find_elements(By.XPATH, '//p[text()="Spring 2025"]'):
-        driver.find_element(By.XPATH, '//p[contains(text(), "Spring") '\
-                                      'or contains(text(), "Fall")]').click()
-        driver.find_element(By.XPATH, '//p[text()="Spring 2025"]').click()
+if not driver.find_elements(By.XPATH, '//p[text()="Spring 2025"]'):
+    driver.find_element(By.XPATH, '//p[contains(text(), "Spring") '\
+                                    'or contains(text(), "Fall")]').click()
+    driver.find_element(By.XPATH, '//p[text()="Spring 2025"]').click()
 
-    driver.implicitly_wait(5)
+driver.implicitly_wait(5)
 
-    # Find the team
-    action_chains.send_keys(Keys.PAGE_DOWN).send_keys(Keys.PAGE_DOWN).perform()
-    while True:
-        time.sleep(0.5)
-        overall = driver.find_element(By.XPATH,
-                                      '//p[text()="Overall"]/..//following-sibling::div/*')
-        for p in overall.find_elements(By.CSS_SELECTOR, 'p'):
-            if p.text == TEAM_NAME:
-                TEAM_P = p
-                break
-        else:
-            TEAM_P = None
-            overall.send_keys(Keys.PAGE_DOWN)
-        if TEAM_P:
-            try:
-                TEAM_P.click()
-                break
-            except ElementClickInterceptedException:
-                overall.send_keys(Keys.ARROW_DOWN)
+# Find the team
+action_chains.send_keys(Keys.PAGE_DOWN).send_keys(Keys.PAGE_DOWN).perform()
+while True:
     time.sleep(0.5)
-    driver.implicitly_wait(5)
-    driver.close()
-    driver.switch_to.window(driver.window_handles[0])
+    overall = driver.find_element(By.XPATH,
+                                    '//p[text()="Overall"]/..//following-sibling::div/*')
+    for p in overall.find_elements(By.CSS_SELECTOR, 'p'):
+        if p.text == TEAM_NAME:
+            TEAM_P = p
+            break
+    else:
+        TEAM_P = None
+        overall.send_keys(Keys.PAGE_DOWN)
+    if TEAM_P:
+        try:
+            TEAM_P.click()
+            break
+        except ElementClickInterceptedException:
+            overall.send_keys(Keys.ARROW_DOWN)
+time.sleep(0.5)
+driver.implicitly_wait(5)
+driver.close()
+driver.switch_to.window(driver.window_handles[0])
 
 def scrape_matches(s):
     try:
