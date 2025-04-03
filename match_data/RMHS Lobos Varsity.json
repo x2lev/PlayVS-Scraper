@@ -1,26 +1,76 @@
 [
-    "ACHS Varsity",
+    "RMHS Lobos Varsity",
     [
         {
-            "name": "Devyn Maloy",
+            "name": "Maya McCaughan",
             "games": [
                 {
                     "season": "Fall 2024",
-                    "stage": "Smashville",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Simon",
+                    "opp": "Roy",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Simon",
+                    "opp": "Roy",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Cooper White",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Bowser Jr.",
+                    "opp": "Isabelle",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Bowser Jr.",
+                    "opp": "Isabelle",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Henry Mogonye",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
                     "char": "Sora",
                     "opp": "Corrin",
                     "result": "win"
                 },
                 {
                     "season": "Fall 2024",
-                    "stage": "Smashville",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Sora",
+                    "opp": "Corrin",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Henry Mogonye",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
                     "char": "Sora",
                     "opp": "Corrin",
                     "result": "loss"
                 },
                 {
                     "season": "Fall 2024",
-                    "stage": "Smashville",
+                    "stage": "Pok\u00e9mon Stadium 2",
                     "char": "Sora",
                     "opp": "Corrin",
                     "result": "loss"
@@ -28,39 +78,20 @@
             ]
         },
         {
-            "name": "Polo Rodriguez",
+            "name": "Maya McCaughan",
             "games": [
                 {
                     "season": "Fall 2024",
-                    "stage": "Smashville",
-                    "char": "Incineroar",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Simon",
                     "opp": "Isabelle",
                     "result": "loss"
                 },
                 {
                     "season": "Fall 2024",
-                    "stage": "Smashville",
-                    "char": "Incineroar",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Simon",
                     "opp": "Isabelle",
-                    "result": "loss"
-                }
-            ]
-        },
-        {
-            "name": "Brandon Palma",
-            "games": [
-                {
-                    "season": "Fall 2024",
-                    "stage": "Smashville",
-                    "char": "Diddy Kong",
-                    "opp": "Dark Pit",
-                    "result": "loss"
-                },
-                {
-                    "season": "Fall 2024",
-                    "stage": "Smashville",
-                    "char": "Diddy Kong",
-                    "opp": "Luigi",
                     "result": "loss"
                 }
             ]
@@ -68,117 +99,65 @@
     ],
     [
         {
-            "name": "Polo Rodriguez",
+            "name": "Henry Mogonye",
             "games": [
                 {
                     "season": "Fall 2024",
-                    "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Incineroar",
-                    "opp": "Donkey Kong",
-                    "result": "loss"
-                },
-                {
-                    "season": "Fall 2024",
-                    "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Incineroar",
-                    "opp": "Donkey Kong",
+                    "stage": "Small Battlefield",
+                    "char": "Sora",
+                    "opp": "Meta Knight",
                     "result": "win"
                 },
                 {
                     "season": "Fall 2024",
-                    "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Incineroar",
-                    "opp": "Donkey Kong",
+                    "stage": "Small Battlefield",
+                    "char": "Sora",
+                    "opp": "Meta Knight",
                     "result": "win"
                 }
             ]
         },
         {
-            "name": "Brandon Palma",
+            "name": "Cooper White",
             "games": [
                 {
                     "season": "Fall 2024",
-                    "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Diddy Kong",
-                    "opp": "Sephiroth",
+                    "stage": "Small Battlefield",
+                    "char": "Bowser Jr.",
+                    "opp": "Incineroar",
                     "result": "win"
                 },
                 {
                     "season": "Fall 2024",
-                    "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Diddy Kong",
-                    "opp": "Sephiroth",
+                    "stage": "Small Battlefield",
+                    "char": "Bowser Jr.",
+                    "opp": "Incineroar",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Bowser Jr.",
+                    "opp": "Incineroar",
                     "result": "win"
                 }
             ]
         },
         {
-            "name": "Devyn Maloy",
+            "name": "Maya McCaughan",
             "games": [
                 {
                     "season": "Fall 2024",
-                    "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Steve",
-                    "opp": "Snake",
-                    "result": "loss"
-                },
-                {
-                    "season": "Fall 2024",
-                    "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Steve",
-                    "opp": "Snake",
-                    "result": "loss"
-                }
-            ]
-        },
-        {
-            "name": "Brandon Palma",
-            "games": [
-                {
-                    "season": "Fall 2024",
-                    "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Diddy Kong",
-                    "opp": "Donkey Kong",
-                    "result": "loss"
-                },
-                {
-                    "season": "Fall 2024",
-                    "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Diddy Kong",
-                    "opp": "Donkey Kong",
+                    "stage": "Small Battlefield",
+                    "char": "Simon",
+                    "opp": "Joker",
                     "result": "win"
                 },
                 {
                     "season": "Fall 2024",
-                    "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Diddy Kong",
-                    "opp": "Donkey Kong",
-                    "result": "loss"
-                }
-            ]
-        },
-        {
-            "name": "Polo Rodriguez",
-            "games": [
-                {
-                    "season": "Fall 2024",
-                    "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Incineroar",
-                    "opp": "Sephiroth",
-                    "result": "win"
-                },
-                {
-                    "season": "Fall 2024",
-                    "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Incineroar",
-                    "opp": "Sephiroth",
-                    "result": "loss"
-                },
-                {
-                    "season": "Fall 2024",
-                    "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Incineroar",
-                    "opp": "Sephiroth",
+                    "stage": "Small Battlefield",
+                    "char": "Simon",
+                    "opp": "Joker",
                     "result": "win"
                 }
             ]
@@ -186,52 +165,45 @@
     ],
     [
         {
-            "name": "Brandon Palma",
+            "name": "Maya McCaughan",
             "games": [
                 {
                     "season": "Fall 2024",
                     "stage": "Town & City",
-                    "char": "Diddy Kong",
-                    "opp": "Little Mac",
+                    "char": "Simon",
+                    "opp": "Terry",
                     "result": "win"
                 },
                 {
                     "season": "Fall 2024",
                     "stage": "Town & City",
-                    "char": "Diddy Kong",
-                    "opp": "Captain Falcon",
+                    "char": "Simon",
+                    "opp": "Jigglypuff",
                     "result": "win"
                 }
             ]
         },
         {
-            "name": "Polo Rodriguez",
+            "name": "Cooper White",
             "games": [
                 {
                     "season": "Fall 2024",
                     "stage": "Town & City",
-                    "char": "Incineroar",
-                    "opp": "Mega Man",
+                    "char": "Bowser Jr.",
+                    "opp": "Ness",
                     "result": "win"
                 },
                 {
                     "season": "Fall 2024",
                     "stage": "Town & City",
-                    "char": "Incineroar",
-                    "opp": "Ganondorf",
-                    "result": "loss"
-                },
-                {
-                    "season": "Fall 2024",
-                    "stage": "Town & City",
-                    "char": "Incineroar",
-                    "opp": "Ganondorf",
+                    "char": "Bowser Jr.",
+                    "opp": "Cloud",
                     "result": "win"
                 }
             ]
         },
         {
-            "name": "Devyn Maloy",
+            "name": "Henry Mogonye",
             "games": [
                 {
                     "season": "Fall 2024",
@@ -243,27 +215,27 @@
                 {
                     "season": "Fall 2024",
                     "stage": "Town & City",
-                    "char": "Sora",
+                    "char": "Young Link",
                     "opp": "Pyra/Mythra",
                     "result": "loss"
                 }
             ]
         },
         {
-            "name": "Brandon Palma",
+            "name": "Maya McCaughan",
             "games": [
                 {
                     "season": "Fall 2024",
                     "stage": "Town & City",
-                    "char": "Diddy Kong",
-                    "opp": "Captain Falcon",
+                    "char": "Simon",
+                    "opp": "Pikachu",
                     "result": "win"
                 },
                 {
                     "season": "Fall 2024",
                     "stage": "Town & City",
-                    "char": "Diddy Kong",
-                    "opp": "Little Mac",
+                    "char": "Simon",
+                    "opp": "Pikachu",
                     "result": "win"
                 }
             ]
@@ -271,91 +243,77 @@
     ],
     [
         {
-            "name": "Polo Rodriguez",
+            "name": "Lance Hulsing",
             "games": [
                 {
                     "season": "Fall 2024",
                     "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Incineroar",
-                    "opp": "Zelda",
-                    "result": "loss"
-                },
-                {
-                    "season": "Fall 2024",
-                    "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Incineroar",
-                    "opp": "Zelda",
+                    "char": "Hero",
+                    "opp": "Greninja",
                     "result": "win"
                 },
                 {
                     "season": "Fall 2024",
                     "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Incineroar",
-                    "opp": "Zelda",
+                    "char": "Hero",
+                    "opp": "Greninja",
                     "result": "win"
                 }
             ]
         },
         {
-            "name": "Brandon Palma",
+            "name": "Maya McCaughan",
             "games": [
                 {
                     "season": "Fall 2024",
                     "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Diddy Kong",
-                    "opp": "Bayonetta",
+                    "char": "Simon",
+                    "opp": "Ridley",
                     "result": "win"
                 },
                 {
                     "season": "Fall 2024",
                     "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Diddy Kong",
-                    "opp": "Bayonetta",
+                    "char": "Simon",
+                    "opp": "Ridley",
                     "result": "win"
                 }
             ]
         },
         {
-            "name": "Devyn Maloy",
+            "name": "Henry Mogonye",
             "games": [
                 {
                     "season": "Fall 2024",
                     "stage": "Pok\u00e9mon Stadium 2",
                     "char": "Sora",
-                    "opp": "Byleth",
+                    "opp": "Hero",
                     "result": "loss"
                 },
                 {
                     "season": "Fall 2024",
                     "stage": "Pok\u00e9mon Stadium 2",
                     "char": "Sora",
-                    "opp": "Byleth",
-                    "result": "win"
-                },
-                {
-                    "season": "Fall 2024",
-                    "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Sora",
-                    "opp": "Byleth",
+                    "opp": "Hero",
                     "result": "loss"
                 }
             ]
         },
         {
-            "name": "Brandon Palma",
+            "name": "Maya McCaughan",
             "games": [
                 {
                     "season": "Fall 2024",
                     "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Diddy Kong",
-                    "opp": "Byleth",
+                    "char": "Simon",
+                    "opp": "Hero",
                     "result": "win"
                 },
                 {
                     "season": "Fall 2024",
                     "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Diddy Kong",
-                    "opp": "Marth",
+                    "char": "Simon",
+                    "opp": "Hero",
                     "result": "win"
                 }
             ]
@@ -363,115 +321,117 @@
     ],
     [
         {
-            "name": "Polo Rodriguez",
+            "name": "Henry Mogonye",
             "games": [
                 {
                     "season": "Fall 2024",
-                    "stage": "Smashville",
-                    "char": "Incineroar",
-                    "opp": "Captain Falcon",
-                    "result": "loss"
+                    "stage": "Small Battlefield",
+                    "char": "Sora",
+                    "opp": "Roy",
+                    "result": "win"
                 },
                 {
                     "season": "Fall 2024",
-                    "stage": "Smashville",
-                    "char": "Incineroar",
-                    "opp": "Captain Falcon",
+                    "stage": "Small Battlefield",
+                    "char": "Young Link",
+                    "opp": "Falco",
                     "result": "win"
                 }
             ]
         },
         {
-            "name": "Brandon Palma",
+            "name": "Cooper White",
             "games": [
                 {
                     "season": "Fall 2024",
-                    "stage": "Smashville",
-                    "char": "Diddy Kong",
-                    "opp": "Steve",
+                    "stage": "Small Battlefield",
+                    "char": "Bowser Jr.",
+                    "opp": "Sora",
                     "result": "win"
-                }
-            ]
-        },
-        {
-            "name": "Devyn Maloy",
-            "games": [
+                },
                 {
                     "season": "Fall 2024",
-                    "stage": "Smashville",
-                    "char": "Sora",
-                    "opp": "Zelda",
-                    "result": "loss"
-                }
-            ]
-        },
-        {
-            "name": "Brandon Palma",
-            "games": [
-                {
-                    "season": "Fall 2024",
-                    "stage": "Smashville",
-                    "char": "Diddy Kong",
-                    "opp": "Captain Falcon",
-                    "result": "win"
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "name": "Brandon Palma",
-            "games": [
-                {
-                    "season": "Fall 2024",
-                    "stage": "Town & City",
-                    "char": "Fox",
+                    "stage": "Small Battlefield",
+                    "char": "Bowser Jr.",
                     "opp": "Pok\u00e9mon Trainer",
                     "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Maya McCaughan",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Simon",
+                    "opp": "Captain Falcon",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Simon",
+                    "opp": "Captain Falcon",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Lance Hulsing",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Hero",
+                    "opp": "Greninja",
+                    "result": "win"
                 },
                 {
                     "season": "Fall 2024",
                     "stage": "Town & City",
-                    "char": "Fox",
+                    "char": "Hero",
+                    "opp": "Greninja",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Henry Mogonye",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Sora",
+                    "opp": "Inkling",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Sora",
                     "opp": "Sora",
                     "result": "win"
                 }
             ]
         },
         {
-            "name": "Polo Rodriguez",
+            "name": "Cooper White",
             "games": [
                 {
                     "season": "Fall 2024",
                     "stage": "Town & City",
-                    "char": "Incineroar",
-                    "opp": "Captain Falcon",
+                    "char": "Bowser Jr.",
+                    "opp": "Dr. Mario",
                     "result": "win"
                 },
                 {
                     "season": "Fall 2024",
                     "stage": "Town & City",
-                    "char": "Incineroar",
-                    "opp": "Ganondorf",
-                    "result": "win"
-                }
-            ]
-        },
-        {
-            "name": "Devyn Maloy",
-            "games": [
-                {
-                    "season": "Fall 2024",
-                    "stage": "Town & City",
-                    "char": "Sora",
-                    "opp": "Terry",
-                    "result": "win"
-                },
-                {
-                    "season": "Fall 2024",
-                    "stage": "Town & City",
-                    "char": "Sora",
-                    "opp": "Terry",
+                    "char": "Dr. Mario",
+                    "opp": "Dr. Mario",
                     "result": "win"
                 }
             ]
@@ -479,412 +439,263 @@
     ],
     [
         {
-            "name": "Brandon Palma",
+            "name": "Henry Mogonye",
             "games": [
                 {
                     "season": "Fall 2024",
-                    "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Ness",
-                    "opp": "Piranha Plant",
-                    "result": "win"
-                },
-                {
-                    "season": "Fall 2024",
-                    "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Ness",
-                    "opp": "Piranha Plant",
-                    "result": "win"
-                }
-            ]
-        },
-        {
-            "name": "Devyn Maloy",
-            "games": [
-                {
-                    "season": "Fall 2024",
-                    "stage": "Pok\u00e9mon Stadium 2",
+                    "stage": "Small Battlefield",
                     "char": "Sora",
-                    "opp": "Terry",
-                    "result": "loss"
-                },
-                {
-                    "season": "Fall 2024",
-                    "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Steve",
-                    "opp": "Terry",
-                    "result": "win"
-                },
-                {
-                    "season": "Fall 2024",
-                    "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Steve",
-                    "opp": "Terry",
-                    "result": "loss"
-                }
-            ]
-        },
-        {
-            "name": "Polo Rodriguez",
-            "games": [
-                {
-                    "season": "Fall 2024",
-                    "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Incineroar",
-                    "opp": "Donkey Kong",
-                    "result": "win"
-                },
-                {
-                    "season": "Fall 2024",
-                    "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Incineroar",
-                    "opp": "Diddy Kong",
-                    "result": "win"
-                }
-            ]
-        },
-        {
-            "name": "Brandon Palma",
-            "games": [
-                {
-                    "season": "Fall 2024",
-                    "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Falco",
-                    "opp": "Terry",
-                    "result": "win"
-                },
-                {
-                    "season": "Fall 2024",
-                    "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Falco",
-                    "opp": "Terry",
-                    "result": "loss"
-                },
-                {
-                    "season": "Fall 2024",
-                    "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Falco",
-                    "opp": "Terry",
-                    "result": "win"
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "name": "Brandon Palma",
-            "games": [
-                {
-                    "season": "Fall 2024",
-                    "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Rosalina & Luma",
-                    "opp": "Captain Falcon",
-                    "result": "win"
-                },
-                {
-                    "season": "Fall 2024",
-                    "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Rosalina & Luma",
-                    "opp": "Captain Falcon",
-                    "result": "win"
-                }
-            ]
-        },
-        {
-            "name": "Polo Rodriguez",
-            "games": [
-                {
-                    "season": "Fall 2024",
-                    "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Donkey Kong",
-                    "opp": "Min Min",
-                    "result": "win"
-                },
-                {
-                    "season": "Fall 2024",
-                    "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Sonic",
-                    "opp": "Min Min",
-                    "result": "loss"
-                },
-                {
-                    "season": "Fall 2024",
-                    "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Incineroar",
-                    "opp": "Min Min",
-                    "result": "loss"
-                }
-            ]
-        },
-        {
-            "name": "Devyn Maloy",
-            "games": [
-                {
-                    "season": "Fall 2024",
-                    "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Steve",
                     "opp": "Kirby",
                     "result": "win"
                 },
                 {
                     "season": "Fall 2024",
-                    "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Steve",
-                    "opp": "Toon Link",
-                    "result": "win"
-                }
-            ]
-        },
-        {
-            "name": "Brandon Palma",
-            "games": [
-                {
-                    "season": "Fall 2024",
-                    "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Falco",
-                    "opp": "Joker",
-                    "result": "win"
-                },
-                {
-                    "season": "Fall 2024",
-                    "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Falco",
-                    "opp": "Joker",
-                    "result": "win"
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "name": "Devyn Maloy",
-            "games": [
-                {
-                    "season": "Fall 2024",
-                    "stage": "Battlefield",
+                    "stage": "Small Battlefield",
                     "char": "Sora",
-                    "opp": "Bayonetta",
-                    "result": "loss"
-                },
-                {
-                    "season": "Fall 2024",
-                    "stage": "Battlefield",
-                    "char": "Steve",
-                    "opp": "Bayonetta",
-                    "result": "loss"
-                }
-            ]
-        },
-        {
-            "name": "Polo Rodriguez",
-            "games": [
-                {
-                    "season": "Fall 2024",
-                    "stage": "Battlefield",
-                    "char": "Incineroar",
-                    "opp": "Zelda",
-                    "result": "win"
-                },
-                {
-                    "season": "Fall 2024",
-                    "stage": "Battlefield",
-                    "char": "Incineroar",
-                    "opp": "Zelda",
+                    "opp": "Kirby",
                     "result": "win"
                 }
             ]
         },
         {
-            "name": "Alejandro Rodriguez Espinoza",
+            "name": "Cooper White",
             "games": [
                 {
                     "season": "Fall 2024",
-                    "stage": "Battlefield",
-                    "char": "Corrin",
-                    "opp": "Byleth",
-                    "result": "loss"
-                },
-                {
-                    "season": "Fall 2024",
-                    "stage": "Battlefield",
-                    "char": "Banjo & Kazooie",
-                    "opp": "Byleth",
-                    "result": "loss"
-                }
-            ]
-        },
-        {
-            "name": "Polo Rodriguez",
-            "games": [
-                {
-                    "season": "Fall 2024",
-                    "stage": "Battlefield",
-                    "char": "Incineroar",
-                    "opp": "Bayonetta",
-                    "result": "loss"
-                },
-                {
-                    "season": "Fall 2024",
-                    "stage": "Battlefield",
-                    "char": "Incineroar",
-                    "opp": "Bayonetta",
+                    "stage": "Small Battlefield",
+                    "char": "Bowser Jr.",
+                    "opp": "Sora",
                     "result": "win"
                 },
                 {
                     "season": "Fall 2024",
-                    "stage": "Battlefield",
-                    "char": "Incineroar",
-                    "opp": "Bayonetta",
+                    "stage": "Small Battlefield",
+                    "char": "Bowser Jr.",
+                    "opp": "Sora",
                     "result": "win"
                 }
             ]
         },
         {
-            "name": "Alejandro Rodriguez Espinoza",
+            "name": "Maya McCaughan",
             "games": [
                 {
                     "season": "Fall 2024",
-                    "stage": "Battlefield",
-                    "char": "Corrin",
-                    "opp": "Zelda",
+                    "stage": "Small Battlefield",
+                    "char": "Simon",
+                    "opp": "Joker",
                     "result": "loss"
                 },
                 {
                     "season": "Fall 2024",
-                    "stage": "Battlefield",
-                    "char": "Ike",
-                    "opp": "Zelda",
-                    "result": "loss"
+                    "stage": "Small Battlefield",
+                    "char": "Simon",
+                    "opp": "Joker",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Simon",
+                    "opp": "Joker",
+                    "result": "win"
                 }
             ]
         }
     ],
     [
         {
-            "name": "Polo Rodriguez",
+            "name": "Cooper White",
             "games": [
                 {
                     "season": "Fall 2024",
-                    "stage": "Town & City",
-                    "char": "Incineroar",
-                    "opp": "Hero",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Bowser Jr.",
+                    "opp": "Steve",
                     "result": "win"
                 },
                 {
                     "season": "Fall 2024",
-                    "stage": "Town & City",
-                    "char": "Incineroar",
-                    "opp": "Mario",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Bowser Jr.",
+                    "opp": "Steve",
                     "result": "win"
                 }
             ]
         },
         {
-            "name": "Alejandro Rodriguez Espinoza",
+            "name": "Maya McCaughan",
             "games": [
                 {
                     "season": "Fall 2024",
-                    "stage": "Town & City",
-                    "char": "Byleth",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Simon",
+                    "opp": "Sephiroth",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Simon",
+                    "opp": "Sephiroth",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Henry Mogonye",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Sora",
                     "opp": "Pit",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Sora",
+                    "opp": "King K. Rool",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Cooper White",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Bowser Jr.",
+                    "opp": "Roy",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Bowser Jr.",
+                    "opp": "Cloud",
                     "result": "loss"
                 },
                 {
                     "season": "Fall 2024",
-                    "stage": "Town & City",
-                    "char": "Kirby",
-                    "opp": "Pit",
-                    "result": "win"
-                },
-                {
-                    "season": "Fall 2024",
-                    "stage": "Town & City",
-                    "char": "Jigglypuff",
-                    "opp": "Ness",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Bowser Jr.",
+                    "opp": "Cloud",
                     "result": "win"
                 }
             ]
         },
         {
-            "name": "Devyn Maloy",
+            "name": "Maya McCaughan",
             "games": [
                 {
                     "season": "Fall 2024",
-                    "stage": "Town & City",
-                    "char": "Corrin",
-                    "opp": "Mr. Game & Watch",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Simon",
+                    "opp": "Kazuya",
                     "result": "win"
                 },
                 {
                     "season": "Fall 2024",
-                    "stage": "Town & City",
-                    "char": "Corrin",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Simon",
+                    "opp": "Terry",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Henry Mogonye",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Sora",
+                    "opp": "Little Mac",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Sora",
+                    "opp": "Little Mac",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Sora",
+                    "opp": "Little Mac",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Maya McCaughan",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Simon",
                     "opp": "Yoshi",
                     "result": "win"
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "name": "Polo Rodriguez",
-            "games": [
-                {
-                    "season": "Fall 2024",
-                    "stage": "Small Battlefield",
-                    "char": "Incineroar",
-                    "opp": "Bayonetta",
-                    "result": "win"
                 },
                 {
                     "season": "Fall 2024",
                     "stage": "Small Battlefield",
-                    "char": "Donkey Kong",
-                    "opp": "King Dedede",
+                    "char": "Simon",
+                    "opp": "Incineroar",
                     "result": "win"
                 }
             ]
         },
         {
-            "name": "Devyn Maloy",
+            "name": "Henry Mogonye",
             "games": [
                 {
                     "season": "Fall 2024",
                     "stage": "Small Battlefield",
                     "char": "Sora",
-                    "opp": "Wario",
+                    "opp": "Ridley",
                     "result": "win"
                 },
                 {
                     "season": "Fall 2024",
                     "stage": "Small Battlefield",
                     "char": "Sora",
-                    "opp": "Wario",
+                    "opp": "Ridley",
                     "result": "loss"
                 },
                 {
                     "season": "Fall 2024",
                     "stage": "Small Battlefield",
                     "char": "Sora",
-                    "opp": "Wario",
+                    "opp": "Ridley",
                     "result": "win"
                 }
             ]
         },
         {
-            "name": "Alejandro Rodriguez Espinoza",
+            "name": "Cooper White",
             "games": [
                 {
                     "season": "Fall 2024",
                     "stage": "Small Battlefield",
-                    "char": "Ike",
-                    "opp": "Greninja",
+                    "char": "Bowser Jr.",
+                    "opp": "Kirby",
                     "result": "win"
                 },
                 {
                     "season": "Fall 2024",
                     "stage": "Small Battlefield",
-                    "char": "Corrin",
-                    "opp": "Lucario",
+                    "char": "Bowser Jr.",
+                    "opp": "Pit",
                     "result": "win"
                 }
             ]
@@ -892,16 +703,179 @@
     ],
     [
         {
-            "name": "kaden detreville",
-            "games": []
+            "name": "Maya McCaughan",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Simon",
+                    "opp": "Sephiroth",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Simon",
+                    "opp": "Random",
+                    "result": "win"
+                }
+            ]
         },
         {
-            "name": "Alejandro Rodriguez Espinoza",
-            "games": []
+            "name": "Cooper White",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Bowser Jr.",
+                    "opp": "Steve",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Bowser Jr.",
+                    "opp": "Steve",
+                    "result": "win"
+                }
+            ]
         },
         {
-            "name": "Polo Rodriguez",
-            "games": []
+            "name": "Henry Mogonye",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Sora",
+                    "opp": "Joker",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Sora",
+                    "opp": "Joker",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Cooper White",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Smashville",
+                    "char": "Bowser Jr.",
+                    "opp": "Pit",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Smashville",
+                    "char": "Bowser Jr.",
+                    "opp": "Pok\u00e9mon Trainer",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Maya McCaughan",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Smashville",
+                    "char": "Simon",
+                    "opp": "Pyra/Mythra",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Smashville",
+                    "char": "Simon",
+                    "opp": "Sonic",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Lance Hulsing",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Smashville",
+                    "char": "Hero",
+                    "opp": "Bowser Jr.",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Smashville",
+                    "char": "Hero",
+                    "opp": "Bowser Jr.",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Maya McCaughan",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Simon",
+                    "opp": "Kirby",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Simon",
+                    "opp": "Kirby",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Cooper White",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Bowser Jr.",
+                    "opp": "R.O.B.",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Bowser Jr.",
+                    "opp": "R.O.B.",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Henry Mogonye",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Sora",
+                    "opp": "Cloud",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Sora",
+                    "opp": "Shulk",
+                    "result": "win"
+                }
+            ]
         }
     ]
 ]
