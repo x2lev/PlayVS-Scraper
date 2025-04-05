@@ -1,0 +1,311 @@
+{
+    "Caleb Protsman": {
+        "season": [
+            "Spring 2025",
+            "Fall 2024"
+        ],
+        "pos": [
+            2,
+            1,
+            5,
+            0,
+            1
+        ],
+        "stage": {
+            "Smashville": {
+                "win": 4,
+                "loss": 1
+            },
+            "Small Battlefield": {
+                "win": 4,
+                "loss": 8
+            },
+            "Town & City": {
+                "win": 0,
+                "loss": 4
+            }
+        },
+        "char": {
+            "Incineroar": {
+                "win": 2,
+                "loss": 1
+            },
+            "King K. Rool": {
+                "win": 3,
+                "loss": 2
+            },
+            "Mr. Game & Watch": {
+                "win": 3,
+                "loss": 6
+            },
+            "R.O.B.": {
+                "win": 0,
+                "loss": 1
+            },
+            "Dark Samus": {
+                "win": 0,
+                "loss": 3
+            }
+        },
+        "opp": {
+            "Incineroar": {
+                "win": 2,
+                "loss": 1
+            },
+            "Ridley": {
+                "win": 1,
+                "loss": 0
+            },
+            "Young Link": {
+                "win": 0,
+                "loss": 2
+            },
+            "Sora": {
+                "win": 2,
+                "loss": 0
+            },
+            "Cloud": {
+                "win": 1,
+                "loss": 2
+            },
+            "Joker": {
+                "win": 0,
+                "loss": 1
+            },
+            "Snake": {
+                "win": 0,
+                "loss": 1
+            },
+            "R.O.B.": {
+                "win": 1,
+                "loss": 4
+            },
+            "Mii Swordfighter": {
+                "win": 0,
+                "loss": 2
+            },
+            "King K. Rool": {
+                "win": 1,
+                "loss": 0
+            }
+        }
+    },
+    "Benjamin Menard": {
+        "season": [
+            "Spring 2025",
+            "Fall 2024"
+        ],
+        "pos": [
+            4,
+            3,
+            0,
+            1,
+            0
+        ],
+        "stage": {
+            "Smashville": {
+                "win": 4,
+                "loss": 7
+            },
+            "Small Battlefield": {
+                "win": 8,
+                "loss": 3
+            },
+            "Town & City": {
+                "win": 3,
+                "loss": 3
+            }
+        },
+        "char": {
+            "Cloud": {
+                "win": 12,
+                "loss": 10
+            },
+            "Bowser": {
+                "win": 1,
+                "loss": 2
+            },
+            "Toon Link": {
+                "win": 1,
+                "loss": 0
+            },
+            "Incineroar": {
+                "win": 1,
+                "loss": 0
+            },
+            "Captain Falcon": {
+                "win": 0,
+                "loss": 1
+            }
+        },
+        "opp": {
+            "King K. Rool": {
+                "win": 1,
+                "loss": 2
+            },
+            "Byleth": {
+                "win": 1,
+                "loss": 1
+            },
+            "Corrin": {
+                "win": 1,
+                "loss": 0
+            },
+            "R.O.B.": {
+                "win": 2,
+                "loss": 0
+            },
+            "Kazuya": {
+                "win": 2,
+                "loss": 1
+            },
+            "Incineroar": {
+                "win": 1,
+                "loss": 0
+            },
+            "Donkey Kong": {
+                "win": 0,
+                "loss": 2
+            },
+            "Jigglypuff": {
+                "win": 1,
+                "loss": 0
+            },
+            "Bowser": {
+                "win": 1,
+                "loss": 0
+            },
+            "Greninja": {
+                "win": 0,
+                "loss": 2
+            },
+            "Inkling": {
+                "win": 1,
+                "loss": 2
+            },
+            "Ike": {
+                "win": 1,
+                "loss": 0
+            },
+            "Joker": {
+                "win": 1,
+                "loss": 0
+            },
+            "Piranha Plant": {
+                "win": 1,
+                "loss": 0
+            },
+            "Kirby": {
+                "win": 0,
+                "loss": 1
+            },
+            "King Dedede": {
+                "win": 1,
+                "loss": 2
+            }
+        }
+    },
+    "Luca Foley": {
+        "season": [
+            "Spring 2025",
+            "Fall 2024"
+        ],
+        "pos": [
+            4,
+            3,
+            2,
+            2,
+            0
+        ],
+        "stage": {
+            "Smashville": {
+                "win": 3,
+                "loss": 2
+            },
+            "Small Battlefield": {
+                "win": 7,
+                "loss": 4
+            },
+            "Town & City": {
+                "win": 4,
+                "loss": 3
+            }
+        },
+        "char": {
+            "Toon Link": {
+                "win": 14,
+                "loss": 6
+            },
+            "Olimar": {
+                "win": 0,
+                "loss": 1
+            },
+            "Mr. Game & Watch": {
+                "win": 0,
+                "loss": 1
+            },
+            "Dark Samus": {
+                "win": 0,
+                "loss": 1
+            }
+        },
+        "opp": {
+            "Sonic": {
+                "win": 2,
+                "loss": 0
+            },
+            "Corrin": {
+                "win": 1,
+                "loss": 0
+            },
+            "Sheik": {
+                "win": 1,
+                "loss": 0
+            },
+            "R.O.B.": {
+                "win": 1,
+                "loss": 0
+            },
+            "Wario": {
+                "win": 1,
+                "loss": 0
+            },
+            "Joker": {
+                "win": 2,
+                "loss": 2
+            },
+            "Donkey Kong": {
+                "win": 1,
+                "loss": 0
+            },
+            "Bowser": {
+                "win": 1,
+                "loss": 1
+            },
+            "King K. Rool": {
+                "win": 0,
+                "loss": 1
+            },
+            "Pok\u00e9mon Trainer": {
+                "win": 0,
+                "loss": 2
+            },
+            "Sora": {
+                "win": 2,
+                "loss": 1
+            },
+            "Incineroar": {
+                "win": 1,
+                "loss": 0
+            },
+            "Random": {
+                "win": 1,
+                "loss": 0
+            },
+            "Ganondorf": {
+                "win": 0,
+                "loss": 2
+            }
+        }
+    }
+}

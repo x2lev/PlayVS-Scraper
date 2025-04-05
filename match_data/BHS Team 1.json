@@ -1,0 +1,350 @@
+[
+    "BHS Team 1",
+    [
+        {
+            "name": "Donneven Schmitter",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Toon Link",
+                    "opp": "Kirby",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Toon Link",
+                    "opp": "Kirby",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Ibrahima Ba",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Lucina",
+                    "opp": "Joker",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Terry",
+                    "opp": "Sonic",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Caden Blankenship",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Greninja",
+                    "opp": "Steve",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Greninja",
+                    "opp": "Steve",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Greninja",
+                    "opp": "Steve",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Ibrahima Ba",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Mario",
+                    "opp": "Pikachu",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Ken",
+                    "opp": "Kirby",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Marth",
+                    "opp": "Kirby",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Caden Blankenship",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Greninja",
+                    "opp": "Kirby",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Greninja",
+                    "opp": "Kirby",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Ibrahima Ba",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Lucina",
+                    "opp": "Banjo & Kazooie",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Ike",
+                    "opp": "Banjo & Kazooie",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Alexander Lee",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Ridley",
+                    "opp": "Incineroar",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Ridley",
+                    "opp": "Pyra/Mythra",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Caden Blankenship",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Greninja",
+                    "opp": "Pyra/Mythra",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Greninja",
+                    "opp": "Pyra/Mythra",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Ibrahima Ba",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Lucina",
+                    "opp": "Kirby",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Ganondorf",
+                    "opp": "Kirby",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Ibrahima Ba",
+            "games": []
+        },
+        {
+            "name": "Caden Blankenship",
+            "games": []
+        },
+        {
+            "name": "Donneven Schmitter",
+            "games": []
+        }
+    ],
+    [
+        {
+            "name": "Ibrahima Ba",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Meta Knight",
+                    "opp": "Little Mac",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Marth",
+                    "opp": "Little Mac",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Terry",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Caden Blankenship",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Greninja",
+                    "opp": "Snake",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Greninja",
+                    "opp": "Snake",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Donneven Schmitter",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Sonic",
+                    "opp": "Pyra/Mythra",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Joker",
+                    "opp": "Pyra/Mythra",
+                    "result": "loss"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Ibrahima Ba",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Ryu",
+                    "opp": "King K. Rool",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Fox",
+                    "opp": "Captain Falcon",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Caden Blankenship",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Greninja",
+                    "opp": "Captain Falcon",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Greninja",
+                    "opp": "Terry",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Alexander Lee",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Donkey Kong",
+                    "opp": "Corrin",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Meta Knight",
+                    "opp": "Corrin",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Caden Blankenship",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Greninja",
+                    "opp": "Hero",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Greninja",
+                    "opp": "Sora",
+                    "result": "win"
+                }
+            ]
+        }
+    ]
+]

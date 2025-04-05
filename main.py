@@ -1,26 +1,14 @@
-from scraper import scrape_team
 from formatter import format_team
 from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
+from scraper import scrape_team
 
 if __name__ == '__main__':
     team_names = [
-        'Patriot Smash 1',
-        'Valor A Team',
-        'ACHS Varsity',
-        'Creek Smash Red Team',
-        'Regret Squad LHS Varsity A',
-        'San Pedro Gaming',
-        'North Smash A',
-        'RMHS Lobos Varsity',
-        'Kadet Smash Bros',
-        'Rizzlers',
-        'Thunderhawks A',
-        'Smash Team Varsity',
-        'PH ISH',
-        'Royal',
-        'Lancer Esports',
-        'Filibuster LHS Varsity B'
+        #'BHS Team 1',
+        #'Pikmen 5',
+        #'DSISD B',
+        'Smashing Phoenix',
+        'FCHS Smash B'
     ]
     for tn in team_names:
         print(tn)

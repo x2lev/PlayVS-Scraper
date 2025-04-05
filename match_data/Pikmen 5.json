@@ -1,0 +1,673 @@
+[
+    "Pikmen 5",
+    [
+        {
+            "name": "Ernesto Sanchez Hernandez",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Rosalina & Luma",
+                    "opp": "Byleth",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Pok\u00e9mon Trainer",
+                    "opp": "Byleth",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Derek Schlenk",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Incineroar",
+                    "opp": "Little Mac",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Incineroar",
+                    "opp": "Little Mac",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Ethan Hughes",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Roy",
+                    "opp": "Mii Brawler",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Cloud",
+                    "opp": "Piranha Plant",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Roy",
+                    "opp": "Piranha Plant",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Derek Schlenk",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Incineroar",
+                    "opp": "Byleth",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Incineroar",
+                    "opp": "Byleth",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Incineroar",
+                    "opp": "Byleth",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Ethan Hughes",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Roy",
+                    "opp": "Incineroar",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Roy",
+                    "opp": "Incineroar",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Roy",
+                    "opp": "Incineroar",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Ernesto Sanchez Hernandez",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Rosalina & Luma",
+                    "opp": "Cloud",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Daisy",
+                    "opp": "Cloud",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Derek Schlenk",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Incineroar",
+                    "opp": "Mr. Game & Watch",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Incineroar",
+                    "opp": "Falco",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Ethan Hughes",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Roy",
+                    "opp": "Falco",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Roy",
+                    "opp": "Incineroar",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Incineroar",
+                    "opp": "Incineroar",
+                    "result": "loss"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Ethan Hughes",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Roy",
+                    "opp": "Dark Samus",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Roy",
+                    "opp": "Dark Samus",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Roy",
+                    "opp": "Dark Samus",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "vincent ries",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Kirby",
+                    "opp": "Byleth",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Sonic",
+                    "opp": "Byleth",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Derek Schlenk",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Incineroar",
+                    "opp": "Ike",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Incineroar",
+                    "opp": "Ike",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Ethan Hughes",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Roy",
+                    "opp": "Kirby",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "R.O.B.",
+                    "opp": "Byleth",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Ethan Hughes",
+            "games": []
+        },
+        {
+            "name": "Ernesto Sanchez Hernandez",
+            "games": []
+        },
+        {
+            "name": "Seamus Joyce",
+            "games": []
+        }
+    ],
+    [
+        {
+            "name": "Ethan Hughes",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Roy",
+                    "opp": "Steve",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Ice Climbers",
+                    "opp": "Steve",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Ernesto Sanchez Hernandez",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Rosalina & Luma",
+                    "opp": "Roy",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Pac-Man",
+                    "opp": "Roy",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Seamus Joyce",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Hero",
+                    "opp": "Luigi",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Pyra/Mythra",
+                    "opp": "Luigi",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Pyra/Mythra",
+                    "opp": "Mario",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Ethan Hughes",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Roy",
+                    "opp": "Luigi",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Roy",
+                    "opp": "Luigi",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Ethan Hughes",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Roy",
+                    "opp": "Corrin",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Ganondorf",
+                    "opp": "Greninja",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Derek Schlenk",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Incineroar",
+                    "opp": "Incineroar",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Incineroar",
+                    "opp": "Incineroar",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Ernesto Sanchez Hernandez",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Rosalina & Luma",
+                    "opp": "Byleth",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Rosalina & Luma",
+                    "opp": "Bowser",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Ethan Hughes",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Roy",
+                    "opp": "Incineroar",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Roy",
+                    "opp": "Incineroar",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Derek Schlenk",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Incineroar",
+                    "opp": "Incineroar",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "King K. Rool",
+                    "opp": "Incineroar",
+                    "result": "loss"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Derek Schlenk",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Incineroar",
+                    "opp": "Cloud",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Incineroar",
+                    "opp": "Kazuya",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Micheal Hedlund",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Lucario",
+                    "opp": "Zero Suit Samus",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Lucario",
+                    "opp": "Ganondorf",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Lucario",
+                    "opp": "Ganondorf",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "vincent ries",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Sonic",
+                    "opp": "Captain Falcon",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Sonic",
+                    "opp": "Lucas",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Derek Schlenk",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Incineroar",
+                    "opp": "Sephiroth",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Incineroar",
+                    "opp": "Incineroar",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Micheal Hedlund",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Little Mac",
+                    "opp": "Ganondorf",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Lucario",
+                    "opp": "Ganondorf",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Seamus Joyce",
+            "games": []
+        },
+        {
+            "name": "Owen Barton",
+            "games": []
+        },
+        {
+            "name": "Derek Schlenk",
+            "games": []
+        }
+    ],
+    [
+        {
+            "name": "Seamus Joyce",
+            "games": []
+        },
+        {
+            "name": "Owen Barton",
+            "games": []
+        },
+        {
+            "name": "Derek Schlenk",
+            "games": []
+        }
+    ],
+    [
+        {
+            "name": "Seamus Joyce",
+            "games": []
+        },
+        {
+            "name": "vincent ries",
+            "games": []
+        },
+        {
+            "name": "davylxrd",
+            "games": []
+        }
+    ],
+    [
+        {
+            "name": "Seamus Joyce",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Pok\u00e9mon Trainer",
+                    "opp": "Young Link",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Palutena",
+                    "opp": "Young Link",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Derek Schlenk",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Incineroar",
+                    "opp": "Mr. Game & Watch",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "King Dedede",
+                    "opp": "Mr. Game & Watch",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "vincent ries",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Kirby",
+                    "opp": "Roy",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Inkling",
+                    "opp": "Roy",
+                    "result": "loss"
+                }
+            ]
+        }
+    ]
+]

@@ -1,0 +1,274 @@
+{
+    "Donneven Schmitter": {
+        "season": [
+            "Spring 2025"
+        ],
+        "pos": [
+            1,
+            0,
+            1,
+            0,
+            0
+        ],
+        "stage": {
+            "Pok\u00e9mon Stadium 2": {
+                "win": 0,
+                "loss": 2
+            },
+            "Small Battlefield": {
+                "win": 0,
+                "loss": 2
+            }
+        },
+        "char": {
+            "Toon Link": {
+                "win": 0,
+                "loss": 2
+            },
+            "Sonic": {
+                "win": 0,
+                "loss": 1
+            },
+            "Joker": {
+                "win": 0,
+                "loss": 1
+            }
+        },
+        "opp": {
+            "Kirby": {
+                "win": 0,
+                "loss": 2
+            },
+            "Pyra/Mythra": {
+                "win": 0,
+                "loss": 2
+            }
+        }
+    },
+    "Ibrahima Ba": {
+        "season": [
+            "Spring 2025"
+        ],
+        "pos": [
+            3,
+            2,
+            0,
+            1,
+            1
+        ],
+        "stage": {
+            "Pok\u00e9mon Stadium 2": {
+                "win": 8,
+                "loss": 1
+            },
+            "Small Battlefield": {
+                "win": 1,
+                "loss": 2
+            },
+            "Battlefield": {
+                "win": 2,
+                "loss": 0
+            }
+        },
+        "char": {
+            "Lucina": {
+                "win": 3,
+                "loss": 0
+            },
+            "Terry": {
+                "win": 1,
+                "loss": 0
+            },
+            "Mario": {
+                "win": 1,
+                "loss": 0
+            },
+            "Ken": {
+                "win": 0,
+                "loss": 1
+            },
+            "Marth": {
+                "win": 2,
+                "loss": 0
+            },
+            "Ike": {
+                "win": 1,
+                "loss": 0
+            },
+            "Ganondorf": {
+                "win": 1,
+                "loss": 0
+            },
+            "Meta Knight": {
+                "win": 0,
+                "loss": 1
+            },
+            "King K. Rool": {
+                "win": 0,
+                "loss": 1
+            },
+            "Ryu": {
+                "win": 1,
+                "loss": 0
+            },
+            "Fox": {
+                "win": 1,
+                "loss": 0
+            }
+        },
+        "opp": {
+            "Joker": {
+                "win": 1,
+                "loss": 0
+            },
+            "Sonic": {
+                "win": 1,
+                "loss": 0
+            },
+            "Pikachu": {
+                "win": 1,
+                "loss": 0
+            },
+            "Kirby": {
+                "win": 3,
+                "loss": 1
+            },
+            "Banjo & Kazooie": {
+                "win": 2,
+                "loss": 0
+            },
+            "Little Mac": {
+                "win": 1,
+                "loss": 1
+            },
+            "Terry": {
+                "win": 0,
+                "loss": 1
+            },
+            "King K. Rool": {
+                "win": 1,
+                "loss": 0
+            },
+            "Captain Falcon": {
+                "win": 1,
+                "loss": 0
+            }
+        }
+    },
+    "Caden Blankenship": {
+        "season": [
+            "Spring 2025"
+        ],
+        "pos": [
+            1,
+            3,
+            1,
+            2,
+            0
+        ],
+        "stage": {
+            "Pok\u00e9mon Stadium 2": {
+                "win": 4,
+                "loss": 3
+            },
+            "Small Battlefield": {
+                "win": 0,
+                "loss": 2
+            },
+            "Battlefield": {
+                "win": 4,
+                "loss": 0
+            }
+        },
+        "char": {
+            "Greninja": {
+                "win": 8,
+                "loss": 5
+            }
+        },
+        "opp": {
+            "Steve": {
+                "win": 2,
+                "loss": 1
+            },
+            "Kirby": {
+                "win": 2,
+                "loss": 0
+            },
+            "Pyra/Mythra": {
+                "win": 0,
+                "loss": 2
+            },
+            "Snake": {
+                "win": 0,
+                "loss": 2
+            },
+            "Captain Falcon": {
+                "win": 1,
+                "loss": 0
+            },
+            "Terry": {
+                "win": 1,
+                "loss": 0
+            },
+            "Hero": {
+                "win": 1,
+                "loss": 0
+            },
+            "Sora": {
+                "win": 1,
+                "loss": 0
+            }
+        }
+    },
+    "Alexander Lee": {
+        "season": [
+            "Spring 2025"
+        ],
+        "pos": [
+            0,
+            0,
+            1,
+            0,
+            0
+        ],
+        "stage": {
+            "Pok\u00e9mon Stadium 2": {
+                "win": 0,
+                "loss": 2
+            },
+            "Battlefield": {
+                "win": 0,
+                "loss": 2
+            }
+        },
+        "char": {
+            "Ridley": {
+                "win": 0,
+                "loss": 2
+            },
+            "Donkey Kong": {
+                "win": 0,
+                "loss": 1
+            },
+            "Meta Knight": {
+                "win": 0,
+                "loss": 1
+            }
+        },
+        "opp": {
+            "Incineroar": {
+                "win": 0,
+                "loss": 1
+            },
+            "Pyra/Mythra": {
+                "win": 0,
+                "loss": 1
+            },
+            "Corrin": {
+                "win": 0,
+                "loss": 2
+            }
+        }
+    }
+}

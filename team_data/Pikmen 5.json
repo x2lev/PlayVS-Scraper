@@ -1,0 +1,401 @@
+{
+    "Ernesto Sanchez Hernandez": {
+        "season": [
+            "Spring 2025"
+        ],
+        "pos": [
+            1,
+            3,
+            1,
+            0,
+            0
+        ],
+        "stage": {
+            "Small Battlefield": {
+                "win": 0,
+                "loss": 2
+            },
+            "Smashville": {
+                "win": 0,
+                "loss": 2
+            },
+            "Town & City": {
+                "win": 0,
+                "loss": 2
+            },
+            "Pok\u00e9mon Stadium 2": {
+                "win": 0,
+                "loss": 2
+            }
+        },
+        "char": {
+            "Rosalina & Luma": {
+                "win": 0,
+                "loss": 5
+            },
+            "Pok\u00e9mon Trainer": {
+                "win": 0,
+                "loss": 1
+            },
+            "Daisy": {
+                "win": 0,
+                "loss": 1
+            },
+            "Pac-Man": {
+                "win": 0,
+                "loss": 1
+            }
+        },
+        "opp": {
+            "Byleth": {
+                "win": 0,
+                "loss": 3
+            },
+            "Cloud": {
+                "win": 0,
+                "loss": 2
+            },
+            "Roy": {
+                "win": 0,
+                "loss": 2
+            },
+            "Bowser": {
+                "win": 0,
+                "loss": 1
+            }
+        }
+    },
+    "Derek Schlenk": {
+        "season": [
+            "Spring 2025",
+            "Fall 2024"
+        ],
+        "pos": [
+            1,
+            3,
+            3,
+            1,
+            1
+        ],
+        "stage": {
+            "Small Battlefield": {
+                "win": 6,
+                "loss": 1
+            },
+            "Smashville": {
+                "win": 2,
+                "loss": 0
+            },
+            "Pok\u00e9mon Stadium 2": {
+                "win": 0,
+                "loss": 4
+            },
+            "Battlefield": {
+                "win": 4,
+                "loss": 2
+            }
+        },
+        "char": {
+            "Incineroar": {
+                "win": 12,
+                "loss": 5
+            },
+            "King K. Rool": {
+                "win": 0,
+                "loss": 1
+            },
+            "King Dedede": {
+                "win": 0,
+                "loss": 1
+            }
+        },
+        "opp": {
+            "Little Mac": {
+                "win": 2,
+                "loss": 0
+            },
+            "Byleth": {
+                "win": 2,
+                "loss": 1
+            },
+            "Mr. Game & Watch": {
+                "win": 1,
+                "loss": 2
+            },
+            "Falco": {
+                "win": 1,
+                "loss": 0
+            },
+            "Ike": {
+                "win": 2,
+                "loss": 0
+            },
+            "Incineroar": {
+                "win": 1,
+                "loss": 4
+            },
+            "Cloud": {
+                "win": 1,
+                "loss": 0
+            },
+            "Kazuya": {
+                "win": 1,
+                "loss": 0
+            },
+            "Sephiroth": {
+                "win": 1,
+                "loss": 0
+            }
+        }
+    },
+    "Ethan Hughes": {
+        "season": [
+            "Spring 2025"
+        ],
+        "pos": [
+            5,
+            0,
+            1,
+            1,
+            0
+        ],
+        "stage": {
+            "Small Battlefield": {
+                "win": 6,
+                "loss": 2
+            },
+            "Smashville": {
+                "win": 2,
+                "loss": 4
+            },
+            "Town & City": {
+                "win": 4,
+                "loss": 0
+            },
+            "Pok\u00e9mon Stadium 2": {
+                "win": 4,
+                "loss": 0
+            }
+        },
+        "char": {
+            "Roy": {
+                "win": 13,
+                "loss": 4
+            },
+            "Cloud": {
+                "win": 0,
+                "loss": 1
+            },
+            "Incineroar": {
+                "win": 0,
+                "loss": 1
+            },
+            "R.O.B.": {
+                "win": 1,
+                "loss": 0
+            },
+            "Ice Climbers": {
+                "win": 1,
+                "loss": 0
+            },
+            "Ganondorf": {
+                "win": 1,
+                "loss": 0
+            }
+        },
+        "opp": {
+            "Mii Brawler": {
+                "win": 1,
+                "loss": 0
+            },
+            "Piranha Plant": {
+                "win": 1,
+                "loss": 1
+            },
+            "Incineroar": {
+                "win": 3,
+                "loss": 4
+            },
+            "Falco": {
+                "win": 1,
+                "loss": 0
+            },
+            "Dark Samus": {
+                "win": 2,
+                "loss": 1
+            },
+            "Kirby": {
+                "win": 1,
+                "loss": 0
+            },
+            "Byleth": {
+                "win": 1,
+                "loss": 0
+            },
+            "Steve": {
+                "win": 2,
+                "loss": 0
+            },
+            "Luigi": {
+                "win": 2,
+                "loss": 0
+            },
+            "Corrin": {
+                "win": 1,
+                "loss": 0
+            },
+            "Greninja": {
+                "win": 1,
+                "loss": 0
+            }
+        }
+    },
+    "vincent ries": {
+        "season": [
+            "Spring 2025",
+            "Fall 2024"
+        ],
+        "pos": [
+            0,
+            2,
+            2,
+            0,
+            0
+        ],
+        "stage": {
+            "Small Battlefield": {
+                "win": 0,
+                "loss": 2
+            },
+            "Battlefield": {
+                "win": 0,
+                "loss": 4
+            }
+        },
+        "char": {
+            "Kirby": {
+                "win": 0,
+                "loss": 2
+            },
+            "Sonic": {
+                "win": 0,
+                "loss": 3
+            },
+            "Inkling": {
+                "win": 0,
+                "loss": 1
+            }
+        },
+        "opp": {
+            "Byleth": {
+                "win": 0,
+                "loss": 2
+            },
+            "Captain Falcon": {
+                "win": 0,
+                "loss": 1
+            },
+            "Lucas": {
+                "win": 0,
+                "loss": 1
+            },
+            "Roy": {
+                "win": 0,
+                "loss": 2
+            }
+        }
+    },
+    "Seamus Joyce": {
+        "season": [
+            "Spring 2025",
+            "Fall 2024"
+        ],
+        "pos": [
+            4,
+            0,
+            1,
+            0,
+            0
+        ],
+        "stage": {
+            "Town & City": {
+                "win": 2,
+                "loss": 1
+            },
+            "Battlefield": {
+                "win": 0,
+                "loss": 2
+            }
+        },
+        "char": {
+            "Hero": {
+                "win": 0,
+                "loss": 1
+            },
+            "Pyra/Mythra": {
+                "win": 2,
+                "loss": 0
+            },
+            "Pok\u00e9mon Trainer": {
+                "win": 0,
+                "loss": 1
+            },
+            "Palutena": {
+                "win": 0,
+                "loss": 1
+            }
+        },
+        "opp": {
+            "Luigi": {
+                "win": 1,
+                "loss": 1
+            },
+            "Mario": {
+                "win": 1,
+                "loss": 0
+            },
+            "Young Link": {
+                "win": 0,
+                "loss": 2
+            }
+        }
+    },
+    "Micheal Hedlund": {
+        "season": [
+            "Spring 2025"
+        ],
+        "pos": [
+            0,
+            1,
+            0,
+            0,
+            1
+        ],
+        "stage": {
+            "Battlefield": {
+                "win": 3,
+                "loss": 2
+            }
+        },
+        "char": {
+            "Lucario": {
+                "win": 2,
+                "loss": 2
+            },
+            "Little Mac": {
+                "win": 1,
+                "loss": 0
+            }
+        },
+        "opp": {
+            "Zero Suit Samus": {
+                "win": 1,
+                "loss": 0
+            },
+            "Ganondorf": {
+                "win": 2,
+                "loss": 2
+            }
+        }
+    }
+}

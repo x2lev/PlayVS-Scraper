@@ -1,0 +1,396 @@
+{
+    "Elvin Manica": {
+        "season": [
+            "Spring 2025"
+        ],
+        "pos": [
+            2,
+            0,
+            2,
+            1,
+            0
+        ],
+        "stage": {
+            "Battlefield": {
+                "win": 1,
+                "loss": 0
+            },
+            "Pok\u00e9mon Stadium 2": {
+                "win": 4,
+                "loss": 1
+            },
+            "Smashville": {
+                "win": 2,
+                "loss": 0
+            }
+        },
+        "char": {
+            "Greninja": {
+                "win": 7,
+                "loss": 1
+            }
+        },
+        "opp": {
+            "Steve": {
+                "win": 1,
+                "loss": 0
+            },
+            "Piranha Plant": {
+                "win": 1,
+                "loss": 1
+            },
+            "Ganondorf": {
+                "win": 1,
+                "loss": 0
+            },
+            "Mr. Game & Watch": {
+                "win": 1,
+                "loss": 0
+            },
+            "Kirby": {
+                "win": 1,
+                "loss": 0
+            },
+            "Corrin": {
+                "win": 2,
+                "loss": 0
+            }
+        }
+    },
+    "Zaelynd West": {
+        "season": [
+            "Spring 2025"
+        ],
+        "pos": [
+            0,
+            2,
+            0,
+            0,
+            0
+        ],
+        "stage": {
+            "Pok\u00e9mon Stadium 2": {
+                "win": 0,
+                "loss": 2
+            }
+        },
+        "char": {
+            "Little Mac": {
+                "win": 0,
+                "loss": 1
+            },
+            "Cloud": {
+                "win": 0,
+                "loss": 1
+            }
+        },
+        "opp": {
+            "Ridley": {
+                "win": 0,
+                "loss": 2
+            }
+        }
+    },
+    "oliver moore": {
+        "season": [
+            "Spring 2025"
+        ],
+        "pos": [
+            1,
+            0,
+            1,
+            0,
+            1
+        ],
+        "stage": {
+            "Pok\u00e9mon Stadium 2": {
+                "win": 1,
+                "loss": 8
+            }
+        },
+        "char": {
+            "Snake": {
+                "win": 1,
+                "loss": 5
+            },
+            "Cloud": {
+                "win": 0,
+                "loss": 3
+            }
+        },
+        "opp": {
+            "Isabelle": {
+                "win": 1,
+                "loss": 0
+            },
+            "Dark Samus": {
+                "win": 0,
+                "loss": 2
+            },
+            "Pyra/Mythra": {
+                "win": 0,
+                "loss": 2
+            },
+            "Kirby": {
+                "win": 0,
+                "loss": 3
+            },
+            "Jigglypuff": {
+                "win": 0,
+                "loss": 1
+            }
+        }
+    },
+    "Liam Frank": {
+        "season": [
+            "Spring 2025"
+        ],
+        "pos": [
+            0,
+            0,
+            1,
+            0,
+            0
+        ],
+        "stage": {
+            "Pok\u00e9mon Stadium 2": {
+                "win": 0,
+                "loss": 2
+            }
+        },
+        "char": {
+            "Zero Suit Samus": {
+                "win": 0,
+                "loss": 1
+            },
+            "Pyra/Mythra": {
+                "win": 0,
+                "loss": 1
+            }
+        },
+        "opp": {
+            "Pyra/Mythra": {
+                "win": 0,
+                "loss": 1
+            },
+            "King K. Rool": {
+                "win": 0,
+                "loss": 1
+            }
+        }
+    },
+    "Kari Essien": {
+        "season": [
+            "Spring 2025"
+        ],
+        "pos": [
+            1,
+            3,
+            1,
+            0,
+            0
+        ],
+        "stage": {
+            "Pok\u00e9mon Stadium 2": {
+                "win": 5,
+                "loss": 3
+            },
+            "Smashville": {
+                "win": 2,
+                "loss": 0
+            },
+            "Town & City": {
+                "win": 0,
+                "loss": 2
+            }
+        },
+        "char": {
+            "Bowser Jr.": {
+                "win": 1,
+                "loss": 2
+            },
+            "Dark Samus": {
+                "win": 6,
+                "loss": 1
+            },
+            "Corrin": {
+                "win": 0,
+                "loss": 1
+            },
+            "Kirby": {
+                "win": 0,
+                "loss": 1
+            }
+        },
+        "opp": {
+            "Mr. Game & Watch": {
+                "win": 1,
+                "loss": 1
+            },
+            "Kirby": {
+                "win": 1,
+                "loss": 0
+            },
+            "Luigi": {
+                "win": 2,
+                "loss": 0
+            },
+            "Toon Link": {
+                "win": 1,
+                "loss": 2
+            },
+            "Pyra/Mythra": {
+                "win": 0,
+                "loss": 1
+            },
+            "Byleth": {
+                "win": 2,
+                "loss": 0
+            },
+            "Yoshi": {
+                "win": 0,
+                "loss": 1
+            }
+        }
+    },
+    "Irvin Zaragoza": {
+        "season": [
+            "Spring 2025"
+        ],
+        "pos": [
+            2,
+            1,
+            1,
+            1,
+            0
+        ],
+        "stage": {
+            "Smashville": {
+                "win": 2,
+                "loss": 0
+            },
+            "Pok\u00e9mon Stadium 2": {
+                "win": 6,
+                "loss": 3
+            },
+            "Town & City": {
+                "win": 3,
+                "loss": 2
+            }
+        },
+        "char": {
+            "King Dedede": {
+                "win": 9,
+                "loss": 4
+            },
+            "R.O.B.": {
+                "win": 2,
+                "loss": 1
+            }
+        },
+        "opp": {
+            "Pok\u00e9mon Trainer": {
+                "win": 1,
+                "loss": 0
+            },
+            "Bowser Jr.": {
+                "win": 2,
+                "loss": 0
+            },
+            "Joker": {
+                "win": 0,
+                "loss": 1
+            },
+            "Byleth": {
+                "win": 1,
+                "loss": 0
+            },
+            "Captain Falcon": {
+                "win": 1,
+                "loss": 0
+            },
+            "Toon Link": {
+                "win": 2,
+                "loss": 1
+            },
+            "Pyra/Mythra": {
+                "win": 1,
+                "loss": 1
+            },
+            "Pit": {
+                "win": 1,
+                "loss": 0
+            },
+            "Wolf": {
+                "win": 1,
+                "loss": 0
+            },
+            "Ness": {
+                "win": 1,
+                "loss": 0
+            },
+            "Isabelle": {
+                "win": 0,
+                "loss": 1
+            },
+            "Jigglypuff": {
+                "win": 0,
+                "loss": 1
+            }
+        }
+    },
+    "Jeremiah Campbell": {
+        "season": [
+            "Spring 2025"
+        ],
+        "pos": [
+            1,
+            1,
+            0,
+            0,
+            0
+        ],
+        "stage": {
+            "Pok\u00e9mon Stadium 2": {
+                "win": 2,
+                "loss": 0
+            },
+            "Town & City": {
+                "win": 0,
+                "loss": 2
+            }
+        },
+        "char": {
+            "King Dedede": {
+                "win": 2,
+                "loss": 0
+            },
+            "Ike": {
+                "win": 0,
+                "loss": 1
+            },
+            "Meta Knight": {
+                "win": 0,
+                "loss": 1
+            }
+        },
+        "opp": {
+            "Corrin": {
+                "win": 1,
+                "loss": 0
+            },
+            "Robin": {
+                "win": 1,
+                "loss": 0
+            },
+            "Terry": {
+                "win": 0,
+                "loss": 1
+            },
+            "Dr. Mario": {
+                "win": 0,
+                "loss": 1
+            }
+        }
+    }
+}
