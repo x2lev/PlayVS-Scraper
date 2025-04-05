@@ -23,9 +23,10 @@ if __name__ == '__main__':
         'Filibuster LHS Varsity B'
     ]
     for tn in team_names:
+        print(tn)
         scraped = False
         formatted = False
-        while not scrape_team or not formatted:
+        while not scraped or not formatted:
             if not scraped:
                 driver = webdriver.Firefox()
                 try:

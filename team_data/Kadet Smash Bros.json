@@ -1,1 +1,196 @@
-{}
+{
+    "James Phelps": {
+        "season": [
+            "Spring 2025"
+        ],
+        "pos": [
+            1,
+            4,
+            1,
+            0,
+            0
+        ],
+        "stage": {
+            "Smashville": {
+                "win": 2,
+                "loss": 0
+            },
+            "Pok\u00e9mon Stadium 2": {
+                "win": 6,
+                "loss": 4
+            },
+            "Battlefield": {
+                "win": 2,
+                "loss": 1
+            }
+        },
+        "char": {
+            "Joker": {
+                "win": 6,
+                "loss": 5
+            },
+            "Donkey Kong": {
+                "win": 4,
+                "loss": 0
+            }
+        },
+        "opp": {
+            "Zero Suit Samus": {
+                "win": 2,
+                "loss": 0
+            },
+            "Jigglypuff": {
+                "win": 1,
+                "loss": 0
+            },
+            "R.O.B.": {
+                "win": 1,
+                "loss": 0
+            },
+            "Incineroar": {
+                "win": 1,
+                "loss": 0
+            },
+            "Lucina": {
+                "win": 1,
+                "loss": 0
+            },
+            "Dr. Mario": {
+                "win": 2,
+                "loss": 4
+            },
+            "Falco": {
+                "win": 1,
+                "loss": 1
+            },
+            "Luigi": {
+                "win": 1,
+                "loss": 0
+            }
+        }
+    },
+    "David Basanez": {
+        "season": [
+            "Spring 2025"
+        ],
+        "pos": [
+            6,
+            1,
+            0,
+            1,
+            0
+        ],
+        "stage": {
+            "Smashville": {
+                "win": 2,
+                "loss": 1
+            },
+            "Pok\u00e9mon Stadium 2": {
+                "win": 8,
+                "loss": 4
+            },
+            "Battlefield": {
+                "win": 2,
+                "loss": 1
+            }
+        },
+        "char": {
+            "Cloud": {
+                "win": 12,
+                "loss": 6
+            }
+        },
+        "opp": {
+            "Sora": {
+                "win": 2,
+                "loss": 1
+            },
+            "Ice Climbers": {
+                "win": 2,
+                "loss": 0
+            },
+            "Isabelle": {
+                "win": 3,
+                "loss": 1
+            },
+            "Steve": {
+                "win": 1,
+                "loss": 0
+            },
+            "Roy": {
+                "win": 2,
+                "loss": 0
+            },
+            "Kirby": {
+                "win": 2,
+                "loss": 0
+            },
+            "Wario": {
+                "win": 0,
+                "loss": 4
+            }
+        }
+    },
+    "Creed Anderson": {
+        "season": [
+            "Spring 2025"
+        ],
+        "pos": [
+            0,
+            2,
+            5,
+            0,
+            0
+        ],
+        "stage": {
+            "Smashville": {
+                "win": 2,
+                "loss": 0
+            },
+            "Pok\u00e9mon Stadium 2": {
+                "win": 4,
+                "loss": 4
+            },
+            "Battlefield": {
+                "win": 2,
+                "loss": 0
+            }
+        },
+        "char": {
+            "Bowser Jr.": {
+                "win": 8,
+                "loss": 4
+            }
+        },
+        "opp": {
+            "Kirby": {
+                "win": 2,
+                "loss": 0
+            },
+            "Incineroar": {
+                "win": 1,
+                "loss": 0
+            },
+            "Bowser": {
+                "win": 1,
+                "loss": 0
+            },
+            "King Dedede": {
+                "win": 2,
+                "loss": 0
+            },
+            "Luigi": {
+                "win": 0,
+                "loss": 2
+            },
+            "Kazuya": {
+                "win": 0,
+                "loss": 2
+            },
+            "Inkling": {
+                "win": 2,
+                "loss": 0
+            }
+        }
+    }
+}

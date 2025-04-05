@@ -145,7 +145,7 @@ def scrape_team(team_name, driver):
     driver.find_element(By.XPATH, '//p[text()="Playoffs"]').click()
     driver.find_element(By.XPATH, '//p[text()="Regular Season"]').click()
     driver.implicitly_wait(5)
-    #scrape_matches('Spring 2025')
+    scrape_matches('Spring 2025')
     for i in range(1, len(seasons)):
         if seasons[i] == 'Fall 2024': #int(seasons[i].split(' ')[1]) > 2023 or seasons[i] == 'Fall 2023':
             driver.find_element(By.XPATH, f'//p[text()="{seasons[i-1]}"]').click()

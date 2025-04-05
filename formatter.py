@@ -39,7 +39,6 @@ def format_team(team_name):
         _, record = item
         return record['win'] + record['loss']
 
-
     for name in list(players):
         if 'Spring 2025' not in players[name]['season']:
             del players[name]

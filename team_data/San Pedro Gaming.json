@@ -1,1 +1,240 @@
-{}
+{
+    "Leo Torres": {
+        "season": [
+            "Spring 2025"
+        ],
+        "pos": [
+            2,
+            0,
+            1,
+            0,
+            0
+        ],
+        "stage": {
+            "Pok\u00e9mon Stadium 2": {
+                "win": 2,
+                "loss": 0
+            },
+            "Town & City": {
+                "win": 0,
+                "loss": 2
+            },
+            "Battlefield": {
+                "win": 2,
+                "loss": 0
+            },
+            "Smashville": {
+                "win": 1,
+                "loss": 2
+            },
+            "Small Battlefield": {
+                "win": 1,
+                "loss": 2
+            }
+        },
+        "char": {
+            "Kazuya": {
+                "win": 3,
+                "loss": 0
+            },
+            "Samus": {
+                "win": 3,
+                "loss": 4
+            },
+            "Dark Samus": {
+                "win": 0,
+                "loss": 2
+            }
+        },
+        "opp": {
+            "Jigglypuff": {
+                "win": 2,
+                "loss": 0
+            },
+            "Ridley": {
+                "win": 0,
+                "loss": 2
+            },
+            "Peach": {
+                "win": 2,
+                "loss": 0
+            },
+            "Cloud": {
+                "win": 1,
+                "loss": 2
+            },
+            "Meta Knight": {
+                "win": 1,
+                "loss": 0
+            },
+            "Incineroar": {
+                "win": 0,
+                "loss": 2
+            }
+        }
+    },
+    "Uriel Lamas": {
+        "season": [
+            "Spring 2025"
+        ],
+        "pos": [
+            0,
+            7,
+            0,
+            1,
+            0
+        ],
+        "stage": {
+            "Pok\u00e9mon Stadium 2": {
+                "win": 4,
+                "loss": 0
+            },
+            "Town & City": {
+                "win": 4,
+                "loss": 0
+            },
+            "Battlefield": {
+                "win": 2,
+                "loss": 0
+            },
+            "Smashville": {
+                "win": 4,
+                "loss": 0
+            },
+            "Small Battlefield": {
+                "win": 0,
+                "loss": 4
+            }
+        },
+        "char": {
+            "Luigi": {
+                "win": 13,
+                "loss": 2
+            },
+            "Ridley": {
+                "win": 1,
+                "loss": 0
+            },
+            "Pyra/Mythra": {
+                "win": 0,
+                "loss": 1
+            },
+            "Joker": {
+                "win": 0,
+                "loss": 1
+            }
+        },
+        "opp": {
+            "Ridley": {
+                "win": 2,
+                "loss": 0
+            },
+            "Kirby": {
+                "win": 1,
+                "loss": 0
+            },
+            "Falco": {
+                "win": 1,
+                "loss": 0
+            },
+            "Yoshi": {
+                "win": 4,
+                "loss": 0
+            },
+            "Link": {
+                "win": 2,
+                "loss": 0
+            },
+            "Terry": {
+                "win": 1,
+                "loss": 0
+            },
+            "Hero": {
+                "win": 1,
+                "loss": 0
+            },
+            "Sora": {
+                "win": 1,
+                "loss": 0
+            },
+            "Roy": {
+                "win": 1,
+                "loss": 0
+            },
+            "Little Mac": {
+                "win": 0,
+                "loss": 4
+            }
+        }
+    },
+    "Edgar Luevano Juarez": {
+        "season": [
+            "Spring 2025"
+        ],
+        "pos": [
+            5,
+            0,
+            1,
+            0,
+            0
+        ],
+        "stage": {
+            "Pok\u00e9mon Stadium 2": {
+                "win": 1,
+                "loss": 2
+            },
+            "Town & City": {
+                "win": 2,
+                "loss": 0
+            },
+            "Battlefield": {
+                "win": 2,
+                "loss": 0
+            },
+            "Smashville": {
+                "win": 2,
+                "loss": 0
+            },
+            "Small Battlefield": {
+                "win": 2,
+                "loss": 0
+            }
+        },
+        "char": {
+            "Steve": {
+                "win": 9,
+                "loss": 2
+            }
+        },
+        "opp": {
+            "Kirby": {
+                "win": 1,
+                "loss": 2
+            },
+            "Bowser": {
+                "win": 2,
+                "loss": 0
+            },
+            "Incineroar": {
+                "win": 1,
+                "loss": 0
+            },
+            "Rosalina & Luma": {
+                "win": 1,
+                "loss": 0
+            },
+            "Min Min": {
+                "win": 1,
+                "loss": 0
+            },
+            "Pichu": {
+                "win": 1,
+                "loss": 0
+            },
+            "Pok\u00e9mon Trainer": {
+                "win": 2,
+                "loss": 0
+            }
+        }
+    }
+}
