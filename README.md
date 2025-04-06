@@ -6,5 +6,5 @@ The first line should be the email and the second line should be the password.
 4. Run main.py and leave your computer while the program is scraping.
 5. In the end you can find the teams you scraped as a json file of all their matches in math_data/ and a json file containing player data in team_data/. A human-readable version of the latter will be made in the formatted_data/ folder.
 
-<a/> \\
+<a/> \
 If you don't want to go through the trouble of scraping the teams yourself, some of them have already been scraped and you can find their human-readable files in the aformetioned formatted_data/ folder. 
