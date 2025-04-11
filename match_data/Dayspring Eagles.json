@@ -1,0 +1,1375 @@
+[
+    "Dayspring Eagles",
+    [
+        {
+            "name": "Judah Godsey",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Inkling",
+                    "opp": "Bowser",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Inkling",
+                    "opp": "Bowser",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Nathan Ruff",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Incineroar",
+                    "opp": "Yoshi",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Incineroar",
+                    "opp": "Yoshi",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Drew Moody",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Ridley",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Ridley",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Judah Godsey",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Inkling",
+                    "opp": "Ridley",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Inkling",
+                    "opp": "Ridley",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Nathan Ruff",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Incineroar",
+                    "opp": "Yoshi",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Incineroar",
+                    "opp": "Yoshi",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Drew Moody",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "King K. Rool",
+                    "opp": "Hero",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "King K. Rool",
+                    "opp": "Cloud",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Nathan Ruff",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Incineroar",
+                    "opp": "Byleth",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Incineroar",
+                    "opp": "Samus",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Judah Godsey",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Inkling",
+                    "opp": "Hero",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Inkling",
+                    "opp": "Marth",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Drew Moody",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Corrin",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Corrin",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Nathan Ruff",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Incineroar",
+                    "opp": "Sephiroth",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Incineroar",
+                    "opp": "Sephiroth",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Judah Godsey",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Inkling",
+                    "opp": "Pyra/Mythra",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Inkling",
+                    "opp": "Kirby",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Drew Moody",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Sora",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Sora",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Judah Godsey",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Inkling",
+                    "opp": "Bowser Jr.",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Inkling",
+                    "opp": "Bowser Jr.",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Nathan Ruff",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Incineroar",
+                    "opp": "Simon",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Incineroar",
+                    "opp": "Simon",
+                    "result": "loss"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Judah Godsey",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Inkling",
+                    "opp": "Falco",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Inkling",
+                    "opp": "Falco",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Zachariah Ruff",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Link",
+                    "opp": "Ice Climbers",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Link",
+                    "opp": "Lucas",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Nathan Ruff",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Incineroar",
+                    "opp": "Mii Brawler",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Incineroar",
+                    "opp": "Mii Brawler",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Incineroar",
+                    "opp": "Mii Brawler",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Nathan Ruff",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Incineroar",
+                    "opp": "Ice Climbers",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Incineroar",
+                    "opp": "Lucas",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Judah Godsey",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Inkling",
+                    "opp": "Cloud",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Inkling",
+                    "opp": "Cloud",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Nathan Ruff",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Incineroar",
+                    "opp": "Pyra/Mythra",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Incineroar",
+                    "opp": "Pyra/Mythra",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Zachariah Ruff",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Link",
+                    "opp": "Donkey Kong",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Link",
+                    "opp": "Donkey Kong",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Link",
+                    "opp": "Donkey Kong",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Drew Moody",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Hero",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Dr. Mario",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Dr. Mario",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Nathan Ruff",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Incineroar",
+                    "opp": "Lucas",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Byleth",
+                    "opp": "Lucas",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Zachariah Ruff",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Link",
+                    "opp": "Dark Samus",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Link",
+                    "opp": "Young Link",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Drew Moody",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Hero",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Dr. Mario",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Dr. Mario",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Nathan Ruff",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Incineroar",
+                    "opp": "Lucas",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Byleth",
+                    "opp": "Lucas",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Zachariah Ruff",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Link",
+                    "opp": "Dark Samus",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Link",
+                    "opp": "Young Link",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Zachariah Ruff",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Link",
+                    "opp": "Pikachu",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Link",
+                    "opp": "Pikachu",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Judah Godsey",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Inkling",
+                    "opp": "Samus",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Inkling",
+                    "opp": "Isabelle",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Nathan Ruff",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Incineroar",
+                    "opp": "Bowser Jr.",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Incineroar",
+                    "opp": "King K. Rool",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Zachariah Ruff",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Link",
+                    "opp": "Corrin",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Link",
+                    "opp": "Corrin",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Nathan Ruff",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Mewtwo",
+                    "opp": "Donkey Kong",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Incineroar",
+                    "opp": "Donkey Kong",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Judah Godsey",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Inkling",
+                    "opp": "Inkling",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Sora",
+                    "opp": "Inkling",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Sora",
+                    "opp": "Inkling",
+                    "result": "loss"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Judah Godsey",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Inkling",
+                    "opp": "Incineroar",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Inkling",
+                    "opp": "Hero",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Nathan Ruff",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Incineroar",
+                    "opp": "Joker",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Incineroar",
+                    "opp": "Falco",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Zachariah Ruff",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Link",
+                    "opp": "Isabelle",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Link",
+                    "opp": "Isabelle",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Nathan Ruff",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Incineroar",
+                    "opp": "Isabelle",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Incineroar",
+                    "opp": "Jigglypuff",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Judah Godsey",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Inkling",
+                    "opp": "Captain Falcon",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Inkling",
+                    "opp": "Pikachu",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Nathan Ruff",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Incineroar",
+                    "opp": "Cloud",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Incineroar",
+                    "opp": "Toon Link",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Zachariah Ruff",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Link",
+                    "opp": "Pyra/Mythra",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Link",
+                    "opp": "Pyra/Mythra",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Judah Godsey",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Inkling",
+                    "opp": "Captain Falcon",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Sora",
+                    "opp": "Captain Falcon",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Zachariah Ruff",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Link",
+                    "opp": "Pyra/Mythra",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Link",
+                    "opp": "Pyra/Mythra",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Nathan Ruff",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Incineroar",
+                    "opp": "Ike",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Incineroar",
+                    "opp": "Incineroar",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Judah Godsey",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Sora",
+                    "opp": "King K. Rool",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Sora",
+                    "opp": "King K. Rool",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Judah Godsey",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Inkling",
+                    "opp": "Pyra/Mythra",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Inkling",
+                    "opp": "Pyra/Mythra",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Nathan Ruff",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Incineroar",
+                    "opp": "King K. Rool",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Incineroar",
+                    "opp": "King K. Rool",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Zachariah Ruff",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Link",
+                    "opp": "Mr. Game & Watch",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Link",
+                    "opp": "Mr. Game & Watch",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Judah Godsey",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Sora",
+                    "opp": "Sonic",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Sora",
+                    "opp": "Greninja",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Nathan Ruff",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Incineroar",
+                    "opp": "Link",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Incineroar",
+                    "opp": "Link",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Nathan Ruff",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Incineroar",
+                    "opp": "Mr. Game & Watch",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Incineroar",
+                    "opp": "Mr. Game & Watch",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Asher Taylor",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Piranha Plant",
+                    "opp": "Min Min",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Piranha Plant",
+                    "opp": "Min Min",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Zachariah Ruff",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Link",
+                    "opp": "King K. Rool",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Link",
+                    "opp": "Incineroar",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Nathan Ruff",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Incineroar",
+                    "opp": "Ryu",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Mewtwo",
+                    "opp": "Ryu",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Nathan Ruff",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Incineroar",
+                    "opp": "Incineroar",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Incineroar",
+                    "opp": "Incineroar",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Zachariah Ruff",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Link",
+                    "opp": "Ryu",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Link",
+                    "opp": "Bowser",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Link",
+                    "opp": "Bowser",
+                    "result": "loss"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Nathan Ruff",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Incineroar",
+                    "opp": "Cloud",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Incineroar",
+                    "opp": "Cloud",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Judah Godsey",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Inkling",
+                    "opp": "Incineroar",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Inkling",
+                    "opp": "Jigglypuff",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Zachariah Ruff",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Link",
+                    "opp": "Mario",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Link",
+                    "opp": "Mario",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Nathan Ruff",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Incineroar",
+                    "opp": "Mario",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Incineroar",
+                    "opp": "Lucina",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Judah Godsey",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Sora",
+                    "opp": "Pyra/Mythra",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Sora",
+                    "opp": "R.O.B.",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Nathan Ruff",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Incineroar",
+                    "opp": "Sonic",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Incineroar",
+                    "opp": "Kirby",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Zachariah Ruff",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Link",
+                    "opp": "Sephiroth",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Link",
+                    "opp": "Sephiroth",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Judah Godsey",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Sora",
+                    "opp": "Pyra/Mythra",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Sora",
+                    "opp": "R.O.B.",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Nathan Ruff",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Incineroar",
+                    "opp": "Sonic",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Incineroar",
+                    "opp": "Kirby",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Zachariah Ruff",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Link",
+                    "opp": "Sephiroth",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Link",
+                    "opp": "Sephiroth",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Judah Godsey",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Inkling",
+                    "opp": "Steve",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Sora",
+                    "opp": "King K. Rool",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Russell Edwards",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Pyra/Mythra",
+                    "opp": "Little Mac",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Corrin",
+                    "opp": "Diddy Kong",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Nathan Ruff",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Incineroar",
+                    "opp": "Ryu",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Incineroar",
+                    "opp": "Sora",
+                    "result": "win"
+                }
+            ]
+        }
+    ]
+]

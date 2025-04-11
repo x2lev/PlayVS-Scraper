@@ -1,4 +1,147 @@
 {
+    "Polo Rodriguez": {
+        "season": [
+            "Spring 2025",
+            "Fall 2024"
+        ],
+        "pos": [
+            1,
+            7,
+            1,
+            1,
+            1
+        ],
+        "stage": {
+            "Town & City": {
+                "win": 15,
+                "loss": 3
+            },
+            "Pok\u00e9mon Stadium 2": {
+                "win": 15,
+                "loss": 7
+            },
+            "Small Battlefield": {
+                "win": 2,
+                "loss": 0
+            },
+            "Smashville": {
+                "win": 3,
+                "loss": 3
+            },
+            "Battlefield": {
+                "win": 4,
+                "loss": 1
+            }
+        },
+        "char": {
+            "Donkey Kong": {
+                "win": 18,
+                "loss": 4
+            },
+            "Incineroar": {
+                "win": 21,
+                "loss": 9
+            },
+            "Sonic": {
+                "win": 0,
+                "loss": 1
+            }
+        },
+        "opp": {
+            "Cloud": {
+                "win": 3,
+                "loss": 0
+            },
+            "Jigglypuff": {
+                "win": 1,
+                "loss": 0
+            },
+            "Steve": {
+                "win": 1,
+                "loss": 0
+            },
+            "Diddy Kong": {
+                "win": 2,
+                "loss": 0
+            },
+            "Donkey Kong": {
+                "win": 3,
+                "loss": 4
+            },
+            "Dr. Mario": {
+                "win": 2,
+                "loss": 0
+            },
+            "Wario": {
+                "win": 0,
+                "loss": 1
+            },
+            "Kirby": {
+                "win": 1,
+                "loss": 0
+            },
+            "Captain Falcon": {
+                "win": 3,
+                "loss": 1
+            },
+            "Wolf": {
+                "win": 1,
+                "loss": 0
+            },
+            "Ness": {
+                "win": 1,
+                "loss": 0
+            },
+            "Hero": {
+                "win": 4,
+                "loss": 0
+            },
+            "Samus": {
+                "win": 1,
+                "loss": 0
+            },
+            "Bowser Jr.": {
+                "win": 1,
+                "loss": 0
+            },
+            "Pok\u00e9mon Trainer": {
+                "win": 1,
+                "loss": 0
+            },
+            "Isabelle": {
+                "win": 0,
+                "loss": 2
+            },
+            "Sephiroth": {
+                "win": 2,
+                "loss": 1
+            },
+            "Mega Man": {
+                "win": 1,
+                "loss": 0
+            },
+            "Ganondorf": {
+                "win": 2,
+                "loss": 1
+            },
+            "Zelda": {
+                "win": 4,
+                "loss": 1
+            },
+            "Min Min": {
+                "win": 1,
+                "loss": 2
+            },
+            "Bayonetta": {
+                "win": 2,
+                "loss": 1
+            },
+            "Mario": {
+                "win": 2,
+                "loss": 0
+            }
+        }
+    },
     "Brandon Palma": {
         "season": [
             "Spring 2025",
@@ -6,18 +149,18 @@
         ],
         "pos": [
             1,
-            6,
+            7,
             1,
             1,
             1
         ],
         "stage": {
             "Town & City": {
-                "win": 10,
+                "win": 12,
                 "loss": 3
             },
             "Pok\u00e9mon Stadium 2": {
-                "win": 19,
+                "win": 21,
                 "loss": 5
             },
             "Small Battlefield": {
@@ -31,7 +174,7 @@
         },
         "char": {
             "Diddy Kong": {
-                "win": 25,
+                "win": 29,
                 "loss": 10
             },
             "Fox": {
@@ -52,6 +195,14 @@
             }
         },
         "opp": {
+            "King K. Rool": {
+                "win": 2,
+                "loss": 0
+            },
+            "Kirby": {
+                "win": 3,
+                "loss": 0
+            },
             "Terry": {
                 "win": 3,
                 "loss": 3
@@ -59,10 +210,6 @@
             "Wario": {
                 "win": 0,
                 "loss": 2
-            },
-            "Kirby": {
-                "win": 1,
-                "loss": 0
             },
             "Roy": {
                 "win": 1,
@@ -145,18 +292,18 @@
         ],
         "pos": [
             4,
-            1,
-            1,
+            2,
+            4,
             0,
             0
         ],
         "stage": {
             "Town & City": {
-                "win": 10,
+                "win": 12,
                 "loss": 5
             },
             "Pok\u00e9mon Stadium 2": {
-                "win": 8,
+                "win": 10,
                 "loss": 7
             },
             "Small Battlefield": {
@@ -173,13 +320,13 @@
             }
         },
         "char": {
+            "Sora": {
+                "win": 15,
+                "loss": 11
+            },
             "Steve": {
                 "win": 8,
                 "loss": 6
-            },
-            "Sora": {
-                "win": 11,
-                "loss": 11
             },
             "Corrin": {
                 "win": 4,
@@ -187,6 +334,10 @@
             }
         },
         "opp": {
+            "Sonic": {
+                "win": 4,
+                "loss": 0
+            },
             "Lucas": {
                 "win": 0,
                 "loss": 2
@@ -244,141 +395,6 @@
                 "loss": 2
             },
             "Mr. Game & Watch": {
-                "win": 2,
-                "loss": 0
-            }
-        }
-    },
-    "Polo Rodriguez": {
-        "season": [
-            "Spring 2025",
-            "Fall 2024"
-        ],
-        "pos": [
-            1,
-            7,
-            4,
-            2,
-            1
-        ],
-        "stage": {
-            "Town & City": {
-                "win": 13,
-                "loss": 3
-            },
-            "Pok\u00e9mon Stadium 2": {
-                "win": 13,
-                "loss": 7
-            },
-            "Small Battlefield": {
-                "win": 2,
-                "loss": 0
-            },
-            "Smashville": {
-                "win": 3,
-                "loss": 3
-            },
-            "Battlefield": {
-                "win": 4,
-                "loss": 1
-            }
-        },
-        "char": {
-            "Donkey Kong": {
-                "win": 14,
-                "loss": 4
-            },
-            "Incineroar": {
-                "win": 21,
-                "loss": 9
-            },
-            "Sonic": {
-                "win": 0,
-                "loss": 1
-            }
-        },
-        "opp": {
-            "Diddy Kong": {
-                "win": 2,
-                "loss": 0
-            },
-            "Donkey Kong": {
-                "win": 3,
-                "loss": 4
-            },
-            "Dr. Mario": {
-                "win": 2,
-                "loss": 0
-            },
-            "Wario": {
-                "win": 0,
-                "loss": 1
-            },
-            "Kirby": {
-                "win": 1,
-                "loss": 0
-            },
-            "Captain Falcon": {
-                "win": 3,
-                "loss": 1
-            },
-            "Wolf": {
-                "win": 1,
-                "loss": 0
-            },
-            "Ness": {
-                "win": 1,
-                "loss": 0
-            },
-            "Hero": {
-                "win": 4,
-                "loss": 0
-            },
-            "Cloud": {
-                "win": 1,
-                "loss": 0
-            },
-            "Samus": {
-                "win": 1,
-                "loss": 0
-            },
-            "Bowser Jr.": {
-                "win": 1,
-                "loss": 0
-            },
-            "Pok\u00e9mon Trainer": {
-                "win": 1,
-                "loss": 0
-            },
-            "Isabelle": {
-                "win": 0,
-                "loss": 2
-            },
-            "Sephiroth": {
-                "win": 2,
-                "loss": 1
-            },
-            "Mega Man": {
-                "win": 1,
-                "loss": 0
-            },
-            "Ganondorf": {
-                "win": 2,
-                "loss": 1
-            },
-            "Zelda": {
-                "win": 4,
-                "loss": 1
-            },
-            "Min Min": {
-                "win": 1,
-                "loss": 2
-            },
-            "Bayonetta": {
-                "win": 2,
-                "loss": 1
-            },
-            "Mario": {
                 "win": 2,
                 "loss": 0
             }

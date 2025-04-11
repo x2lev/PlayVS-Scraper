@@ -2,6 +2,84 @@
     "Thunderhawks A",
     [
         {
+            "name": "Trevor Gedge",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Link",
+                    "opp": "Min Min",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Link",
+                    "opp": "Min Min",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Calvin Her",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Incineroar",
+                    "opp": "Byleth",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Pit",
+                    "opp": "Byleth",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Salem McMillin",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Palutena",
+                    "opp": "Zelda",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Palutena",
+                    "opp": "Zelda",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Trevor Gedge",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Pyra/Mythra",
+                    "opp": "Zelda",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Steve",
+                    "opp": "Zelda",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
             "name": "Calvin Her",
             "games": [
                 {
@@ -1297,16 +1375,23 @@
             "games": [
                 {
                     "season": "Fall 2024",
-                    "stage": "Battlefield",
-                    "char": "Pyra/Mythra",
-                    "opp": "Sonic",
+                    "stage": "Small Battlefield",
+                    "char": "Snake",
+                    "opp": "R.O.B.",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Donkey Kong",
+                    "opp": "R.O.B.",
                     "result": "win"
                 },
                 {
                     "season": "Fall 2024",
-                    "stage": "Battlefield",
-                    "char": "Pyra/Mythra",
-                    "opp": "Mario",
+                    "stage": "Small Battlefield",
+                    "char": "Joker",
+                    "opp": "R.O.B.",
                     "result": "win"
                 }
             ]
@@ -1316,16 +1401,23 @@
             "games": [
                 {
                     "season": "Fall 2024",
-                    "stage": "Battlefield",
-                    "char": "Pyra/Mythra",
-                    "opp": "Greninja",
+                    "stage": "Small Battlefield",
+                    "char": "Toon Link",
+                    "opp": "Zelda",
                     "result": "win"
                 },
                 {
                     "season": "Fall 2024",
-                    "stage": "Battlefield",
-                    "char": "Pyra/Mythra",
-                    "opp": "Villager",
+                    "stage": "Small Battlefield",
+                    "char": "Kazuya",
+                    "opp": "Zelda",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Link",
+                    "opp": "Zelda",
                     "result": "win"
                 }
             ]
@@ -1335,16 +1427,16 @@
             "games": [
                 {
                     "season": "Fall 2024",
-                    "stage": "Battlefield",
-                    "char": "Bowser",
-                    "opp": "Mario",
+                    "stage": "Small Battlefield",
+                    "char": "Incineroar",
+                    "opp": "Captain Falcon",
                     "result": "win"
                 },
                 {
                     "season": "Fall 2024",
-                    "stage": "Battlefield",
-                    "char": "Bowser",
-                    "opp": "Mario",
+                    "stage": "Small Battlefield",
+                    "char": "Pit",
+                    "opp": "Hero",
                     "result": "win"
                 }
             ]

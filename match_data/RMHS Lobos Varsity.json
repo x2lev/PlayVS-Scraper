@@ -2,6 +2,143 @@
     "RMHS Lobos Varsity",
     [
         {
+            "name": "Cooper White",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Bowser Jr.",
+                    "opp": "Kirby",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Bowser Jr.",
+                    "opp": "Kirby",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Henry Mogonye",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Sora",
+                    "opp": "Sora",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Mario",
+                    "opp": "Sora",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Maya McCaughan",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Simon",
+                    "opp": "Toon Link",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Simon",
+                    "opp": "Toon Link",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Cooper White",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Bowser Jr.",
+                    "opp": "Kirby",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Mewtwo",
+                    "opp": "Kirby",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Cooper White",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Bowser Jr.",
+                    "opp": "Pyra/Mythra",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Mewtwo",
+                    "opp": "Pyra/Mythra",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Maya McCaughan",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Simon",
+                    "opp": "Ridley",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Simon",
+                    "opp": "Joker",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Henry Mogonye",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Sora",
+                    "opp": "Bowser",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Mr. Game & Watch",
+                    "opp": "Bowser",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
             "name": "Henry Mogonye",
             "games": [
                 {
@@ -1260,58 +1397,58 @@
     ],
     [
         {
-            "name": "Maya McCaughan",
-            "games": [
-                {
-                    "season": "Fall 2024",
-                    "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Simon",
-                    "opp": "Sephiroth",
-                    "result": "win"
-                },
-                {
-                    "season": "Fall 2024",
-                    "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Simon",
-                    "opp": "Random",
-                    "result": "win"
-                }
-            ]
-        },
-        {
             "name": "Cooper White",
             "games": [
                 {
                     "season": "Fall 2024",
-                    "stage": "Pok\u00e9mon Stadium 2",
+                    "stage": "Smashville",
                     "char": "Bowser Jr.",
-                    "opp": "Steve",
+                    "opp": "Pit",
                     "result": "win"
                 },
                 {
                     "season": "Fall 2024",
-                    "stage": "Pok\u00e9mon Stadium 2",
+                    "stage": "Smashville",
                     "char": "Bowser Jr.",
-                    "opp": "Steve",
+                    "opp": "Pok\u00e9mon Trainer",
                     "result": "win"
                 }
             ]
         },
         {
-            "name": "Henry Mogonye",
+            "name": "Maya McCaughan",
             "games": [
                 {
                     "season": "Fall 2024",
-                    "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Sora",
-                    "opp": "Joker",
+                    "stage": "Smashville",
+                    "char": "Simon",
+                    "opp": "Pyra/Mythra",
                     "result": "win"
                 },
                 {
                     "season": "Fall 2024",
-                    "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Sora",
-                    "opp": "Joker",
+                    "stage": "Smashville",
+                    "char": "Simon",
+                    "opp": "Sonic",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Lance Hulsing",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Smashville",
+                    "char": "Hero",
+                    "opp": "Bowser Jr.",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Smashville",
+                    "char": "Hero",
+                    "opp": "Bowser Jr.",
                     "result": "win"
                 }
             ]

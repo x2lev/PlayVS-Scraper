@@ -2,6 +2,124 @@
     "Regret Squad LHS Varsity A",
     [
         {
+            "name": "Ryne Wingard",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Falco",
+                    "opp": "Falco",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Falco",
+                    "opp": "Falco",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Murphy Goodloe",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Isabelle",
+                    "opp": "Villager",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Isabelle",
+                    "opp": "Lucas",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Kayla Kuntscher",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Corrin",
+                    "opp": "Captain Falcon",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Byleth",
+                    "opp": "Ike",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Murphy Goodloe",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Isabelle",
+                    "opp": "Greninja",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Isabelle",
+                    "opp": "Greninja",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Kayla Kuntscher",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Corrin",
+                    "opp": "King Dedede",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Byleth",
+                    "opp": "King Dedede",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Ryne Wingard",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Falco",
+                    "opp": "Dark Samus",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Falco",
+                    "opp": "Bowser Jr.",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
             "name": "Kayla Kuntscher",
             "games": [
                 {
@@ -366,16 +484,16 @@
                 {
                     "season": "Spring 2025",
                     "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Falco",
-                    "opp": "Ganondorf",
-                    "result": "win"
+                    "char": "Luigi",
+                    "opp": "Snake",
+                    "result": "loss"
                 },
                 {
                     "season": "Spring 2025",
                     "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Falco",
-                    "opp": "Banjo & Kazooie",
-                    "result": "win"
+                    "char": "Roy",
+                    "opp": "Snake",
+                    "result": "loss"
                 }
             ]
         },
@@ -385,15 +503,15 @@
                 {
                     "season": "Spring 2025",
                     "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Isabelle",
-                    "opp": "Bowser",
+                    "char": "Donkey Kong",
+                    "opp": "King K. Rool",
                     "result": "win"
                 },
                 {
                     "season": "Spring 2025",
                     "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Luigi",
-                    "opp": "Bowser",
+                    "char": "Donkey Kong",
+                    "opp": "King K. Rool",
                     "result": "win"
                 }
             ]
@@ -405,21 +523,33 @@
                     "season": "Spring 2025",
                     "stage": "Pok\u00e9mon Stadium 2",
                     "char": "Corrin",
-                    "opp": "King K. Rool",
-                    "result": "loss"
-                },
-                {
-                    "season": "Spring 2025",
-                    "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Corrin",
-                    "opp": "King K. Rool",
+                    "opp": "Sephiroth",
                     "result": "win"
                 },
                 {
                     "season": "Spring 2025",
                     "stage": "Pok\u00e9mon Stadium 2",
                     "char": "Corrin",
-                    "opp": "Bowser",
+                    "opp": "Cloud",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Kayla Kuntscher",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Byleth",
+                    "opp": "Snake",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Byleth",
+                    "opp": "Snake",
                     "result": "win"
                 }
             ]
@@ -1267,111 +1397,59 @@
     ],
     [
         {
+            "name": "Murphy Goodloe",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Donkey Kong",
+                    "opp": "Sephiroth",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Donkey Kong",
+                    "opp": "Sephiroth",
+                    "result": "win"
+                }
+            ]
+        },
+        {
             "name": "Kayla Kuntscher",
             "games": [
                 {
                     "season": "Fall 2024",
                     "stage": "Pok\u00e9mon Stadium 2",
                     "char": "Corrin",
-                    "opp": "Young Link",
-                    "result": "loss"
-                },
-                {
-                    "season": "Fall 2024",
-                    "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Byleth",
-                    "opp": "Young Link",
-                    "result": "loss"
-                }
-            ]
-        },
-        {
-            "name": "Murphy Goodloe",
-            "games": [
-                {
-                    "season": "Fall 2024",
-                    "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Donkey Kong",
-                    "opp": "Mr. Game & Watch",
+                    "opp": "Captain Falcon",
                     "result": "win"
                 },
                 {
                     "season": "Fall 2024",
                     "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Donkey Kong",
-                    "opp": "Link",
-                    "result": "loss"
-                },
-                {
-                    "season": "Fall 2024",
-                    "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Isabelle",
-                    "opp": "Link",
-                    "result": "loss"
-                }
-            ]
-        },
-        {
-            "name": "Kyle Herman",
-            "games": [
-                {
-                    "season": "Fall 2024",
-                    "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Inkling",
-                    "opp": "Roy",
-                    "result": "win"
-                },
-                {
-                    "season": "Fall 2024",
-                    "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Inkling",
-                    "opp": "Sora",
+                    "char": "Captain Falcon",
+                    "opp": "Bowser Jr.",
                     "result": "win"
                 }
             ]
         },
         {
-            "name": "Murphy Goodloe",
+            "name": "Ryne Wingard",
             "games": [
                 {
                     "season": "Fall 2024",
                     "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Isabelle",
-                    "opp": "Young Link",
-                    "result": "loss"
-                },
-                {
-                    "season": "Fall 2024",
-                    "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Isabelle",
-                    "opp": "Young Link",
+                    "char": "Chrom",
+                    "opp": "Cloud",
                     "result": "win"
                 },
                 {
                     "season": "Fall 2024",
                     "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Isabelle",
-                    "opp": "Young Link",
+                    "char": "Dr. Mario",
+                    "opp": "Dark Pit",
                     "result": "win"
-                }
-            ]
-        },
-        {
-            "name": "Kyle Herman",
-            "games": [
-                {
-                    "season": "Fall 2024",
-                    "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Rosalina & Luma",
-                    "opp": "Link",
-                    "result": "loss"
-                },
-                {
-                    "season": "Fall 2024",
-                    "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Inkling",
-                    "opp": "Link",
-                    "result": "loss"
                 }
             ]
         }

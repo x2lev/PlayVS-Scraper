@@ -1,0 +1,1261 @@
+[
+    "DCHS Varsity Smash",
+    [
+        {
+            "name": "Ava Smith",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Inkling",
+                    "opp": "Little Mac",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Cloud",
+                    "opp": "Little Mac",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Student Lucien Addler",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Terry",
+                    "opp": "Snake",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Terry",
+                    "opp": "Incineroar",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Hero",
+                    "opp": "Incineroar",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Dean martinez",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Little Mac",
+                    "opp": "Greninja",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Little Mac",
+                    "opp": "Joker",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Little Mac",
+                    "opp": "Joker",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Student Lucien Addler",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Terry",
+                    "opp": "Joker",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Hero",
+                    "opp": "Joker",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Dean martinez",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Little Mac",
+                    "opp": "Incineroar",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Little Mac",
+                    "opp": "Corrin",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Student Lucien Addler",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Terry",
+                    "opp": "Joker",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Ganondorf",
+                    "opp": "Joker",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Terry",
+                    "opp": "Joker",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Ava Smith",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Inkling",
+                    "opp": "Terry",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Cloud",
+                    "opp": "Terry",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Dean martinez",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Little Mac",
+                    "opp": "Pyra/Mythra",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Villager",
+                    "opp": "Pyra/Mythra",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Little Mac",
+                    "opp": "Pyra/Mythra",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Ian Fitzpatrick",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Incineroar",
+                    "opp": "Byleth",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "King Dedede",
+                    "opp": "Byleth",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "King Dedede",
+                    "opp": "Byleth",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Ava Smith",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Hero",
+                    "opp": "Zelda",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Inkling",
+                    "opp": "Zelda",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Inkling",
+                    "opp": "Corrin",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Dean martinez",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Villager",
+                    "opp": "Min Min",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "King K. Rool",
+                    "opp": "Min Min",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Student Lucien Addler",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Terry",
+                    "opp": "Ken",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Ganondorf",
+                    "opp": "Joker",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Ava Smith",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Inkling",
+                    "opp": "Terry",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Inkling",
+                    "opp": "Hero",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Dean martinez",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Villager",
+                    "opp": "Piranha Plant",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Villager",
+                    "opp": "Pichu",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Ava Smith",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Joker",
+                    "opp": "King K. Rool",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Inkling",
+                    "opp": "Incineroar",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Student Lucien Addler",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Ganondorf",
+                    "opp": "King Dedede",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Hero",
+                    "opp": "King Dedede",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Dean martinez",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Little Mac",
+                    "opp": "Dark Samus",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Donkey Kong",
+                    "opp": "Dark Samus",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Ava Smith",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Joker",
+                    "opp": "Donkey Kong",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Joker",
+                    "opp": "Donkey Kong",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Joker",
+                    "opp": "Donkey Kong",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Student Lucien Addler",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Terry",
+                    "opp": "Pikachu",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Ganondorf",
+                    "opp": "Pikachu",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Ganondorf",
+                    "opp": "Pikachu",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Dean martinez",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Terry",
+                    "opp": "Kazuya",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Ganondorf",
+                    "opp": "Byleth",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Student Lucien Addler",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Hero",
+                    "opp": "Pyra/Mythra",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Ganondorf",
+                    "opp": "Pyra/Mythra",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Ganondorf",
+                    "opp": "Donkey Kong",
+                    "result": "loss"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Ian Fitzpatrick",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Incineroar",
+                    "opp": "Steve",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "King Dedede",
+                    "opp": "Steve",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Ava Smith",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Mii Brawler",
+                    "opp": "Kazuya",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Mii Brawler",
+                    "opp": "Terry",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Dean martinez",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Little Mac",
+                    "opp": "King K. Rool",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Villager",
+                    "opp": "Joker",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Ava Smith",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Inkling",
+                    "opp": "Kazuya",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Joker",
+                    "opp": "Kazuya",
+                    "result": "loss"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Student Lucien Addler",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Hero",
+                    "opp": "Pyra/Mythra",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Dean martinez",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Donkey Kong",
+                    "opp": "Bowser",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Ava Smith",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Joker",
+                    "opp": "Corrin",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Inkling",
+                    "opp": "Byleth",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Student Lucien Addler",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Hero",
+                    "opp": "Pyra/Mythra",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Dean martinez",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Donkey Kong",
+                    "opp": "Bowser",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Ava Smith",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Joker",
+                    "opp": "Corrin",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Inkling",
+                    "opp": "Byleth",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Ava Smith",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Joker",
+                    "opp": "Kirby",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Joker",
+                    "opp": "Mario",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Dean martinez",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Little Mac",
+                    "opp": "Steve",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Villager",
+                    "opp": "Steve",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Student Lucien Addler",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Terry",
+                    "opp": "Joker",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Pikachu",
+                    "opp": "Sonic",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Dean martinez",
+            "games": []
+        },
+        {
+            "name": "Student Lucien Addler",
+            "games": []
+        },
+        {
+            "name": "Ava Smith",
+            "games": []
+        }
+    ],
+    [
+        {
+            "name": "Student Lucien Addler",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Ganondorf",
+                    "opp": "R.O.B.",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Hero",
+                    "opp": "R.O.B.",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Dean martinez",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Little Mac",
+                    "opp": "Kazuya",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Terry",
+                    "opp": "Kazuya",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Little Mac",
+                    "opp": "Kazuya",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Ava Smith",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Inkling",
+                    "opp": "Joker",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Joker",
+                    "opp": "Cloud",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Ava Smith",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Joker",
+                    "opp": "R.O.B.",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Joker",
+                    "opp": "Terry",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Joker",
+                    "opp": "Terry",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Student Lucien Addler",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Terry",
+                    "opp": "Kazuya",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Piranha Plant",
+                    "opp": "Kazuya",
+                    "result": "loss"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Student Lucien Addler",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Terry",
+                    "opp": "Bowser",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Incineroar",
+                    "opp": "Yoshi",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Ava Smith",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Mii Brawler",
+                    "opp": "Terry",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Mii Brawler",
+                    "opp": "Terry",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Dean martinez",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Little Mac",
+                    "opp": "Isabelle",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Little Mac",
+                    "opp": "Bowser Jr.",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Student Lucien Addler",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Incineroar",
+                    "opp": "Olimar",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Terry",
+                    "opp": "Olimar",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Ava Smith",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Joker",
+                    "opp": "Meta Knight",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Inkling",
+                    "opp": "Meta Knight",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Dean martinez",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Bowser",
+                    "opp": "Little Mac",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Little Mac",
+                    "opp": "Little Mac",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Little Mac",
+                    "opp": "Little Mac",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Dean martinez",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Little Mac",
+                    "opp": "Incineroar",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Little Mac",
+                    "opp": "Incineroar",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Ava Smith",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Joker",
+                    "opp": "Luigi",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Mii Brawler",
+                    "opp": "Luigi",
+                    "result": "loss"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Dean martinez",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Little Mac",
+                    "opp": "Bayonetta",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Little Mac",
+                    "opp": "Bayonetta",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Ava Smith",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Inkling",
+                    "opp": "Mr. Game & Watch",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Joker",
+                    "opp": "Mr. Game & Watch",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Student Lucien Addler",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Incineroar",
+                    "opp": "Kazuya",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Ryu",
+                    "opp": "Kazuya",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Dean martinez",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Little Mac",
+                    "opp": "Pyra/Mythra",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Little Mac",
+                    "opp": "Pyra/Mythra",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Ava Smith",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Inkling",
+                    "opp": "Cloud",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Inkling",
+                    "opp": "Cloud",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Student Lucien Addler",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Hero",
+                    "opp": "Byleth",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Hero",
+                    "opp": "Byleth",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Dean martinez",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Little Mac",
+                    "opp": "King K. Rool",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Little Mac",
+                    "opp": "King K. Rool",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Ava Smith",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Joker",
+                    "opp": "Hero",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Inkling",
+                    "opp": "Hero",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Joker",
+                    "opp": "Hero",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Student Lucien Addler",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Bayonetta",
+                    "opp": "Bowser",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Bayonetta",
+                    "opp": "Bowser",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Dean martinez",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Little Mac",
+                    "opp": "King K. Rool",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Little Mac",
+                    "opp": "King K. Rool",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Student Lucien Addler",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Hero",
+                    "opp": "Ike",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Bayonetta",
+                    "opp": "Little Mac",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Ava Smith",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Joker",
+                    "opp": "Bowser Jr.",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Hero",
+                    "opp": "Ridley",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Inkling",
+                    "opp": "Ridley",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Dean martinez",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Donkey Kong",
+                    "opp": "Sephiroth",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Little Mac",
+                    "opp": "Young Link",
+                    "result": "win"
+                }
+            ]
+        }
+    ]
+]

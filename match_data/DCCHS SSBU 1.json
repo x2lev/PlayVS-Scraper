@@ -1,0 +1,1350 @@
+[
+    "DCCHS SSBU 1",
+    [
+        {
+            "name": "Coleton Tallman",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Captain Falcon",
+                    "opp": "Kazuya",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Captain Falcon",
+                    "opp": "Byleth",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Jonathan Stallworth",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "King K. Rool",
+                    "opp": "Cloud",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "King K. Rool",
+                    "opp": "Cloud",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "King K. Rool",
+                    "opp": "Cloud",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "AARON DELGADO",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Mewtwo",
+                    "opp": "Donkey Kong",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Mewtwo",
+                    "opp": "Donkey Kong",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Jonathan Stallworth",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Kirby",
+                    "opp": "Donkey Kong",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "King K. Rool",
+                    "opp": "Donkey Kong",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Coleton Tallman",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Captain Falcon",
+                    "opp": "Cloud",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Captain Falcon",
+                    "opp": "Cloud",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Captain Falcon",
+                    "opp": "Cloud",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Jonathan Stallworth",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "King K. Rool",
+                    "opp": "Ness",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "King K. Rool",
+                    "opp": "Ike",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "AARON DELGADO",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Cloud",
+                    "opp": "Dr. Mario",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Cloud",
+                    "opp": "Pit",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Coleton Tallman",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Ganondorf",
+                    "opp": "Bowser Jr.",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Hero",
+                    "opp": "Bowser Jr.",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Hero",
+                    "opp": "Bowser Jr.",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Jonathan Stallworth",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Mario",
+                    "opp": "Dr. Mario",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "King K. Rool",
+                    "opp": "Dr. Mario",
+                    "result": "loss"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Jonathan Stallworth",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Kirby",
+                    "opp": "Donkey Kong",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Captain Falcon",
+                    "opp": "Donkey Kong",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Coleton Tallman",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Luigi",
+                    "opp": "Diddy Kong",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Hero",
+                    "opp": "Diddy Kong",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Hero",
+                    "opp": "Diddy Kong",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "AARON DELGADO",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Cloud",
+                    "opp": "Sora",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Cloud",
+                    "opp": "Sora",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Cloud",
+                    "opp": "Sora",
+                    "result": "loss"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Coleton Tallman",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Roy",
+                    "opp": "Joker",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Roy",
+                    "opp": "Joker",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Jonathan Stallworth",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Kirby",
+                    "opp": "Lucas",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Captain Falcon",
+                    "opp": "Ness",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "AARON DELGADO",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Mewtwo",
+                    "opp": "Kazuya",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Mewtwo",
+                    "opp": "Kazuya",
+                    "result": "loss"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Coleton Tallman",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Ganondorf",
+                    "opp": "Incineroar",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Ganondorf",
+                    "opp": "Incineroar",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Jonathan Stallworth",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Pok\u00e9mon Trainer",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Kirby",
+                    "opp": "Pok\u00e9mon Trainer",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Kirby",
+                    "opp": "Pok\u00e9mon Trainer",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "AARON DELGADO",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Mewtwo",
+                    "opp": "Little Mac",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Corrin",
+                    "opp": "Little Mac",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Jonathan Stallworth",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Little Mac",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Incineroar",
+                    "opp": "Little Mac",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Coleton Tallman",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Ganondorf",
+                    "opp": "Incineroar",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Ganondorf",
+                    "opp": "King Dedede",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Jonathan Stallworth",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Kirby",
+                    "opp": "Dark Samus",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "King K. Rool",
+                    "opp": "Incineroar",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Coleton Tallman",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Luigi",
+                    "opp": "Mr. Game & Watch",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Falco",
+                    "opp": "Falco",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Ganondorf",
+                    "opp": "Mr. Game & Watch",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "AARON DELGADO",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Mewtwo",
+                    "opp": "King K. Rool",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Corrin",
+                    "opp": "King K. Rool",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Jonathan Stallworth",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Kirby",
+                    "opp": "King K. Rool",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "King K. Rool",
+                    "opp": "King K. Rool",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Coleton Tallman",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Ganondorf",
+                    "opp": "Mr. Game & Watch",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Hero",
+                    "opp": "Mr. Game & Watch",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Jonathan Stallworth",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Ridley",
+                    "opp": "R.O.B.",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Kirby",
+                    "opp": "Incineroar",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "AARON DELGADO",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Mewtwo",
+                    "opp": "Sora",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Mewtwo",
+                    "opp": "Sora",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Coleton Tallman",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Ganondorf",
+                    "opp": "Ryu",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Falco",
+                    "opp": "Ryu",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Falco",
+                    "opp": "Bowser",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Jonathan Stallworth",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Captain Falcon",
+                    "opp": "Ganondorf",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Hero",
+                    "opp": "Little Mac",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "AARON DELGADO",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Mewtwo",
+                    "opp": "Incineroar",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Hero",
+                    "opp": "Incineroar",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Cloud",
+                    "opp": "Incineroar",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Coleton Tallman",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Falco",
+                    "opp": "Mii Brawler",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Hero",
+                    "opp": "Pyra/Mythra",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "AARON DELGADO",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Mewtwo",
+                    "opp": "Little Mac",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Mewtwo",
+                    "opp": "Incineroar",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Coleton Tallman",
+            "games": []
+        },
+        {
+            "name": "Jonathan Stallworth",
+            "games": []
+        },
+        {
+            "name": "James Middel",
+            "games": []
+        },
+        {
+            "name": "Jonathan Stallworth",
+            "games": []
+        }
+    ],
+    [
+        {
+            "name": "Coleton Tallman",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Falco",
+                    "opp": "Samus",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Falco",
+                    "opp": "Samus",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Jonathan Stallworth",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Kirby",
+                    "opp": "Incineroar",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Kirby",
+                    "opp": "Incineroar",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "James Middel",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Kirby",
+                    "opp": "Bowser",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Kirby",
+                    "opp": "Bowser",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Kirby",
+                    "opp": "Bowser",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Coleton Tallman",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Terry",
+                    "opp": "R.O.B.",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Terry",
+                    "opp": "Ness",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Jonathan Stallworth",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Ridley",
+                    "opp": "Captain Falcon",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Hero",
+                    "opp": "Hero",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Hero",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "James Middel",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Kirby",
+                    "opp": "Zelda",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Kirby",
+                    "opp": "Zelda",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Jonathan Stallworth",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Kirby",
+                    "opp": "Zelda",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Zelda",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Zelda",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Coleton Tallman",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Smashville",
+                    "char": "Luigi",
+                    "opp": "Lucas",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Smashville",
+                    "char": "Luigi",
+                    "opp": "Sonic",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Jonathan Stallworth",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Smashville",
+                    "char": "King K. Rool",
+                    "opp": "Byleth",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Smashville",
+                    "char": "Kirby",
+                    "opp": "Byleth",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Smashville",
+                    "char": "King K. Rool",
+                    "opp": "Joker",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "James Middel",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Smashville",
+                    "char": "Kirby",
+                    "opp": "Wolf",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Smashville",
+                    "char": "Kirby",
+                    "opp": "Ridley",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Jonathan Stallworth",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Smashville",
+                    "char": "King K. Rool",
+                    "opp": "Wolf",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Smashville",
+                    "char": "King K. Rool",
+                    "opp": "Dr. Mario",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Coleton Tallman",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Falco",
+                    "opp": "Mr. Game & Watch",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Falco",
+                    "opp": "Mr. Game & Watch",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Jonathan Stallworth",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Steve",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Steve",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "James Middel",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Kirby",
+                    "opp": "Ness",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Kirby",
+                    "opp": "Ness",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Jonathan Stallworth",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Kirby",
+                    "opp": "Steve",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Steve",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Coleton Tallman",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Terry",
+                    "opp": "Steve",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Terry",
+                    "opp": "Steve",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Jonathan Stallworth",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Steve",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Donkey Kong",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "James Middel",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Kirby",
+                    "opp": "Ike",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Kirby",
+                    "opp": "Little Mac",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Kirby",
+                    "opp": "Little Mac",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Jonathan Stallworth",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Ike",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Hero",
+                    "opp": "Little Mac",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Jonathan Stallworth",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "King K. Rool",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "King K. Rool",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "King K. Rool",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Coleton Tallman",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Terry",
+                    "opp": "Fox",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Terry",
+                    "opp": "Donkey Kong",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "James Middel",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Kirby",
+                    "opp": "Greninja",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Kirby",
+                    "opp": "Greninja",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Jonathan Stallworth",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Kirby",
+                    "opp": "King K. Rool",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Hero",
+                    "opp": "King K. Rool",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Coleton Tallman",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Terry",
+                    "opp": "Greninja",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Terry",
+                    "opp": "Greninja",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Terry",
+                    "opp": "Greninja",
+                    "result": "loss"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Jonathan Stallworth",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Diddy Kong",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Sora",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Coleton Tallman",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Falco",
+                    "opp": "Kazuya",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Falco",
+                    "opp": "Kazuya",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "James Middel",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Kirby",
+                    "opp": "R.O.B.",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Kirby",
+                    "opp": "R.O.B.",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Kirby",
+                    "opp": "R.O.B.",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Jonathan Stallworth",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Kirby",
+                    "opp": "Simon",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Kirby",
+                    "opp": "Simon",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Nathan Hahn",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "R.O.B.",
+                    "opp": "Bowser Jr.",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "R.O.B.",
+                    "opp": "Bowser Jr.",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "AARON DELGADO",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Cloud",
+                    "opp": "Sora",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Shulk",
+                    "opp": "Sora",
+                    "result": "loss"
+                }
+            ]
+        }
+    ]
+]

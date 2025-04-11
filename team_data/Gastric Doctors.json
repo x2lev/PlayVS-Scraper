@@ -1,0 +1,272 @@
+{
+    "Ethan Campbell": {
+        "season": [
+            "Spring 2025"
+        ],
+        "pos": [
+            4,
+            3,
+            1,
+            0,
+            1
+        ],
+        "stage": {
+            "Small Battlefield": {
+                "win": 4,
+                "loss": 2
+            },
+            "Pok\u00e9mon Stadium 2": {
+                "win": 6,
+                "loss": 6
+            },
+            "Smashville": {
+                "win": 1,
+                "loss": 4
+            }
+        },
+        "char": {
+            "Dr. Mario": {
+                "win": 11,
+                "loss": 10
+            },
+            "Luigi": {
+                "win": 0,
+                "loss": 2
+            }
+        },
+        "opp": {
+            "Little Mac": {
+                "win": 2,
+                "loss": 0
+            },
+            "Corrin": {
+                "win": 2,
+                "loss": 3
+            },
+            "Ryu": {
+                "win": 0,
+                "loss": 2
+            },
+            "Donkey Kong": {
+                "win": 0,
+                "loss": 4
+            },
+            "Captain Falcon": {
+                "win": 2,
+                "loss": 1
+            },
+            "Joker": {
+                "win": 4,
+                "loss": 2
+            },
+            "Mario": {
+                "win": 1,
+                "loss": 0
+            }
+        }
+    },
+    "RJ Keller": {
+        "season": [
+            "Spring 2025"
+        ],
+        "pos": [
+            4,
+            1,
+            1,
+            0,
+            1
+        ],
+        "stage": {
+            "Small Battlefield": {
+                "win": 5,
+                "loss": 6
+            },
+            "Pok\u00e9mon Stadium 2": {
+                "win": 5,
+                "loss": 8
+            },
+            "Smashville": {
+                "win": 1,
+                "loss": 2
+            }
+        },
+        "char": {
+            "Roy": {
+                "win": 4,
+                "loss": 7
+            },
+            "Kirby": {
+                "win": 6,
+                "loss": 9
+            },
+            "King K. Rool": {
+                "win": 1,
+                "loss": 0
+            }
+        },
+        "opp": {
+            "Sora": {
+                "win": 1,
+                "loss": 4
+            },
+            "Captain Falcon": {
+                "win": 2,
+                "loss": 1
+            },
+            "Joker": {
+                "win": 1,
+                "loss": 2
+            },
+            "Wii Fit Trainer": {
+                "win": 2,
+                "loss": 1
+            },
+            "Diddy Kong": {
+                "win": 0,
+                "loss": 2
+            },
+            "Meta Knight": {
+                "win": 1,
+                "loss": 2
+            },
+            "Kazuya": {
+                "win": 2,
+                "loss": 0
+            },
+            "Cloud": {
+                "win": 0,
+                "loss": 4
+            },
+            "Snake": {
+                "win": 2,
+                "loss": 0
+            }
+        }
+    },
+    "Jonathan Bannoura": {
+        "season": [
+            "Spring 2025"
+        ],
+        "pos": [
+            1,
+            3,
+            3,
+            2,
+            0
+        ],
+        "stage": {
+            "Small Battlefield": {
+                "win": 10,
+                "loss": 0
+            },
+            "Pok\u00e9mon Stadium 2": {
+                "win": 18,
+                "loss": 1
+            },
+            "Smashville": {
+                "win": 4,
+                "loss": 0
+            }
+        },
+        "char": {
+            "Wario": {
+                "win": 17,
+                "loss": 0
+            },
+            "Donkey Kong": {
+                "win": 2,
+                "loss": 0
+            },
+            "Mewtwo": {
+                "win": 1,
+                "loss": 0
+            },
+            "Ganondorf": {
+                "win": 3,
+                "loss": 0
+            },
+            "Captain Falcon": {
+                "win": 1,
+                "loss": 1
+            },
+            "Luigi": {
+                "win": 3,
+                "loss": 0
+            },
+            "Incineroar": {
+                "win": 1,
+                "loss": 0
+            },
+            "Kazuya": {
+                "win": 2,
+                "loss": 0
+            },
+            "King K. Rool": {
+                "win": 1,
+                "loss": 0
+            },
+            "Jigglypuff": {
+                "win": 1,
+                "loss": 0
+            }
+        },
+        "opp": {
+            "Joker": {
+                "win": 5,
+                "loss": 0
+            },
+            "Sora": {
+                "win": 1,
+                "loss": 0
+            },
+            "Ness": {
+                "win": 1,
+                "loss": 0
+            },
+            "Lucina": {
+                "win": 1,
+                "loss": 0
+            },
+            "Incineroar": {
+                "win": 1,
+                "loss": 0
+            },
+            "Little Mac": {
+                "win": 1,
+                "loss": 0
+            },
+            "Diddy Kong": {
+                "win": 2,
+                "loss": 0
+            },
+            "Donkey Kong": {
+                "win": 3,
+                "loss": 1
+            },
+            "Greninja": {
+                "win": 5,
+                "loss": 0
+            },
+            "Ganondorf": {
+                "win": 1,
+                "loss": 0
+            },
+            "Pyra/Mythra": {
+                "win": 1,
+                "loss": 0
+            },
+            "Bowser Jr.": {
+                "win": 4,
+                "loss": 0
+            },
+            "Cloud": {
+                "win": 4,
+                "loss": 0
+            },
+            "Byleth": {
+                "win": 2,
+                "loss": 0
+            }
+        }
+    }
+}

@@ -1,0 +1,1547 @@
+[
+    "King Falcons",
+    [
+        {
+            "name": "aj lang",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Ike",
+                    "opp": "Jigglypuff",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Wolf",
+                    "opp": "Jigglypuff",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Hyrum Dominguez",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Bowser Jr.",
+                    "opp": "Ridley",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Terry",
+                    "opp": "Ridley",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Terry",
+                    "opp": "Ridley",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Bryson Jowers",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Mario",
+                    "opp": "Kirby",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Hero",
+                    "opp": "Kirby",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Hyrum Dominguez",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Bowser Jr.",
+                    "opp": "Kirby",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Bowser Jr.",
+                    "opp": "Kirby",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Bryson Jowers",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Mario",
+                    "opp": "Ridley",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Mario",
+                    "opp": "Ridley",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Hyrum Dominguez",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Terry",
+                    "opp": "Captain Falcon",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Bowser Jr.",
+                    "opp": "Captain Falcon",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Bryson Jowers",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Mario",
+                    "opp": "King K. Rool",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Dark Pit",
+                    "opp": "Ganondorf",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Hero",
+                    "opp": "Hero",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "aj lang",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Wolf",
+                    "opp": "King K. Rool",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Wolf",
+                    "opp": "King K. Rool",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "aj lang",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Ness",
+                    "opp": "King K. Rool",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Ike",
+                    "opp": "King K. Rool",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Bryson Jowers",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Dr. Mario",
+                    "opp": "Cloud",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Pit",
+                    "opp": "Cloud",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Hyrum Dominguez",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Bowser Jr.",
+                    "opp": "Ganondorf",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Bowser Jr.",
+                    "opp": "Hero",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Bowser Jr.",
+                    "opp": "Hero",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Bryson Jowers",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Dr. Mario",
+                    "opp": "Mario",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Dr. Mario",
+                    "opp": "King K. Rool",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Bryson Jowers",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Mario",
+                    "opp": "Joker",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Pit",
+                    "opp": "Joker",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "aj lang",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Ike",
+                    "opp": "Little Mac",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Ike",
+                    "opp": "Little Mac",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Wolf",
+                    "opp": "Little Mac",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Hyrum Dominguez",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Terry",
+                    "opp": "Ness",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Bowser Jr.",
+                    "opp": "Sora",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Terry",
+                    "opp": "Sora",
+                    "result": "loss"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Bryson Jowers",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Mario",
+                    "opp": "King Dedede",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Pit",
+                    "opp": "King Dedede",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Pit",
+                    "opp": "Terry",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "aj lang",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Wolf",
+                    "opp": "Kazuya",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Ike",
+                    "opp": "Kazuya",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Ike",
+                    "opp": "Simon",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Hyrum Dominguez",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Pit",
+                    "opp": "Meta Knight",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Bowser Jr.",
+                    "opp": "Kirby",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Bowser Jr.",
+                    "opp": "Meta Knight",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Josh Wilson",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Toon Link",
+                    "opp": "Steve",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Yoshi",
+                    "opp": "Steve",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Hyrum Dominguez",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Terry",
+                    "opp": "Diddy Kong",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Bowser Jr.",
+                    "opp": "Diddy Kong",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "aj lang",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Wolf",
+                    "opp": "Donkey Kong",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Ness",
+                    "opp": "Donkey Kong",
+                    "result": "loss"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "aj lang",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Wolf",
+                    "opp": "Robin",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Ness",
+                    "opp": "Kirby",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Ike",
+                    "opp": "Kirby",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Josh Wilson",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "King K. Rool",
+                    "opp": "Toon Link",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Toon Link",
+                    "opp": "Toon Link",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "King K. Rool",
+                    "opp": "Toon Link",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Hyrum Dominguez",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Terry",
+                    "opp": "Sora",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Jigglypuff",
+                    "opp": "Sora",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Josh Wilson",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Random",
+                    "opp": "Sora",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Random",
+                    "opp": "Sora",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Hyrum Dominguez",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Bowser Jr.",
+                    "opp": "Kirby",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Terry",
+                    "opp": "Kirby",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Bowser Jr.",
+                    "opp": "Kirby",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "aj lang",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Wolf",
+                    "opp": "Robin",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Ness",
+                    "opp": "Kirby",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Ike",
+                    "opp": "Kirby",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Josh Wilson",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "King K. Rool",
+                    "opp": "Toon Link",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Toon Link",
+                    "opp": "Toon Link",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "King K. Rool",
+                    "opp": "Toon Link",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Hyrum Dominguez",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Terry",
+                    "opp": "Sora",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Jigglypuff",
+                    "opp": "Sora",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Josh Wilson",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Random",
+                    "opp": "Sora",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Random",
+                    "opp": "Sora",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Hyrum Dominguez",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Bowser Jr.",
+                    "opp": "Kirby",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Terry",
+                    "opp": "Kirby",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Bowser Jr.",
+                    "opp": "Kirby",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "aj lang",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Wolf",
+                    "opp": "King Dedede",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Ness",
+                    "opp": "R.O.B.",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Hyrum Dominguez",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Terry",
+                    "opp": "Ike",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Dr. Mario",
+                    "opp": "Meta Knight",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Josh Wilson",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Toon Link",
+                    "opp": "Kirby",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Yoshi",
+                    "opp": "Bowser Jr.",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Hyrum Dominguez",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Isabelle",
+                    "opp": "King Dedede",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Bowser Jr.",
+                    "opp": "R.O.B.",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Jigglypuff",
+                    "opp": "R.O.B.",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "aj lang",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Ike",
+                    "opp": "Rosalina & Luma",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Ike",
+                    "opp": "Rosalina & Luma",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Hyrum Dominguez",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Bowser Jr.",
+                    "opp": "Sora",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Bowser Jr.",
+                    "opp": "Sonic",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Dr. Mario",
+                    "opp": "Sora",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Josh Wilson",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Joker",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Joker",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Hyrum Dominguez",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Bowser Jr.",
+                    "opp": "Joker",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Dr. Mario",
+                    "opp": "Joker",
+                    "result": "loss"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Hyrum Dominguez",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Bowser Jr.",
+                    "opp": "Incineroar",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Palutena",
+                    "opp": "Incineroar",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "aj lang",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Ness",
+                    "opp": "King K. Rool",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Wolf",
+                    "opp": "King K. Rool",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Ike",
+                    "opp": "King K. Rool",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Josh Wilson",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "King K. Rool",
+                    "opp": "Pyra/Mythra",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "King K. Rool",
+                    "opp": "Pyra/Mythra",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "King K. Rool",
+                    "opp": "Pyra/Mythra",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Hyrum Dominguez",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Jigglypuff",
+                    "opp": "King K. Rool",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Bowser Jr.",
+                    "opp": "King K. Rool",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Hyrum Dominguez",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Jigglypuff",
+                    "opp": "Joker",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Bowser Jr.",
+                    "opp": "Joker",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Bowser Jr.",
+                    "opp": "Joker",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "aj lang",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Ike",
+                    "opp": "Captain Falcon",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Wolf",
+                    "opp": "Captain Falcon",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Josh Wilson",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Little Mac",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Little Mac",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Hyrum Dominguez",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Greninja",
+                    "opp": "Joker",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Pok\u00e9mon Trainer",
+                    "opp": "Joker",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Josh Wilson",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Little Mac",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Little Mac",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Hyrum Dominguez",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Pit",
+                    "opp": "Mr. Game & Watch",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Random",
+                    "opp": "Kazuya",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "aj lang",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Wolf",
+                    "opp": "Zero Suit Samus",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Sonic",
+                    "opp": "Zero Suit Samus",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Josh Wilson",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "King K. Rool",
+                    "opp": "Sora",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "King K. Rool",
+                    "opp": "Dark Samus",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Hyrum Dominguez",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Dark Samus",
+                    "opp": "Zero Suit Samus",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Pit",
+                    "opp": "Zero Suit Samus",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Josh Wilson",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "King K. Rool",
+                    "opp": "Captain Falcon",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "King K. Rool",
+                    "opp": "Captain Falcon",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Hyrum Dominguez",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Jigglypuff",
+                    "opp": "Bowser",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Jigglypuff",
+                    "opp": "Bowser",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Josh Wilson",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Toon Link",
+                    "opp": "Kirby",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Kirby",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Kirby",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "aj lang",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Kazuya",
+                    "opp": "Dark Samus",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Kazuya",
+                    "opp": "Meta Knight",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Josh Wilson",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Villager",
+                    "opp": "Diddy Kong",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Toon Link",
+                    "opp": "Diddy Kong",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "aj lang",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Kazuya",
+                    "opp": "Terry",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Ike",
+                    "opp": "Roy",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Hyrum Dominguez",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Dark Samus",
+                    "opp": "Terry",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Pok\u00e9mon Trainer",
+                    "opp": "Terry",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "aj lang",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Ike",
+                    "opp": "Terry",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Ike",
+                    "opp": "Terry",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Hyrum Dominguez",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Dark Samus",
+                    "opp": "Terry",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Young Link",
+                    "opp": "Terry",
+                    "result": "loss"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Josh Wilson",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Villager",
+                    "opp": "Diddy Kong",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Toon Link",
+                    "opp": "Diddy Kong",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "aj lang",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Kazuya",
+                    "opp": "Terry",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Ike",
+                    "opp": "Roy",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Hyrum Dominguez",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Dark Samus",
+                    "opp": "Terry",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Pok\u00e9mon Trainer",
+                    "opp": "Terry",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "aj lang",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Ike",
+                    "opp": "Terry",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Ike",
+                    "opp": "Terry",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Hyrum Dominguez",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Dark Samus",
+                    "opp": "Terry",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Young Link",
+                    "opp": "Terry",
+                    "result": "loss"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "aj lang",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Kazuya",
+                    "opp": "Donkey Kong",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Ike",
+                    "opp": "Ness",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Hyrum Dominguez",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Isabelle",
+                    "opp": "Joker",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Hero",
+                    "opp": "Joker",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Josh Wilson",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "R.O.B.",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "R.O.B.",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "aj lang",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Kazuya",
+                    "opp": "R.O.B.",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Incineroar",
+                    "opp": "R.O.B.",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Hyrum Dominguez",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Random",
+                    "opp": "Richter",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Random",
+                    "opp": "King K. Rool",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Josh Wilson",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Ike",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Villager",
+                    "opp": "Joker",
+                    "result": "win"
+                }
+            ]
+        }
+    ]
+]

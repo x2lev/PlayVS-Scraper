@@ -1,93 +1,27 @@
 {
-    "James Phelps": {
-        "season": [
-            "Spring 2025"
-        ],
-        "pos": [
-            1,
-            4,
-            1,
-            0,
-            0
-        ],
-        "stage": {
-            "Smashville": {
-                "win": 2,
-                "loss": 0
-            },
-            "Pok\u00e9mon Stadium 2": {
-                "win": 6,
-                "loss": 4
-            },
-            "Battlefield": {
-                "win": 2,
-                "loss": 1
-            }
-        },
-        "char": {
-            "Joker": {
-                "win": 6,
-                "loss": 5
-            },
-            "Donkey Kong": {
-                "win": 4,
-                "loss": 0
-            }
-        },
-        "opp": {
-            "Zero Suit Samus": {
-                "win": 2,
-                "loss": 0
-            },
-            "Jigglypuff": {
-                "win": 1,
-                "loss": 0
-            },
-            "R.O.B.": {
-                "win": 1,
-                "loss": 0
-            },
-            "Incineroar": {
-                "win": 1,
-                "loss": 0
-            },
-            "Lucina": {
-                "win": 1,
-                "loss": 0
-            },
-            "Dr. Mario": {
-                "win": 2,
-                "loss": 4
-            },
-            "Falco": {
-                "win": 1,
-                "loss": 1
-            },
-            "Luigi": {
-                "win": 1,
-                "loss": 0
-            }
-        }
-    },
     "David Basanez": {
         "season": [
             "Spring 2025"
         ],
         "pos": [
-            6,
-            1,
+            7,
+            2,
             0,
             1,
             0
         ],
         "stage": {
+            "Pok\u00e9mon Stadium 2": {
+                "win": 11,
+                "loss": 6
+            },
+            "Town & City": {
+                "win": 2,
+                "loss": 0
+            },
             "Smashville": {
                 "win": 2,
                 "loss": 1
-            },
-            "Pok\u00e9mon Stadium 2": {
-                "win": 8,
-                "loss": 4
             },
             "Battlefield": {
                 "win": 2,
@@ -96,11 +30,27 @@
         },
         "char": {
             "Cloud": {
-                "win": 12,
-                "loss": 6
+                "win": 17,
+                "loss": 8
             }
         },
         "opp": {
+            "Mr. Game & Watch": {
+                "win": 1,
+                "loss": 2
+            },
+            "Pit": {
+                "win": 2,
+                "loss": 0
+            },
+            "Dark Pit": {
+                "win": 1,
+                "loss": 0
+            },
+            "Incineroar": {
+                "win": 1,
+                "loss": 0
+            },
             "Sora": {
                 "win": 2,
                 "loss": 1
@@ -131,6 +81,88 @@
             }
         }
     },
+    "James Phelps": {
+        "season": [
+            "Spring 2025"
+        ],
+        "pos": [
+            2,
+            1,
+            2,
+            0,
+            0
+        ],
+        "stage": {
+            "Pok\u00e9mon Stadium 2": {
+                "win": 8,
+                "loss": 4
+            },
+            "Town & City": {
+                "win": 2,
+                "loss": 1
+            },
+            "Smashville": {
+                "win": 2,
+                "loss": 0
+            },
+            "Battlefield": {
+                "win": 2,
+                "loss": 1
+            }
+        },
+        "char": {
+            "Joker": {
+                "win": 8,
+                "loss": 5
+            },
+            "Donkey Kong": {
+                "win": 6,
+                "loss": 1
+            }
+        },
+        "opp": {
+            "Dark Pit": {
+                "win": 2,
+                "loss": 0
+            },
+            "Falco": {
+                "win": 2,
+                "loss": 2
+            },
+            "Mr. Game & Watch": {
+                "win": 1,
+                "loss": 0
+            },
+            "Zero Suit Samus": {
+                "win": 2,
+                "loss": 0
+            },
+            "Jigglypuff": {
+                "win": 1,
+                "loss": 0
+            },
+            "R.O.B.": {
+                "win": 1,
+                "loss": 0
+            },
+            "Incineroar": {
+                "win": 1,
+                "loss": 0
+            },
+            "Lucina": {
+                "win": 1,
+                "loss": 0
+            },
+            "Dr. Mario": {
+                "win": 2,
+                "loss": 4
+            },
+            "Luigi": {
+                "win": 1,
+                "loss": 0
+            }
+        }
+    },
     "Creed Anderson": {
         "season": [
             "Spring 2025"
@@ -143,13 +175,17 @@
             0
         ],
         "stage": {
-            "Smashville": {
+            "Pok\u00e9mon Stadium 2": {
+                "win": 6,
+                "loss": 4
+            },
+            "Town & City": {
                 "win": 2,
                 "loss": 0
             },
-            "Pok\u00e9mon Stadium 2": {
-                "win": 4,
-                "loss": 4
+            "Smashville": {
+                "win": 2,
+                "loss": 0
             },
             "Battlefield": {
                 "win": 2,
@@ -158,11 +194,23 @@
         },
         "char": {
             "Bowser Jr.": {
-                "win": 8,
+                "win": 12,
                 "loss": 4
             }
         },
         "opp": {
+            "Byleth": {
+                "win": 2,
+                "loss": 0
+            },
+            "Cloud": {
+                "win": 1,
+                "loss": 0
+            },
+            "Pikachu": {
+                "win": 1,
+                "loss": 0
+            },
             "Kirby": {
                 "win": 2,
                 "loss": 0

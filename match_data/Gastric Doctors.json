@@ -1,0 +1,787 @@
+[
+    "Gastric Doctors",
+    [
+        {
+            "name": "Ethan Campbell",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Dr. Mario",
+                    "opp": "Little Mac",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Dr. Mario",
+                    "opp": "Little Mac",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "RJ Keller",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Roy",
+                    "opp": "Sora",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Kirby",
+                    "opp": "Sora",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Jonathan Bannoura",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Wario",
+                    "opp": "Joker",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Donkey Kong",
+                    "opp": "Joker",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Jonathan Bannoura",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Wario",
+                    "opp": "Sora",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Wario",
+                    "opp": "Ness",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Ethan Campbell",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Dr. Mario",
+                    "opp": "Corrin",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Dr. Mario",
+                    "opp": "Corrin",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "RJ Keller",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Roy",
+                    "opp": "Captain Falcon",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Kirby",
+                    "opp": "Captain Falcon",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Kirby",
+                    "opp": "Captain Falcon",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Jonathan Bannoura",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Mewtwo",
+                    "opp": "Joker",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Ganondorf",
+                    "opp": "Joker",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Ethan Campbell",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Dr. Mario",
+                    "opp": "Ryu",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Dr. Mario",
+                    "opp": "Ryu",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "RJ Keller",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Roy",
+                    "opp": "Joker",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Roy",
+                    "opp": "Joker",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Kirby",
+                    "opp": "Joker",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Jonathan Bannoura",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Wario",
+                    "opp": "Lucina",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Captain Falcon",
+                    "opp": "Incineroar",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Jonathan Bannoura",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Ganondorf",
+                    "opp": "Joker",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Luigi",
+                    "opp": "Little Mac",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "RJ Keller",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Roy",
+                    "opp": "Wii Fit Trainer",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Roy",
+                    "opp": "Wii Fit Trainer",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Roy",
+                    "opp": "Wii Fit Trainer",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Jonathan Bannoura",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Wario",
+                    "opp": "Diddy Kong",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Wario",
+                    "opp": "Diddy Kong",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Ethan Campbell",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Dr. Mario",
+                    "opp": "Donkey Kong",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Dr. Mario",
+                    "opp": "Donkey Kong",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "RJ Keller",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Kirby",
+                    "opp": "Sora",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Kirby",
+                    "opp": "Sora",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Kirby",
+                    "opp": "Sora",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Jonathan Bannoura",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Wario",
+                    "opp": "Donkey Kong",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Donkey Kong",
+                    "opp": "Donkey Kong",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "RJ Keller",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Kirby",
+                    "opp": "Diddy Kong",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Roy",
+                    "opp": "Diddy Kong",
+                    "result": "loss"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "RJ Keller",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Kirby",
+                    "opp": "Meta Knight",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Kirby",
+                    "opp": "Meta Knight",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Kirby",
+                    "opp": "Meta Knight",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Jonathan Bannoura",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Wario",
+                    "opp": "Greninja",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Wario",
+                    "opp": "Greninja",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Ethan Campbell",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Dr. Mario",
+                    "opp": "Corrin",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Dr. Mario",
+                    "opp": "Corrin",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Jonathan Bannoura",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Wario",
+                    "opp": "Ganondorf",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Wario",
+                    "opp": "Greninja",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Ethan Campbell",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Dr. Mario",
+                    "opp": "Captain Falcon",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Dr. Mario",
+                    "opp": "Captain Falcon",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Dr. Mario",
+                    "opp": "Corrin",
+                    "result": "loss"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "RJ Keller",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Roy",
+                    "opp": "Kazuya",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Kirby",
+                    "opp": "Kazuya",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Jonathan Bannoura",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Ganondorf",
+                    "opp": "Greninja",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Incineroar",
+                    "opp": "Greninja",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Ethan Campbell",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Luigi",
+                    "opp": "Donkey Kong",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Luigi",
+                    "opp": "Donkey Kong",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Jonathan Bannoura",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Captain Falcon",
+                    "opp": "Donkey Kong",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Wario",
+                    "opp": "Donkey Kong",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Wario",
+                    "opp": "Pyra/Mythra",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "RJ Keller",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Roy",
+                    "opp": "Cloud",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Kirby",
+                    "opp": "Cloud",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Ethan Campbell",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Dr. Mario",
+                    "opp": "Joker",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Dr. Mario",
+                    "opp": "Joker",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Dr. Mario",
+                    "opp": "Joker",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Jonathan Bannoura",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Luigi",
+                    "opp": "Bowser Jr.",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Kazuya",
+                    "opp": "Bowser Jr.",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Jonathan Bannoura",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Wario",
+                    "opp": "Cloud",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Wario",
+                    "opp": "Cloud",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "RJ Keller",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Roy",
+                    "opp": "Cloud",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Kirby",
+                    "opp": "Cloud",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Ethan Campbell",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Dr. Mario",
+                    "opp": "Joker",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Dr. Mario",
+                    "opp": "Joker",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Dr. Mario",
+                    "opp": "Joker",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Jonathan Bannoura",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Luigi",
+                    "opp": "Bowser Jr.",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Kazuya",
+                    "opp": "Bowser Jr.",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Jonathan Bannoura",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Wario",
+                    "opp": "Cloud",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Wario",
+                    "opp": "Cloud",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Ethan Campbell",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Dr. Mario",
+                    "opp": "Captain Falcon",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Dr. Mario",
+                    "opp": "Mario",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Jonathan Bannoura",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "King K. Rool",
+                    "opp": "Byleth",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Jigglypuff",
+                    "opp": "Byleth",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "RJ Keller",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Kirby",
+                    "opp": "Snake",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "King K. Rool",
+                    "opp": "Snake",
+                    "result": "win"
+                }
+            ]
+        }
+    ]
+]

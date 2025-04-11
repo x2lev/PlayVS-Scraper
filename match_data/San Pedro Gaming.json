@@ -2,6 +2,131 @@
     "San Pedro Gaming",
     [
         {
+            "name": "Jeffery Valenzuela",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Wolf",
+                    "opp": "Chrom",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Terry",
+                    "opp": "Chrom",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Uriel Lamas",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Luigi",
+                    "opp": "Wolf",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Luigi",
+                    "opp": "Wolf",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Edgar Luevano Juarez",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Steve",
+                    "opp": "Joker",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Steve",
+                    "opp": "Greninja",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Edgar Luevano Juarez",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Steve",
+                    "opp": "Sephiroth",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Steve",
+                    "opp": "Sephiroth",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Jeffery Valenzuela",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Terry",
+                    "opp": "King K. Rool",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Jigglypuff",
+                    "opp": "Pyra/Mythra",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Luigi",
+                    "opp": "Pyra/Mythra",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Uriel Lamas",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Luigi",
+                    "opp": "Cloud",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Luigi",
+                    "opp": "Cloud",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
             "name": "Leo Torres",
             "games": [
                 {

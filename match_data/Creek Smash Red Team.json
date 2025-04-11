@@ -6,6 +6,152 @@
             "games": [
                 {
                     "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Snake",
+                    "opp": "Sora",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Snake",
+                    "opp": "Sora",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Levin Vang",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Donkey Kong",
+                    "opp": "King K. Rool",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Donkey Kong",
+                    "opp": "Incineroar",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Donkey Kong",
+                    "opp": "King K. Rool",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Anpetu Chrisjohn",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Lucas",
+                    "opp": "Min Min",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Lucas",
+                    "opp": "Pikachu",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Lucas",
+                    "opp": "Pikachu",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Anpetu Chrisjohn",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Lucas",
+                    "opp": "Incineroar",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Lucas",
+                    "opp": "Incineroar",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Levin Vang",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Donkey Kong",
+                    "opp": "Roy",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Donkey Kong",
+                    "opp": "Roy",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Donkey Kong",
+                    "opp": "Roy",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Lev Kryvenko",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Snake",
+                    "opp": "Pyra/Mythra",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Steve",
+                    "opp": "Hero",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Terry",
+                    "opp": "Hero",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Lev Kryvenko",
+            "games": [
+                {
+                    "season": "Spring 2025",
                     "stage": "Town & City",
                     "char": "Terry",
                     "opp": "Diddy Kong",
@@ -1185,21 +1331,21 @@
                     "season": "Fall 2024",
                     "stage": "Town & City",
                     "char": "Diddy Kong",
-                    "opp": "Sheik",
-                    "result": "win"
-                },
-                {
-                    "season": "Fall 2024",
-                    "stage": "Town & City",
-                    "char": "Diddy Kong",
-                    "opp": "Mii Brawler",
+                    "opp": "Bowser",
                     "result": "loss"
                 },
                 {
                     "season": "Fall 2024",
                     "stage": "Town & City",
                     "char": "Diddy Kong",
-                    "opp": "Little Mac",
+                    "opp": "Joker",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Diddy Kong",
+                    "opp": "Kirby",
                     "result": "win"
                 }
             ]
@@ -1211,40 +1357,14 @@
                     "season": "Fall 2024",
                     "stage": "Town & City",
                     "char": "Piranha Plant",
-                    "opp": "Pok\u00e9mon Trainer",
+                    "opp": "Incineroar",
                     "result": "win"
                 },
                 {
                     "season": "Fall 2024",
                     "stage": "Town & City",
                     "char": "Piranha Plant",
-                    "opp": "Pok\u00e9mon Trainer",
-                    "result": "loss"
-                },
-                {
-                    "season": "Fall 2024",
-                    "stage": "Town & City",
-                    "char": "Piranha Plant",
-                    "opp": "Pok\u00e9mon Trainer",
-                    "result": "loss"
-                }
-            ]
-        },
-        {
-            "name": "Lev Kryvenko",
-            "games": [
-                {
-                    "season": "Fall 2024",
-                    "stage": "Town & City",
-                    "char": "Terry",
-                    "opp": "Mewtwo",
-                    "result": "win"
-                },
-                {
-                    "season": "Fall 2024",
-                    "stage": "Town & City",
-                    "char": "Terry",
-                    "opp": "Lucina",
+                    "opp": "Captain Falcon",
                     "result": "win"
                 }
             ]
@@ -1256,14 +1376,21 @@
                     "season": "Fall 2024",
                     "stage": "Town & City",
                     "char": "Terry",
-                    "opp": "Mii Brawler",
+                    "opp": "Isabelle",
                     "result": "loss"
                 },
                 {
                     "season": "Fall 2024",
                     "stage": "Town & City",
-                    "char": "Jigglypuff",
-                    "opp": "Min Min",
+                    "char": "Snake",
+                    "opp": "Isabelle",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Snake",
+                    "opp": "Rosalina & Luma",
                     "result": "loss"
                 }
             ]
@@ -1271,26 +1398,38 @@
         {
             "name": "Cleo Brunschwig",
             "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Piranha Plant",
+                    "opp": "Isabelle",
+                    "result": "loss"
+                },
                 {
                     "season": "Fall 2024",
                     "stage": "Town & City",
                     "char": "Min Min",
-                    "opp": "Pok\u00e9mon Trainer",
+                    "opp": "Isabelle",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Levin Vang",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Diddy Kong",
+                    "opp": "Falco",
                     "result": "loss"
                 },
                 {
                     "season": "Fall 2024",
                     "stage": "Town & City",
-                    "char": "Piranha Plant",
-                    "opp": "Pok\u00e9mon Trainer",
-                    "result": "win"
-                },
-                {
-                    "season": "Fall 2024",
-                    "stage": "Town & City",
-                    "char": "Piranha Plant",
-                    "opp": "Pok\u00e9mon Trainer",
-                    "result": "win"
+                    "char": "Diddy Kong",
+                    "opp": "Falco",
+                    "result": "loss"
                 }
             ]
         }

@@ -7,43 +7,55 @@
         "pos": [
             1,
             3,
-            3,
-            3,
-            1
+            1,
+            1,
+            3
         ],
         "stage": {
-            "Town & City": {
-                "win": 13,
-                "loss": 6
+            "Small Battlefield": {
+                "win": 8,
+                "loss": 4
             },
             "Pok\u00e9mon Stadium 2": {
-                "win": 8,
-                "loss": 9
+                "win": 10,
+                "loss": 10
             },
-            "Small Battlefield": {
-                "win": 6,
-                "loss": 4
+            "Town & City": {
+                "win": 12,
+                "loss": 6
             }
         },
         "char": {
-            "Terry": {
-                "win": 25,
-                "loss": 16
-            },
             "Snake": {
-                "win": 1,
-                "loss": 2
+                "win": 5,
+                "loss": 3
+            },
+            "Steve": {
+                "win": 0,
+                "loss": 1
+            },
+            "Terry": {
+                "win": 24,
+                "loss": 16
             },
             "Roy": {
                 "win": 1,
                 "loss": 0
-            },
-            "Jigglypuff": {
-                "win": 0,
-                "loss": 1
             }
         },
         "opp": {
+            "Sora": {
+                "win": 3,
+                "loss": 0
+            },
+            "Pyra/Mythra": {
+                "win": 1,
+                "loss": 0
+            },
+            "Hero": {
+                "win": 1,
+                "loss": 1
+            },
             "Diddy Kong": {
                 "win": 2,
                 "loss": 0
@@ -88,10 +100,6 @@
                 "win": 0,
                 "loss": 2
             },
-            "Sora": {
-                "win": 1,
-                "loss": 0
-            },
             "Steve": {
                 "win": 3,
                 "loss": 1
@@ -121,28 +129,139 @@
                 "loss": 0
             },
             "Isabelle": {
-                "win": 1,
-                "loss": 1
+                "win": 2,
+                "loss": 2
             },
             "Rosalina & Luma": {
                 "win": 0,
-                "loss": 1
+                "loss": 2
+            }
+        }
+    },
+    "Levin Vang": {
+        "season": [
+            "Spring 2025",
+            "Fall 2024"
+        ],
+        "pos": [
+            1,
+            4,
+            1,
+            3,
+            2
+        ],
+        "stage": {
+            "Small Battlefield": {
+                "win": 9,
+                "loss": 4
             },
-            "Mewtwo": {
-                "win": 1,
+            "Pok\u00e9mon Stadium 2": {
+                "win": 6,
+                "loss": 7
+            },
+            "Town & City": {
+                "win": 8,
+                "loss": 9
+            },
+            "Smashville": {
+                "win": 4,
                 "loss": 0
+            }
+        },
+        "char": {
+            "Donkey Kong": {
+                "win": 13,
+                "loss": 7
             },
-            "Lucina": {
-                "win": 1,
-                "loss": 0
+            "Diddy Kong": {
+                "win": 14,
+                "loss": 12
             },
-            "Mii Brawler": {
+            "Luigi": {
                 "win": 0,
                 "loss": 1
+            }
+        },
+        "opp": {
+            "King K. Rool": {
+                "win": 3,
+                "loss": 1
+            },
+            "Incineroar": {
+                "win": 2,
+                "loss": 2
+            },
+            "Roy": {
+                "win": 2,
+                "loss": 1
+            },
+            "Donkey Kong": {
+                "win": 2,
+                "loss": 1
+            },
+            "Snake": {
+                "win": 1,
+                "loss": 4
+            },
+            "Banjo & Kazooie": {
+                "win": 0,
+                "loss": 1
+            },
+            "Greninja": {
+                "win": 0,
+                "loss": 1
+            },
+            "Kazuya": {
+                "win": 1,
+                "loss": 0
+            },
+            "King Dedede": {
+                "win": 1,
+                "loss": 0
             },
             "Min Min": {
-                "win": 0,
+                "win": 1,
+                "loss": 0
+            },
+            "Isabelle": {
+                "win": 2,
                 "loss": 1
+            },
+            "Hero": {
+                "win": 1,
+                "loss": 0
+            },
+            "Joker": {
+                "win": 4,
+                "loss": 2
+            },
+            "Mr. Game & Watch": {
+                "win": 2,
+                "loss": 0
+            },
+            "Cloud": {
+                "win": 1,
+                "loss": 0
+            },
+            "Villager": {
+                "win": 1,
+                "loss": 0
+            },
+            "Toon Link": {
+                "win": 1,
+                "loss": 0
+            },
+            "Bowser": {
+                "win": 0,
+                "loss": 2
+            },
+            "Kirby": {
+                "win": 2,
+                "loss": 0
+            },
+            "Falco": {
+                "win": 0,
+                "loss": 4
             }
         }
     },
@@ -151,30 +270,30 @@
             "Spring 2025"
         ],
         "pos": [
-            2,
+            3,
             4,
-            0,
+            1,
             2,
             0
         ],
         "stage": {
+            "Small Battlefield": {
+                "win": 8,
+                "loss": 3
+            },
+            "Pok\u00e9mon Stadium 2": {
+                "win": 6,
+                "loss": 6
+            },
             "Town & City": {
                 "win": 4,
                 "loss": 0
-            },
-            "Pok\u00e9mon Stadium 2": {
-                "win": 4,
-                "loss": 6
-            },
-            "Small Battlefield": {
-                "win": 6,
-                "loss": 2
             }
         },
         "char": {
             "Lucas": {
-                "win": 14,
-                "loss": 6
+                "win": 18,
+                "loss": 7
             },
             "Little Mac": {
                 "win": 0,
@@ -182,6 +301,18 @@
             }
         },
         "opp": {
+            "Min Min": {
+                "win": 1,
+                "loss": 0
+            },
+            "Pikachu": {
+                "win": 1,
+                "loss": 1
+            },
+            "Incineroar": {
+                "win": 2,
+                "loss": 0
+            },
             "Steve": {
                 "win": 2,
                 "loss": 0
@@ -223,141 +354,6 @@
                 "loss": 1
             },
             "Rosalina & Luma": {
-                "win": 1,
-                "loss": 0
-            }
-        }
-    },
-    "Levin Vang": {
-        "season": [
-            "Spring 2025",
-            "Fall 2024"
-        ],
-        "pos": [
-            1,
-            2,
-            2,
-            1,
-            1
-        ],
-        "stage": {
-            "Town & City": {
-                "win": 8,
-                "loss": 7
-            },
-            "Pok\u00e9mon Stadium 2": {
-                "win": 4,
-                "loss": 6
-            },
-            "Small Battlefield": {
-                "win": 7,
-                "loss": 3
-            },
-            "Smashville": {
-                "win": 4,
-                "loss": 0
-            }
-        },
-        "char": {
-            "Diddy Kong": {
-                "win": 14,
-                "loss": 10
-            },
-            "Donkey Kong": {
-                "win": 9,
-                "loss": 5
-            },
-            "Luigi": {
-                "win": 0,
-                "loss": 1
-            }
-        },
-        "opp": {
-            "Donkey Kong": {
-                "win": 2,
-                "loss": 1
-            },
-            "Snake": {
-                "win": 1,
-                "loss": 4
-            },
-            "Banjo & Kazooie": {
-                "win": 0,
-                "loss": 1
-            },
-            "Greninja": {
-                "win": 0,
-                "loss": 1
-            },
-            "Kazuya": {
-                "win": 1,
-                "loss": 0
-            },
-            "King Dedede": {
-                "win": 1,
-                "loss": 0
-            },
-            "Min Min": {
-                "win": 1,
-                "loss": 0
-            },
-            "Isabelle": {
-                "win": 2,
-                "loss": 1
-            },
-            "Hero": {
-                "win": 1,
-                "loss": 0
-            },
-            "Incineroar": {
-                "win": 1,
-                "loss": 2
-            },
-            "King K. Rool": {
-                "win": 2,
-                "loss": 0
-            },
-            "Joker": {
-                "win": 3,
-                "loss": 2
-            },
-            "Mr. Game & Watch": {
-                "win": 2,
-                "loss": 0
-            },
-            "Cloud": {
-                "win": 1,
-                "loss": 0
-            },
-            "Villager": {
-                "win": 1,
-                "loss": 0
-            },
-            "Toon Link": {
-                "win": 1,
-                "loss": 0
-            },
-            "Bowser": {
-                "win": 0,
-                "loss": 1
-            },
-            "Kirby": {
-                "win": 1,
-                "loss": 0
-            },
-            "Falco": {
-                "win": 0,
-                "loss": 2
-            },
-            "Sheik": {
-                "win": 1,
-                "loss": 0
-            },
-            "Mii Brawler": {
-                "win": 0,
-                "loss": 1
-            },
-            "Little Mac": {
                 "win": 1,
                 "loss": 0
             }

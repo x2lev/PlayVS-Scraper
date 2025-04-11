@@ -7,6 +7,202 @@
                 {
                     "season": "Spring 2025",
                     "stage": "Battlefield",
+                    "char": "Bowser Jr.",
+                    "opp": "Inkling",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Bowser Jr.",
+                    "opp": "Inkling",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Tate Followell",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Piranha Plant",
+                    "opp": "Mega Man",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Piranha Plant",
+                    "opp": "Mega Man",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "andrew barrron",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Ness",
+                    "opp": "Sora",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Ness",
+                    "opp": "Sora",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Pit",
+                    "opp": "Sora",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Tate Followell",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Piranha Plant",
+                    "opp": "Sora",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Piranha Plant",
+                    "opp": "Sora",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Piranha Plant",
+                    "opp": "Sora",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "andrew barrron",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Ness",
+                    "opp": "Inkling",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Pit",
+                    "opp": "Inkling",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Pit",
+                    "opp": "Inkling",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Jacob Stalls",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Bowser Jr.",
+                    "opp": "Hero",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Bowser Jr.",
+                    "opp": "Hero",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Tate Followell",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Piranha Plant",
+                    "opp": "Piranha Plant",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Piranha Plant",
+                    "opp": "Piranha Plant",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "andrew barrron",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Ness",
+                    "opp": "Bowser Jr.",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Ness",
+                    "opp": "Marth",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Tate Followell",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Piranha Plant",
+                    "opp": "Hero",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Piranha Plant",
+                    "opp": "Hero",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Jacob Stalls",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
                     "char": "Lucas",
                     "opp": "Pyra/Mythra",
                     "result": "loss"
@@ -431,16 +627,16 @@
             "games": [
                 {
                     "season": "Spring 2025",
-                    "stage": "Pok\u00e9mon Stadium 2",
+                    "stage": "Smashville",
                     "char": "Ness",
-                    "opp": "Lucario",
+                    "opp": "Little Mac",
                     "result": "win"
                 },
                 {
                     "season": "Spring 2025",
-                    "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Pit",
-                    "opp": "Lucario",
+                    "stage": "Smashville",
+                    "char": "Ness",
+                    "opp": "Ike",
                     "result": "win"
                 }
             ]
@@ -450,35 +646,61 @@
             "games": [
                 {
                     "season": "Spring 2025",
-                    "stage": "Pok\u00e9mon Stadium 2",
+                    "stage": "Smashville",
+                    "char": "King K. Rool",
+                    "opp": "Dr. Mario",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
                     "char": "Piranha Plant",
-                    "opp": "Ryu",
+                    "opp": "Joker",
                     "result": "win"
                 },
                 {
                     "season": "Spring 2025",
-                    "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "King K. Rool",
-                    "opp": "Donkey Kong",
+                    "stage": "Smashville",
+                    "char": "Piranha Plant",
+                    "opp": "Luigi",
                     "result": "win"
                 }
             ]
         },
         {
-            "name": "Jacob Stalls",
+            "name": "Lincoln Marrone",
             "games": [
                 {
                     "season": "Spring 2025",
-                    "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Mario",
-                    "opp": "Incineroar",
+                    "stage": "Smashville",
+                    "char": "Duck Hunt",
+                    "opp": "Snake",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Duck Hunt",
+                    "opp": "Steve",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "andrew barrron",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Pit",
+                    "opp": "Young Link",
                     "result": "win"
                 },
                 {
                     "season": "Spring 2025",
-                    "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Bowser Jr.",
-                    "opp": "Incineroar",
+                    "stage": "Smashville",
+                    "char": "Ness",
+                    "opp": "Hero",
                     "result": "win"
                 }
             ]
@@ -843,79 +1065,15 @@
     [
         {
             "name": "Tate Followell",
-            "games": [
-                {
-                    "season": "Fall 2024",
-                    "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Greninja",
-                    "opp": "Mr. Game & Watch",
-                    "result": "win"
-                },
-                {
-                    "season": "Fall 2024",
-                    "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Greninja",
-                    "opp": "Mr. Game & Watch",
-                    "result": "win"
-                }
-            ]
+            "games": []
         },
         {
             "name": "Jacob Stalls",
-            "games": [
-                {
-                    "season": "Fall 2024",
-                    "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Mario",
-                    "opp": "Captain Falcon",
-                    "result": "win"
-                },
-                {
-                    "season": "Fall 2024",
-                    "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Mario",
-                    "opp": "Mr. Game & Watch",
-                    "result": "win"
-                }
-            ]
+            "games": []
         },
         {
             "name": "Everett Macku",
-            "games": [
-                {
-                    "season": "Fall 2024",
-                    "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Kazuya",
-                    "opp": "Mario",
-                    "result": "loss"
-                },
-                {
-                    "season": "Fall 2024",
-                    "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Kazuya",
-                    "opp": "Luigi",
-                    "result": "loss"
-                }
-            ]
-        },
-        {
-            "name": "Jacob Stalls",
-            "games": [
-                {
-                    "season": "Fall 2024",
-                    "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Mario",
-                    "opp": "Mario",
-                    "result": "win"
-                },
-                {
-                    "season": "Fall 2024",
-                    "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Mario",
-                    "opp": "Falco",
-                    "result": "win"
-                }
-            ]
+            "games": []
         }
     ],
     [

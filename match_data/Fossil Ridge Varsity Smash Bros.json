@@ -1,0 +1,1599 @@
+[
+    "Fossil Ridge Varsity Smash Bros",
+    [
+        {
+            "name": "Samer Abdo",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Pok\u00e9mon Trainer",
+                    "opp": "Sora",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Pok\u00e9mon Trainer",
+                    "opp": "Sora",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Kye Mahoney",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Little Mac",
+                    "opp": "Zero Suit Samus",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Little Mac",
+                    "opp": "Zero Suit Samus",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Little Mac",
+                    "opp": "Zero Suit Samus",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Braden Modafferi",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Incineroar",
+                    "opp": "Kirby",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Incineroar",
+                    "opp": "Kirby",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Braden Modafferi",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Meta Knight",
+                    "opp": "Zero Suit Samus",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Incineroar",
+                    "opp": "Zero Suit Samus",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Incineroar",
+                    "opp": "Zero Suit Samus",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Kye Mahoney",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Little Mac",
+                    "opp": "Kirby",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Little Mac",
+                    "opp": "Isabelle",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Samer Abdo",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Pok\u00e9mon Trainer",
+                    "opp": "Sora",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Pok\u00e9mon Trainer",
+                    "opp": "Pyra/Mythra",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Braden Modafferi",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Incineroar",
+                    "opp": "King Dedede",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Incineroar",
+                    "opp": "King K. Rool",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Incineroar",
+                    "opp": "King Dedede",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Kye Mahoney",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Little Mac",
+                    "opp": "Mii Brawler",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Little Mac",
+                    "opp": "Inkling",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Samer Abdo",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Pok\u00e9mon Trainer",
+                    "opp": "Sora",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Pok\u00e9mon Trainer",
+                    "opp": "Sora",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Kye Mahoney",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Little Mac",
+                    "opp": "Simon",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Little Mac",
+                    "opp": "Simon",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Little Mac",
+                    "opp": "Simon",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Braden Modafferi",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Incineroar",
+                    "opp": "Bowser Jr.",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Incineroar",
+                    "opp": "Wii Fit Trainer",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Braden Modafferi",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Meta Knight",
+                    "opp": "Simon",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Meta Knight",
+                    "opp": "Simon",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Kye Mahoney",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Little Mac",
+                    "opp": "Sora",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Little Mac",
+                    "opp": "Sora",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Little Mac",
+                    "opp": "Sora",
+                    "result": "loss"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Samer Abdo",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Pok\u00e9mon Trainer",
+                    "opp": "Pikachu",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Pok\u00e9mon Trainer",
+                    "opp": "Pikachu",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Pok\u00e9mon Trainer",
+                    "opp": "Pikachu",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Kye Mahoney",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Little Mac",
+                    "opp": "Kazuya",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Little Mac",
+                    "opp": "Byleth",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Braden Modafferi",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Incineroar",
+                    "opp": "Donkey Kong",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Incineroar",
+                    "opp": "Donkey Kong",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Incineroar",
+                    "opp": "Pyra/Mythra",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Samer Abdo",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Pok\u00e9mon Trainer",
+                    "opp": "Little Mac",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Pok\u00e9mon Trainer",
+                    "opp": "Little Mac",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Braden Modafferi",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Meta Knight",
+                    "opp": "Ridley",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "King Dedede",
+                    "opp": "Ridley",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Kye Mahoney",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Little Mac",
+                    "opp": "King K. Rool",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Little Mac",
+                    "opp": "King K. Rool",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Braden Modafferi",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Incineroar",
+                    "opp": "Ganondorf",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Incineroar",
+                    "opp": "Ganondorf",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Samer Abdo",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Pok\u00e9mon Trainer",
+                    "opp": "King K. Rool",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Pok\u00e9mon Trainer",
+                    "opp": "Kirby",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Pok\u00e9mon Trainer",
+                    "opp": "Kirby",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Kye Mahoney",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Little Mac",
+                    "opp": "Mewtwo",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Little Mac",
+                    "opp": "Corrin",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Kye Mahoney",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Little Mac",
+                    "opp": "King K. Rool",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Little Mac",
+                    "opp": "Incineroar",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Braden Modafferi",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Incineroar",
+                    "opp": "Ganondorf",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "King Dedede",
+                    "opp": "Ganondorf",
+                    "result": "loss"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Samer Abdo",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Pok\u00e9mon Trainer",
+                    "opp": "Cloud",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Pok\u00e9mon Trainer",
+                    "opp": "Terry",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Kye Mahoney",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Little Mac",
+                    "opp": "Samus",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Little Mac",
+                    "opp": "Kirby",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Braden Modafferi",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "King Dedede",
+                    "opp": "Pikachu",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Palutena",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Samer Abdo",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Pok\u00e9mon Trainer",
+                    "opp": "Cloud",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Pok\u00e9mon Trainer",
+                    "opp": "Terry",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Kye Mahoney",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Little Mac",
+                    "opp": "Samus",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Little Mac",
+                    "opp": "Kirby",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Braden Modafferi",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "King Dedede",
+                    "opp": "Pikachu",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Palutena",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Braden Modafferi",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Meta Knight",
+                    "opp": "Samus",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Incineroar",
+                    "opp": "Dark Samus",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Incineroar",
+                    "opp": "Samus",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Kye Mahoney",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Little Mac",
+                    "opp": "Luigi",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Little Mac",
+                    "opp": "Luigi",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Samer Abdo",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Pok\u00e9mon Trainer",
+                    "opp": "Steve",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Pok\u00e9mon Trainer",
+                    "opp": "Steve",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Kye Mahoney",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Little Mac",
+                    "opp": "Pyra/Mythra",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Little Mac",
+                    "opp": "Joker",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Samer Abdo",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Pok\u00e9mon Trainer",
+                    "opp": "Meta Knight",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Pok\u00e9mon Trainer",
+                    "opp": "Meta Knight",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Kye Mahoney",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Little Mac",
+                    "opp": "Joker",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Little Mac",
+                    "opp": "Joker",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Braden Modafferi",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Incineroar",
+                    "opp": "Incineroar",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Incineroar",
+                    "opp": "Incineroar",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Incineroar",
+                    "opp": "Incineroar",
+                    "result": "loss"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Kye Mahoney",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Little Mac",
+                    "opp": "Ganondorf",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Little Mac",
+                    "opp": "Captain Falcon",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Samer Abdo",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Pok\u00e9mon Trainer",
+                    "opp": "King K. Rool",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Pok\u00e9mon Trainer",
+                    "opp": "King K. Rool",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Braden Modafferi",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Meta Knight",
+                    "opp": "Greninja",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Meta Knight",
+                    "opp": "Samus",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Kye Mahoney",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Little Mac",
+                    "opp": "King K. Rool",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Donkey Kong",
+                    "opp": "King K. Rool",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Luke Organ",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Smashville",
+                    "char": "Pyra/Mythra",
+                    "opp": "Kirby",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Smashville",
+                    "char": "Pyra/Mythra",
+                    "opp": "Kirby",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Kye Mahoney",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Smashville",
+                    "char": "Little Mac",
+                    "opp": "Falco",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Smashville",
+                    "char": "Little Mac",
+                    "opp": "Falco",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Braden Modafferi",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Smashville",
+                    "char": "Incineroar",
+                    "opp": "Ridley",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Smashville",
+                    "char": "Incineroar",
+                    "opp": "Ridley",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Braden Modafferi",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Smashville",
+                    "char": "Incineroar",
+                    "opp": "Kirby",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Smashville",
+                    "char": "Incineroar",
+                    "opp": "Kirby",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Smashville",
+                    "char": "Incineroar",
+                    "opp": "Kirby",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Kye Mahoney",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Smashville",
+                    "char": "Little Mac",
+                    "opp": "King K. Rool",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Smashville",
+                    "char": "Little Mac",
+                    "opp": "Ridley",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Samer Abdo",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Pok\u00e9mon Trainer",
+                    "opp": "Inkling",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Pok\u00e9mon Trainer",
+                    "opp": "Inkling",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Kye Mahoney",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Little Mac",
+                    "opp": "King K. Rool",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Little Mac",
+                    "opp": "King K. Rool",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Braden Modafferi",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Incineroar",
+                    "opp": "Yoshi",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Incineroar",
+                    "opp": "Yoshi",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Kye Mahoney",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "King K. Rool",
+                    "opp": "Inkling",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Donkey Kong",
+                    "opp": "Inkling",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Samer Abdo",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Pok\u00e9mon Trainer",
+                    "opp": "Wolf",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Pok\u00e9mon Trainer",
+                    "opp": "Wolf",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Kye Mahoney",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Little Mac",
+                    "opp": "Joker",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Little Mac",
+                    "opp": "Joker",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Braden Modafferi",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Incineroar",
+                    "opp": "Isabelle",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Incineroar",
+                    "opp": "Rosalina & Luma",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Braxton Phillips",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Byleth",
+                    "opp": "Kirby",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Byleth",
+                    "opp": "Kirby",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Kye Mahoney",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Luigi",
+                    "opp": "Sora",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Luigi",
+                    "opp": "Sora",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Braden Modafferi",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Mario",
+                    "opp": "Joker",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Incineroar",
+                    "opp": "Joker",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Incineroar",
+                    "opp": "Mewtwo",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Kye Mahoney",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Luigi",
+                    "opp": "Sora",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Little Mac",
+                    "opp": "Falco",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Little Mac",
+                    "opp": "Sora",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Braden Modafferi",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Meta Knight",
+                    "opp": "Mewtwo",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Inkling",
+                    "opp": "Mewtwo",
+                    "result": "loss"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Samer Abdo",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Olimar",
+                    "opp": "Incineroar",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Olimar",
+                    "opp": "Terry",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Braden Modafferi",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Meta Knight",
+                    "opp": "Joker",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Meta Knight",
+                    "opp": "Inkling",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Kye Mahoney",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Little Mac",
+                    "opp": "Bowser",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Little Mac",
+                    "opp": "Little Mac",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Little Mac",
+                    "opp": "Little Mac",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Braden Modafferi",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Incineroar",
+                    "opp": "Little Mac",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Incineroar",
+                    "opp": "Little Mac",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Kye Mahoney",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Luigi",
+                    "opp": "Joker",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Luigi",
+                    "opp": "Mii Brawler",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Braden Modafferi",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Smashville",
+                    "char": "Meta Knight",
+                    "opp": "Jigglypuff",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Smashville",
+                    "char": "Meta Knight",
+                    "opp": "Jigglypuff",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Kye Mahoney",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Smashville",
+                    "char": "Luigi",
+                    "opp": "Mii Brawler",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Smashville",
+                    "char": "Luigi",
+                    "opp": "Pit",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Samer Abdo",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Smashville",
+                    "char": "Pok\u00e9mon Trainer",
+                    "opp": "King Dedede",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Smashville",
+                    "char": "Ganondorf",
+                    "opp": "King K. Rool",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Smashville",
+                    "char": "Pok\u00e9mon Trainer",
+                    "opp": "King K. Rool",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Braden Modafferi",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Incineroar",
+                    "opp": "Wolf",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Incineroar",
+                    "opp": "Corrin",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Kye Mahoney",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Little Mac",
+                    "opp": "Meta Knight",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Little Mac",
+                    "opp": "Meta Knight",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Samer Abdo",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Ike",
+                    "opp": "Little Mac",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Olimar",
+                    "opp": "Little Mac",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Kye Mahoney",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Donkey Kong",
+                    "opp": "Incineroar",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Donkey Kong",
+                    "opp": "Wolf",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Braden Modafferi",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Meta Knight",
+                    "opp": "Meta Knight",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Incineroar",
+                    "opp": "Ridley",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Kye Mahoney",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Little Mac",
+                    "opp": "Pyra/Mythra",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Donkey Kong",
+                    "opp": "R.O.B.",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Samer Abdo",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Olimar",
+                    "opp": "Corrin",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Olimar",
+                    "opp": "Palutena",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Luke Organ",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "King K. Rool",
+                    "opp": "Lucario",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "King K. Rool",
+                    "opp": "Lucario",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Incineroar",
+                    "opp": "Lucario",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Braden Modafferi",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Incineroar",
+                    "opp": "Sonic",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Incineroar",
+                    "opp": "Mr. Game & Watch",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Kye Mahoney",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Little Mac",
+                    "opp": "Pyra/Mythra",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Donkey Kong",
+                    "opp": "Bowser",
+                    "result": "win"
+                }
+            ]
+        }
+    ]
+]

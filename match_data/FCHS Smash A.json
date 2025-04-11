@@ -1,0 +1,1484 @@
+[
+    "FCHS Smash A",
+    [
+        {
+            "name": "Porter LarsenPeed",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Ryu",
+                    "opp": "Isabelle",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Ryu",
+                    "opp": "Isabelle",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Ryu",
+                    "opp": "Isabelle",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Lincoln Marshall",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Wii Fit Trainer",
+                    "opp": "Sephiroth",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Wii Fit Trainer",
+                    "opp": "Samus",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Ike Genson",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Sora",
+                    "opp": "Donkey Kong",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Sora",
+                    "opp": "Cloud",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Sora",
+                    "opp": "Cloud",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Lincoln Marshall",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Wii Fit Trainer",
+                    "opp": "Incineroar",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Wii Fit Trainer",
+                    "opp": "Incineroar",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Porter LarsenPeed",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Ryu",
+                    "opp": "Pikachu",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Ryu",
+                    "opp": "Pikachu",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Ike Genson",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Sora",
+                    "opp": "Cloud",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Sora",
+                    "opp": "Mewtwo",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Porter LarsenPeed",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Ryu",
+                    "opp": "Dr. Mario",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Ryu",
+                    "opp": "Dr. Mario",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Ike Genson",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Joker",
+                    "opp": "Roy",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Joker",
+                    "opp": "Roy",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Joker",
+                    "opp": "Kirby",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Lincoln Marshall",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Lucina",
+                    "opp": "Wario",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Incineroar",
+                    "opp": "Captain Falcon",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Ike Genson",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Joker",
+                    "opp": "Ganondorf",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Little Mac",
+                    "opp": "Luigi",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Lincoln Marshall",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Wii Fit Trainer",
+                    "opp": "Roy",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Wii Fit Trainer",
+                    "opp": "Roy",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Wii Fit Trainer",
+                    "opp": "Roy",
+                    "result": "loss"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Ike Genson",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Steve",
+                    "opp": "Donkey Kong",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Byleth",
+                    "opp": "Donkey Kong",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Porter LarsenPeed",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Ryu",
+                    "opp": "Corrin",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Donkey Kong",
+                    "opp": "Byleth",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Lincoln Marshall",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Lucina",
+                    "opp": "Chrom",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Lucina",
+                    "opp": "Chrom",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Lucina",
+                    "opp": "Chrom",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Porter LarsenPeed",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Ryu",
+                    "opp": "Corrin",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Donkey Kong",
+                    "opp": "Corrin",
+                    "result": "loss"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Ike Genson",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Banjo & Kazooie",
+                    "opp": "Donkey Kong",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Greninja",
+                    "opp": "Donkey Kong",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Lincoln Marshall",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Mewtwo",
+                    "opp": "Lucas",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Pichu",
+                    "opp": "Lucas",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Porter LarsenPeed",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Ryu",
+                    "opp": "Terry",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Cloud",
+                    "opp": "Terry",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Cloud",
+                    "opp": "Terry",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Ike Genson",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Banjo & Kazooie",
+                    "opp": "Terry",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Greninja",
+                    "opp": "Terry",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Town & City",
+                    "char": "Greninja",
+                    "opp": "Terry",
+                    "result": "loss"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Ike Genson",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Banjo & Kazooie",
+                    "opp": "King K. Rool",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Banjo & Kazooie",
+                    "opp": "King K. Rool",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Porter LarsenPeed",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Ryu",
+                    "opp": "Little Mac",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Ryu",
+                    "opp": "Cloud",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Lincoln Marshall",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Pichu",
+                    "opp": "Pok\u00e9mon Trainer",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Pichu",
+                    "opp": "Ridley",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Ike Genson",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Pyra/Mythra",
+                    "opp": "Terry",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Pyra/Mythra",
+                    "opp": "Jigglypuff",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Porter LarsenPeed",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Wario",
+                    "opp": "Pyra/Mythra",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Wario",
+                    "opp": "Pyra/Mythra",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Donkey Kong",
+                    "opp": "Pyra/Mythra",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Lincoln Marshall",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Mewtwo",
+                    "opp": "Joker",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Mewtwo",
+                    "opp": "Joker",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Ike Genson",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Pyra/Mythra",
+                    "opp": "Joker",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Little Mac",
+                    "opp": "Joker",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Little Mac",
+                    "opp": "Snake",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Porter LarsenPeed",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Ryu",
+                    "opp": "Pyra/Mythra",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Ryu",
+                    "opp": "Palutena",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Ike Genson",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Pyra/Mythra",
+                    "opp": "Steve",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Pyra/Mythra",
+                    "opp": "Steve",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Porter LarsenPeed",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Wario",
+                    "opp": "Joker",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Captain Falcon",
+                    "opp": "Joker",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Lincoln Marshall",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Incineroar",
+                    "opp": "Donkey Kong",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Incineroar",
+                    "opp": "Captain Falcon",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Ike Genson",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Little Mac",
+                    "opp": "Bowser",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Olimar",
+                    "opp": "Bowser",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Porter LarsenPeed",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Wario",
+                    "opp": "Yoshi",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Wario",
+                    "opp": "Yoshi",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Cloud",
+                    "opp": "Yoshi",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Lincoln Marshall",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Mewtwo",
+                    "opp": "Ridley",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Palutena",
+                    "opp": "Ridley",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Ike Genson",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Little Mac",
+                    "opp": "Ridley",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Ness",
+                    "opp": "Ridley",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Porter LarsenPeed",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Wario",
+                    "opp": "Yoshi",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Cloud",
+                    "opp": "Yoshi",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Cloud",
+                    "opp": "Yoshi",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Ike Genson",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Dark Pit",
+                    "opp": "Isabelle",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Pit",
+                    "opp": "Isabelle",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Porter LarsenPeed",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Cloud",
+                    "opp": "Sephiroth",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Cloud",
+                    "opp": "Sephiroth",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Lincoln Marshall",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Mewtwo",
+                    "opp": "Donkey Kong",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Mewtwo",
+                    "opp": "Donkey Kong",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Mewtwo",
+                    "opp": "Donkey Kong",
+                    "result": "loss"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Ike Genson",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Dark Pit",
+                    "opp": "Mr. Game & Watch",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Dark Pit",
+                    "opp": "Mr. Game & Watch",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Dark Pit",
+                    "opp": "Mr. Game & Watch",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Porter LarsenPeed",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Cloud",
+                    "opp": "Link",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Cloud",
+                    "opp": "Link",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Lincoln Marshall",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Mewtwo",
+                    "opp": "Meta Knight",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Zelda",
+                    "opp": "Lucario",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Ike Genson",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Dark Pit",
+                    "opp": "Falco",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Pit",
+                    "opp": "Mr. Game & Watch",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Porter LarsenPeed",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Cloud",
+                    "opp": "Link",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Cloud",
+                    "opp": "Donkey Kong",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Cloud",
+                    "opp": "Link",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Lincoln Marshall",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Mewtwo",
+                    "opp": "Hero",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Mewtwo",
+                    "opp": "Joker",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Ike Genson",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Smashville",
+                    "char": "Shulk",
+                    "opp": "Yoshi",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Smashville",
+                    "char": "Shulk",
+                    "opp": "Bowser",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Porter LarsenPeed",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Smashville",
+                    "char": "Rosalina & Luma",
+                    "opp": "Corrin",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Smashville",
+                    "char": "Cloud",
+                    "opp": "Corrin",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Smashville",
+                    "char": "Cloud",
+                    "opp": "Corrin",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Lincoln Marshall",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Smashville",
+                    "char": "Mewtwo",
+                    "opp": "Terry",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Smashville",
+                    "char": "Mewtwo",
+                    "opp": "Terry",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Smashville",
+                    "char": "Mewtwo",
+                    "opp": "Terry",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Ike Genson",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Inkling",
+                    "opp": "Donkey Kong",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Min Min",
+                    "opp": "Donkey Kong",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Porter LarsenPeed",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Cloud",
+                    "opp": "Chrom",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Cloud",
+                    "opp": "Dark Pit",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Lincoln Marshall",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Mewtwo",
+                    "opp": "Corrin",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Wii Fit Trainer",
+                    "opp": "Byleth",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Ike Genson",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Little Mac",
+                    "opp": "Robin",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Inkling",
+                    "opp": "Robin",
+                    "result": "loss"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Ike Genson",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Inkling",
+                    "opp": "Hero",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Ness",
+                    "opp": "Hero",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Ness",
+                    "opp": "Byleth",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Porter LarsenPeed",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Mii Swordfighter",
+                    "opp": "Incineroar",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Mii Swordfighter",
+                    "opp": "Incineroar",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Mii Swordfighter",
+                    "opp": "Incineroar",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Lincoln Marshall",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Mewtwo",
+                    "opp": "Pyra/Mythra",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Mewtwo",
+                    "opp": "Pyra/Mythra",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Town & City",
+                    "char": "Wii Fit Trainer",
+                    "opp": "Pyra/Mythra",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Ike Genson",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Bayonetta",
+                    "opp": "Luigi",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Dr. Mario",
+                    "opp": "Luigi",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Min Min",
+                    "opp": "Luigi",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Porter LarsenPeed",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Pok\u00e9mon Trainer",
+                    "opp": "Lucina",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Ryu",
+                    "opp": "Cloud",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Lincoln Marshall",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Mewtwo",
+                    "opp": "Terry",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Pichu",
+                    "opp": "Ganondorf",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Ike Genson",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Robin",
+                    "opp": "Olimar",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Mii Brawler",
+                    "opp": "Little Mac",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Robin",
+                    "opp": "Little Mac",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Porter LarsenPeed",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Pok\u00e9mon Trainer",
+                    "opp": "Bowser",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Ryu",
+                    "opp": "Bowser",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Pok\u00e9mon Trainer",
+                    "opp": "Bowser",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Lincoln Marshall",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Mewtwo",
+                    "opp": "Dr. Mario",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Pichu",
+                    "opp": "Dr. Mario",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Mewtwo",
+                    "opp": "Piranha Plant",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Ike Genson",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Robin",
+                    "opp": "Olimar",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Mii Brawler",
+                    "opp": "Little Mac",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Robin",
+                    "opp": "Little Mac",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Porter LarsenPeed",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Pok\u00e9mon Trainer",
+                    "opp": "Bowser",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Ryu",
+                    "opp": "Bowser",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Pok\u00e9mon Trainer",
+                    "opp": "Bowser",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Lincoln Marshall",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Mewtwo",
+                    "opp": "Dr. Mario",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Pichu",
+                    "opp": "Dr. Mario",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Small Battlefield",
+                    "char": "Mewtwo",
+                    "opp": "Piranha Plant",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Ike Genson",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Mii Brawler",
+                    "opp": "Link",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Min Min",
+                    "opp": "Link",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Porter LarsenPeed",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Pok\u00e9mon Trainer",
+                    "opp": "Hero",
+                    "result": "loss"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Cloud",
+                    "opp": "Hero",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Cloud",
+                    "opp": "Terry",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Lincoln Marshall",
+            "games": [
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Mewtwo",
+                    "opp": "Cloud",
+                    "result": "win"
+                },
+                {
+                    "season": "Fall 2024",
+                    "stage": "Battlefield",
+                    "char": "Mewtwo",
+                    "opp": "Cloud",
+                    "result": "win"
+                }
+            ]
+        }
+    ]
+]

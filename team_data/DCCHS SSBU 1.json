@@ -1,0 +1,411 @@
+{
+    "Coleton Tallman": {
+        "season": [
+            "Spring 2025",
+            "Fall 2024"
+        ],
+        "pos": [
+            9,
+            4,
+            3,
+            0,
+            1
+        ],
+        "stage": {
+            "Pok\u00e9mon Stadium 2": {
+                "win": 6,
+                "loss": 1
+            },
+            "Town & City": {
+                "win": 2,
+                "loss": 6
+            },
+            "Battlefield": {
+                "win": 8,
+                "loss": 0
+            },
+            "Smashville": {
+                "win": 6,
+                "loss": 1
+            },
+            "Small Battlefield": {
+                "win": 11,
+                "loss": 3
+            }
+        },
+        "char": {
+            "Captain Falcon": {
+                "win": 4,
+                "loss": 1
+            },
+            "Ganondorf": {
+                "win": 6,
+                "loss": 2
+            },
+            "Hero": {
+                "win": 4,
+                "loss": 2
+            },
+            "Luigi": {
+                "win": 2,
+                "loss": 2
+            },
+            "Roy": {
+                "win": 0,
+                "loss": 2
+            },
+            "Falco": {
+                "win": 10,
+                "loss": 0
+            },
+            "Terry": {
+                "win": 7,
+                "loss": 2
+            }
+        },
+        "opp": {
+            "Kazuya": {
+                "win": 3,
+                "loss": 0
+            },
+            "Byleth": {
+                "win": 1,
+                "loss": 0
+            },
+            "Cloud": {
+                "win": 2,
+                "loss": 1
+            },
+            "Bowser Jr.": {
+                "win": 1,
+                "loss": 2
+            },
+            "Diddy Kong": {
+                "win": 1,
+                "loss": 2
+            },
+            "Joker": {
+                "win": 0,
+                "loss": 2
+            },
+            "Incineroar": {
+                "win": 3,
+                "loss": 0
+            },
+            "King Dedede": {
+                "win": 1,
+                "loss": 0
+            },
+            "Mr. Game & Watch": {
+                "win": 5,
+                "loss": 1
+            },
+            "Falco": {
+                "win": 1,
+                "loss": 0
+            },
+            "Ryu": {
+                "win": 1,
+                "loss": 1
+            },
+            "Bowser": {
+                "win": 1,
+                "loss": 0
+            },
+            "Mii Brawler": {
+                "win": 1,
+                "loss": 0
+            },
+            "Pyra/Mythra": {
+                "win": 1,
+                "loss": 0
+            },
+            "Samus": {
+                "win": 2,
+                "loss": 0
+            },
+            "R.O.B.": {
+                "win": 1,
+                "loss": 0
+            },
+            "Ness": {
+                "win": 1,
+                "loss": 0
+            },
+            "Lucas": {
+                "win": 1,
+                "loss": 0
+            },
+            "Sonic": {
+                "win": 1,
+                "loss": 0
+            },
+            "Steve": {
+                "win": 2,
+                "loss": 0
+            },
+            "Fox": {
+                "win": 1,
+                "loss": 0
+            },
+            "Donkey Kong": {
+                "win": 1,
+                "loss": 0
+            },
+            "Greninja": {
+                "win": 1,
+                "loss": 2
+            }
+        }
+    },
+    "Jonathan Stallworth": {
+        "season": [
+            "Spring 2025",
+            "Fall 2024"
+        ],
+        "pos": [
+            8,
+            1,
+            0,
+            1,
+            0
+        ],
+        "stage": {
+            "Pok\u00e9mon Stadium 2": {
+                "win": 4,
+                "loss": 3
+            },
+            "Town & City": {
+                "win": 2,
+                "loss": 6
+            },
+            "Battlefield": {
+                "win": 6,
+                "loss": 3
+            },
+            "Smashville": {
+                "win": 6,
+                "loss": 3
+            },
+            "Small Battlefield": {
+                "win": 17,
+                "loss": 6
+            }
+        },
+        "char": {
+            "King K. Rool": {
+                "win": 22,
+                "loss": 7
+            },
+            "Kirby": {
+                "win": 7,
+                "loss": 9
+            },
+            "Mario": {
+                "win": 0,
+                "loss": 1
+            },
+            "Captain Falcon": {
+                "win": 1,
+                "loss": 2
+            },
+            "Incineroar": {
+                "win": 0,
+                "loss": 1
+            },
+            "Ridley": {
+                "win": 2,
+                "loss": 0
+            },
+            "Hero": {
+                "win": 3,
+                "loss": 1
+            }
+        },
+        "opp": {
+            "Cloud": {
+                "win": 2,
+                "loss": 1
+            },
+            "Donkey Kong": {
+                "win": 1,
+                "loss": 4
+            },
+            "Ness": {
+                "win": 1,
+                "loss": 1
+            },
+            "Ike": {
+                "win": 2,
+                "loss": 0
+            },
+            "Dr. Mario": {
+                "win": 1,
+                "loss": 2
+            },
+            "Lucas": {
+                "win": 0,
+                "loss": 1
+            },
+            "Pok\u00e9mon Trainer": {
+                "win": 2,
+                "loss": 1
+            },
+            "Little Mac": {
+                "win": 2,
+                "loss": 2
+            },
+            "Dark Samus": {
+                "win": 1,
+                "loss": 0
+            },
+            "Incineroar": {
+                "win": 4,
+                "loss": 0
+            },
+            "King K. Rool": {
+                "win": 3,
+                "loss": 4
+            },
+            "R.O.B.": {
+                "win": 1,
+                "loss": 0
+            },
+            "Ganondorf": {
+                "win": 1,
+                "loss": 0
+            },
+            "Captain Falcon": {
+                "win": 1,
+                "loss": 0
+            },
+            "Hero": {
+                "win": 1,
+                "loss": 1
+            },
+            "Zelda": {
+                "win": 2,
+                "loss": 1
+            },
+            "Byleth": {
+                "win": 1,
+                "loss": 1
+            },
+            "Joker": {
+                "win": 1,
+                "loss": 0
+            },
+            "Wolf": {
+                "win": 1,
+                "loss": 0
+            },
+            "Steve": {
+                "win": 5,
+                "loss": 0
+            },
+            "Diddy Kong": {
+                "win": 1,
+                "loss": 0
+            },
+            "Sora": {
+                "win": 1,
+                "loss": 0
+            },
+            "Simon": {
+                "win": 0,
+                "loss": 2
+            }
+        }
+    },
+    "AARON DELGADO": {
+        "season": [
+            "Spring 2025",
+            "Fall 2024"
+        ],
+        "pos": [
+            0,
+            3,
+            1,
+            1,
+            0
+        ],
+        "stage": {
+            "Pok\u00e9mon Stadium 2": {
+                "win": 3,
+                "loss": 4
+            },
+            "Town & City": {
+                "win": 1,
+                "loss": 6
+            },
+            "Battlefield": {
+                "win": 0,
+                "loss": 2
+            },
+            "Smashville": {
+                "win": 0,
+                "loss": 2
+            },
+            "Small Battlefield": {
+                "win": 2,
+                "loss": 2
+            }
+        },
+        "char": {
+            "Mewtwo": {
+                "win": 5,
+                "loss": 6
+            },
+            "Cloud": {
+                "win": 1,
+                "loss": 6
+            },
+            "Corrin": {
+                "win": 0,
+                "loss": 2
+            },
+            "Hero": {
+                "win": 0,
+                "loss": 1
+            },
+            "Shulk": {
+                "win": 0,
+                "loss": 1
+            }
+        },
+        "opp": {
+            "Donkey Kong": {
+                "win": 0,
+                "loss": 2
+            },
+            "Dr. Mario": {
+                "win": 0,
+                "loss": 1
+            },
+            "Pit": {
+                "win": 0,
+                "loss": 1
+            },
+            "Sora": {
+                "win": 3,
+                "loss": 4
+            },
+            "Kazuya": {
+                "win": 0,
+                "loss": 2
+            },
+            "Little Mac": {
+                "win": 1,
+                "loss": 2
+            },
+            "King K. Rool": {
+                "win": 0,
+                "loss": 2
+            },
+            "Incineroar": {
+                "win": 2,
+                "loss": 2
+            }
+        }
+    }
+}

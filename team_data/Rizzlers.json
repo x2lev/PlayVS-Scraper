@@ -5,37 +5,37 @@
             "Fall 2024"
         ],
         "pos": [
-            1,
+            3,
             2,
             2,
-            1,
+            0,
             0
         ],
         "stage": {
             "Battlefield": {
                 "win": 0,
-                "loss": 4
-            },
-            "Pok\u00e9mon Stadium 2": {
-                "win": 8,
-                "loss": 0
+                "loss": 8
             },
             "Small Battlefield": {
                 "win": 2,
                 "loss": 1
+            },
+            "Pok\u00e9mon Stadium 2": {
+                "win": 2,
+                "loss": 0
             }
         },
         "char": {
+            "Bowser Jr.": {
+                "win": 0,
+                "loss": 5
+            },
             "Lucas": {
                 "win": 0,
                 "loss": 1
             },
-            "Bowser Jr.": {
-                "win": 1,
-                "loss": 1
-            },
             "Mario": {
-                "win": 8,
+                "win": 3,
                 "loss": 3
             },
             "Dr. Mario": {
@@ -44,32 +44,24 @@
             }
         },
         "opp": {
+            "Inkling": {
+                "win": 0,
+                "loss": 2
+            },
+            "Hero": {
+                "win": 0,
+                "loss": 2
+            },
             "Pyra/Mythra": {
                 "win": 0,
                 "loss": 2
             },
             "Incineroar": {
-                "win": 3,
+                "win": 1,
                 "loss": 1
             },
             "Sora": {
                 "win": 3,
-                "loss": 0
-            },
-            "Captain Falcon": {
-                "win": 1,
-                "loss": 0
-            },
-            "Mr. Game & Watch": {
-                "win": 1,
-                "loss": 0
-            },
-            "Mario": {
-                "win": 1,
-                "loss": 0
-            },
-            "Falco": {
-                "win": 1,
                 "loss": 0
             },
             "Bowser": {
@@ -85,23 +77,23 @@
         ],
         "pos": [
             2,
-            11,
+            10,
             1,
             1,
             0
         ],
         "stage": {
             "Battlefield": {
-                "win": 2,
-                "loss": 4
+                "win": 9,
+                "loss": 6
             },
             "Pok\u00e9mon Stadium 2": {
-                "win": 11,
+                "win": 7,
                 "loss": 7
             },
             "Smashville": {
-                "win": 4,
-                "loss": 1
+                "win": 6,
+                "loss": 2
             },
             "Small Battlefield": {
                 "win": 2,
@@ -110,15 +102,15 @@
         },
         "char": {
             "Piranha Plant": {
-                "win": 12,
-                "loss": 4
+                "win": 20,
+                "loss": 6
             },
             "King K. Rool": {
-                "win": 2,
-                "loss": 2
+                "win": 1,
+                "loss": 3
             },
             "Greninja": {
-                "win": 4,
+                "win": 2,
                 "loss": 6
             },
             "Villager": {
@@ -127,6 +119,22 @@
             }
         },
         "opp": {
+            "Mega Man": {
+                "win": 2,
+                "loss": 0
+            },
+            "Sora": {
+                "win": 1,
+                "loss": 2
+            },
+            "Piranha Plant": {
+                "win": 2,
+                "loss": 1
+            },
+            "Hero": {
+                "win": 2,
+                "loss": 0
+            },
             "Terry": {
                 "win": 2,
                 "loss": 0
@@ -155,35 +163,27 @@
                 "win": 0,
                 "loss": 1
             },
-            "Piranha Plant": {
-                "win": 0,
-                "loss": 1
-            },
             "Dr. Mario": {
                 "win": 0,
-                "loss": 1
+                "loss": 2
             },
             "Joker": {
-                "win": 3,
+                "win": 4,
                 "loss": 0
             },
             "Luigi": {
-                "win": 1,
+                "win": 2,
                 "loss": 0
-            },
-            "Ryu": {
-                "win": 1,
-                "loss": 0
-            },
-            "Donkey Kong": {
-                "win": 1,
-                "loss": 1
             },
             "Ike": {
                 "win": 2,
                 "loss": 0
             },
             "Kirby": {
+                "win": 0,
+                "loss": 1
+            },
+            "Donkey Kong": {
                 "win": 0,
                 "loss": 1
             },
@@ -194,10 +194,6 @@
             "Jigglypuff": {
                 "win": 1,
                 "loss": 2
-            },
-            "Mr. Game & Watch": {
-                "win": 2,
-                "loss": 0
             },
             "Pyra/Mythra": {
                 "win": 0,
@@ -213,20 +209,20 @@
             5,
             0,
             1,
-            2,
+            1,
             1
         ],
         "stage": {
             "Battlefield": {
-                "win": 4,
-                "loss": 0
+                "win": 10,
+                "loss": 2
             },
             "Pok\u00e9mon Stadium 2": {
-                "win": 4,
+                "win": 2,
                 "loss": 1
             },
             "Smashville": {
-                "win": 8,
+                "win": 12,
                 "loss": 1
             },
             "Small Battlefield": {
@@ -236,12 +232,12 @@
         },
         "char": {
             "Ness": {
-                "win": 12,
-                "loss": 3
+                "win": 18,
+                "loss": 4
             },
             "Pit": {
-                "win": 4,
-                "loss": 1
+                "win": 6,
+                "loss": 2
             },
             "Steve": {
                 "win": 1,
@@ -257,6 +253,22 @@
             }
         },
         "opp": {
+            "Sora": {
+                "win": 2,
+                "loss": 1
+            },
+            "Inkling": {
+                "win": 2,
+                "loss": 1
+            },
+            "Bowser Jr.": {
+                "win": 1,
+                "loss": 0
+            },
+            "Marth": {
+                "win": 1,
+                "loss": 0
+            },
             "Corrin": {
                 "win": 2,
                 "loss": 0
@@ -290,22 +302,18 @@
                 "loss": 2
             },
             "Little Mac": {
-                "win": 1,
+                "win": 2,
                 "loss": 0
             },
             "Ike": {
-                "win": 1,
+                "win": 2,
                 "loss": 0
             },
             "Young Link": {
-                "win": 1,
+                "win": 2,
                 "loss": 0
             },
             "Hero": {
-                "win": 1,
-                "loss": 0
-            },
-            "Lucario": {
                 "win": 2,
                 "loss": 0
             },
@@ -333,7 +341,7 @@
             },
             "Smashville": {
                 "win": 0,
-                "loss": 4
+                "loss": 6
             },
             "Small Battlefield": {
                 "win": 0,
@@ -343,7 +351,7 @@
         "char": {
             "Duck Hunt": {
                 "win": 0,
-                "loss": 4
+                "loss": 6
             },
             "Mario": {
                 "win": 0,
@@ -369,11 +377,11 @@
             },
             "Snake": {
                 "win": 0,
-                "loss": 1
+                "loss": 2
             },
             "Steve": {
                 "win": 0,
-                "loss": 1
+                "loss": 2
             }
         }
     }

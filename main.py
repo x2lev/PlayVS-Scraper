@@ -4,11 +4,23 @@ from scraper import scrape_team
 
 if __name__ == '__main__':
     team_names = [
-        #'BHS Team 1',
-        #'Pikmen 5',
-        #'DSISD B',
-        'Smashing Phoenix',
-        'FCHS Smash B'
+        'Patriot Smash 1',
+        'Fossil Ridge Varsity Smash Bros',
+        'RMHS Lobos Varsity',
+        'Kadet Smash Bros',
+        'Creek Smash Red Team',
+        'Gastric Doctors',
+        'Regret Squad LHS Varsity A',
+        'King Falcons',
+        'DCHS Varsity Smash',
+        'Lancer Esports',
+        'FCHS Smash A',
+        'Rizzlers',
+        'ACHS Varsity',
+        'Dayspring Eagles',
+        'San Pedro Gaming',
+        'Thunderhawks A',
+        'DCCHS SSBU 1'
     ]
     for tn in team_names:
         print(tn)

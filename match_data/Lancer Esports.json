@@ -2,6 +2,155 @@
     "Lancer Esports",
     [
         {
+            "name": "Edward Ruiz",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Sephiroth",
+                    "opp": "Snake",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Wily Rivas",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Joker",
+                    "opp": "Pyra/Mythra",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "jaziel gomez",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Steve",
+                    "opp": "Sephiroth",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Steve",
+                    "opp": "Sephiroth",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Wily Rivas",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Joker",
+                    "opp": "Snake",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Snake",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Edward Ruiz",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Sephiroth",
+                    "opp": "Pyra/Mythra",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Terry",
+                    "opp": "Pyra/Mythra",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Battlefield",
+                    "char": "Terry",
+                    "opp": "King K. Rool",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Wily Rivas",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Joker",
+                    "opp": "Bowser",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Joker",
+                    "opp": "Bowser",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "jaziel gomez",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Steve",
+                    "opp": "Meta Knight",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Steve",
+                    "opp": "Byleth",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Edward Ruiz",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Terry",
+                    "opp": "Pyra/Mythra",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Terry",
+                    "opp": "Byleth",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
             "name": "jaziel gomez",
             "games": [
                 {
@@ -422,16 +571,16 @@
             "games": [
                 {
                     "season": "Spring 2025",
-                    "stage": "Pok\u00e9mon Stadium 2",
+                    "stage": "Small Battlefield",
                     "char": "Kazuya",
-                    "opp": "King K. Rool",
+                    "opp": "Cloud",
                     "result": "win"
                 },
                 {
                     "season": "Spring 2025",
-                    "stage": "Pok\u00e9mon Stadium 2",
+                    "stage": "Small Battlefield",
                     "char": "Kazuya",
-                    "opp": "King K. Rool",
+                    "opp": "Cloud",
                     "result": "win"
                 }
             ]
@@ -441,15 +590,15 @@
             "games": [
                 {
                     "season": "Spring 2025",
-                    "stage": "Pok\u00e9mon Stadium 2",
+                    "stage": "Small Battlefield",
                     "char": "King K. Rool",
-                    "opp": "Ridley",
+                    "opp": "Sephiroth",
                     "result": "win"
                 },
                 {
                     "season": "Spring 2025",
-                    "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Ridley",
+                    "stage": "Small Battlefield",
+                    "char": "King K. Rool",
                     "opp": "Ridley",
                     "result": "win"
                 }
@@ -460,16 +609,35 @@
             "games": [
                 {
                     "season": "Spring 2025",
-                    "stage": "Pok\u00e9mon Stadium 2",
+                    "stage": "Small Battlefield",
                     "char": "Mr. Game & Watch",
-                    "opp": "Dr. Mario",
+                    "opp": "King K. Rool",
                     "result": "loss"
                 },
                 {
                     "season": "Spring 2025",
-                    "stage": "Pok\u00e9mon Stadium 2",
+                    "stage": "Small Battlefield",
                     "char": "Mr. Game & Watch",
-                    "opp": "Donkey Kong",
+                    "opp": "King K. Rool",
+                    "result": "loss"
+                }
+            ]
+        },
+        {
+            "name": "Wily Rivas",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "King K. Rool",
+                    "opp": "Cloud",
+                    "result": "loss"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Small Battlefield",
+                    "char": "Joker",
+                    "opp": "Cloud",
                     "result": "loss"
                 }
             ]
@@ -479,16 +647,16 @@
             "games": [
                 {
                     "season": "Spring 2025",
-                    "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Luigi",
-                    "opp": "Ridley",
+                    "stage": "Small Battlefield",
+                    "char": "Sephiroth",
+                    "opp": "King K. Rool",
                     "result": "win"
                 },
                 {
                     "season": "Spring 2025",
-                    "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Luigi",
-                    "opp": "Hero",
+                    "stage": "Small Battlefield",
+                    "char": "Sephiroth",
+                    "opp": "King K. Rool",
                     "result": "win"
                 }
             ]

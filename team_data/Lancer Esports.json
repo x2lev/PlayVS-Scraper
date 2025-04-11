@@ -1,71 +1,4 @@
 {
-    "jaziel gomez": {
-        "season": [
-            "Spring 2025",
-            "Fall 2024"
-        ],
-        "pos": [
-            2,
-            1,
-            3,
-            0,
-            0
-        ],
-        "stage": {
-            "Battlefield": {
-                "win": 0,
-                "loss": 2
-            },
-            "Small Battlefield": {
-                "win": 0,
-                "loss": 6
-            },
-            "Pok\u00e9mon Stadium 2": {
-                "win": 1,
-                "loss": 2
-            },
-            "Town & City": {
-                "win": 2,
-                "loss": 0
-            }
-        },
-        "char": {
-            "Steve": {
-                "win": 3,
-                "loss": 9
-            },
-            "Joker": {
-                "win": 0,
-                "loss": 1
-            }
-        },
-        "opp": {
-            "Corrin": {
-                "win": 0,
-                "loss": 2
-            },
-            "Lucas": {
-                "win": 0,
-                "loss": 2
-            },
-            "Cloud": {
-                "win": 1,
-                "loss": 2
-            },
-            "Incineroar": {
-                "win": 1,
-                "loss": 2
-            },
-            "King Dedede": {
-                "win": 1,
-                "loss": 0
-            },
-            "Little Mac": {
-                "win": 0,
-                "loss": 2
-            }
-        }
-    },
     "Edward Ruiz": {
         "season": [
             "Spring 2025",
@@ -74,22 +7,22 @@
         "pos": [
             1,
             6,
-            1,
+            2,
             1,
             2
         ],
         "stage": {
             "Battlefield": {
-                "win": 2,
-                "loss": 0
-            },
-            "Small Battlefield": {
-                "win": 18,
-                "loss": 5
+                "win": 4,
+                "loss": 2
             },
             "Pok\u00e9mon Stadium 2": {
-                "win": 12,
+                "win": 10,
                 "loss": 2
+            },
+            "Small Battlefield": {
+                "win": 22,
+                "loss": 5
             },
             "Town & City": {
                 "win": 4,
@@ -98,11 +31,11 @@
         },
         "char": {
             "Sephiroth": {
-                "win": 9,
-                "loss": 3
+                "win": 11,
+                "loss": 5
             },
             "Terry": {
-                "win": 11,
+                "win": 15,
                 "loss": 3
             },
             "Kazuya": {
@@ -110,11 +43,27 @@
                 "loss": 1
             },
             "Luigi": {
-                "win": 3,
+                "win": 1,
                 "loss": 0
             }
         },
         "opp": {
+            "Snake": {
+                "win": 0,
+                "loss": 1
+            },
+            "Pyra/Mythra": {
+                "win": 2,
+                "loss": 1
+            },
+            "King K. Rool": {
+                "win": 5,
+                "loss": 0
+            },
+            "Byleth": {
+                "win": 1,
+                "loss": 0
+            },
             "Chrom": {
                 "win": 1,
                 "loss": 0
@@ -136,7 +85,7 @@
                 "loss": 0
             },
             "Cloud": {
-                "win": 4,
+                "win": 6,
                 "loss": 0
             },
             "Mii Brawler": {
@@ -145,18 +94,6 @@
             },
             "Inkling": {
                 "win": 1,
-                "loss": 0
-            },
-            "King K. Rool": {
-                "win": 4,
-                "loss": 0
-            },
-            "Ridley": {
-                "win": 1,
-                "loss": 0
-            },
-            "Hero": {
-                "win": 3,
                 "loss": 0
             },
             "Donkey Kong": {
@@ -187,6 +124,10 @@
                 "win": 2,
                 "loss": 1
             },
+            "Hero": {
+                "win": 2,
+                "loss": 0
+            },
             "Marth": {
                 "win": 2,
                 "loss": 0
@@ -200,23 +141,23 @@
         ],
         "pos": [
             1,
+            5,
+            5,
             4,
-            1,
-            1,
-            1
+            3
         ],
         "stage": {
             "Battlefield": {
-                "win": 0,
-                "loss": 4
-            },
-            "Small Battlefield": {
-                "win": 13,
-                "loss": 10
+                "win": 1,
+                "loss": 6
             },
             "Pok\u00e9mon Stadium 2": {
                 "win": 7,
                 "loss": 4
+            },
+            "Small Battlefield": {
+                "win": 15,
+                "loss": 12
             },
             "Town & City": {
                 "win": 0,
@@ -225,16 +166,12 @@
         },
         "char": {
             "Joker": {
-                "win": 0,
-                "loss": 6
+                "win": 3,
+                "loss": 8
             },
             "King K. Rool": {
-                "win": 15,
-                "loss": 11
-            },
-            "Ridley": {
-                "win": 1,
-                "loss": 0
+                "win": 16,
+                "loss": 13
             },
             "Luigi": {
                 "win": 0,
@@ -254,6 +191,18 @@
             }
         },
         "opp": {
+            "Pyra/Mythra": {
+                "win": 1,
+                "loss": 2
+            },
+            "Snake": {
+                "win": 0,
+                "loss": 4
+            },
+            "Bowser": {
+                "win": 3,
+                "loss": 0
+            },
             "Inkling": {
                 "win": 0,
                 "loss": 2
@@ -279,16 +228,16 @@
                 "loss": 1
             },
             "Sephiroth": {
-                "win": 1,
+                "win": 2,
                 "loss": 0
             },
             "Ridley": {
-                "win": 3,
+                "win": 2,
                 "loss": 0
             },
             "Cloud": {
                 "win": 0,
-                "loss": 2
+                "loss": 4
             },
             "Donkey Kong": {
                 "win": 1,
@@ -298,17 +247,9 @@
                 "win": 0,
                 "loss": 1
             },
-            "Bowser": {
-                "win": 1,
-                "loss": 0
-            },
             "King K. Rool": {
                 "win": 1,
                 "loss": 0
-            },
-            "Snake": {
-                "win": 0,
-                "loss": 2
             },
             "Hero": {
                 "win": 2,
@@ -322,10 +263,6 @@
                 "win": 1,
                 "loss": 0
             },
-            "Pyra/Mythra": {
-                "win": 0,
-                "loss": 2
-            },
             "Zelda": {
                 "win": 1,
                 "loss": 0
@@ -337,6 +274,85 @@
             "Yoshi": {
                 "win": 4,
                 "loss": 0
+            }
+        }
+    },
+    "jaziel gomez": {
+        "season": [
+            "Spring 2025",
+            "Fall 2024"
+        ],
+        "pos": [
+            2,
+            2,
+            4,
+            0,
+            0
+        ],
+        "stage": {
+            "Battlefield": {
+                "win": 2,
+                "loss": 2
+            },
+            "Pok\u00e9mon Stadium 2": {
+                "win": 3,
+                "loss": 2
+            },
+            "Small Battlefield": {
+                "win": 0,
+                "loss": 6
+            },
+            "Town & City": {
+                "win": 2,
+                "loss": 0
+            }
+        },
+        "char": {
+            "Steve": {
+                "win": 7,
+                "loss": 9
+            },
+            "Joker": {
+                "win": 0,
+                "loss": 1
+            }
+        },
+        "opp": {
+            "Sephiroth": {
+                "win": 2,
+                "loss": 0
+            },
+            "Meta Knight": {
+                "win": 1,
+                "loss": 0
+            },
+            "Byleth": {
+                "win": 1,
+                "loss": 0
+            },
+            "Corrin": {
+                "win": 0,
+                "loss": 2
+            },
+            "Lucas": {
+                "win": 0,
+                "loss": 2
+            },
+            "Cloud": {
+                "win": 1,
+                "loss": 2
+            },
+            "Incineroar": {
+                "win": 1,
+                "loss": 2
+            },
+            "King Dedede": {
+                "win": 1,
+                "loss": 0
+            },
+            "Little Mac": {
+                "win": 0,
+                "loss": 2
             }
         }
     },
@@ -354,11 +370,7 @@
         "stage": {
             "Small Battlefield": {
                 "win": 0,
-                "loss": 4
-            },
-            "Pok\u00e9mon Stadium 2": {
-                "win": 0,
-                "loss": 2
+                "loss": 6
             }
         },
         "char": {
@@ -370,15 +382,7 @@
         "opp": {
             "King K. Rool": {
                 "win": 0,
-                "loss": 2
-            },
-            "Dr. Mario": {
-                "win": 0,
-                "loss": 1
-            },
-            "Donkey Kong": {
-                "win": 0,
-                "loss": 1
+                "loss": 4
             },
             "Bowser": {
                 "win": 0,

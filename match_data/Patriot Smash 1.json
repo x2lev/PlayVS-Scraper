@@ -6,6 +6,124 @@
             "games": [
                 {
                     "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Ness",
+                    "opp": "Terry",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Ness",
+                    "opp": "Kazuya",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Devon Carribine",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Joker",
+                    "opp": "Captain Falcon",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Joker",
+                    "opp": "Zelda",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Caleb Marcotte",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Kazuya",
+                    "opp": "Dr. Mario",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Pok\u00e9mon Stadium 2",
+                    "char": "Kazuya",
+                    "opp": "Dr. Mario",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Taveon Williams",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Lucas",
+                    "opp": "Falco",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Lucas",
+                    "opp": "Falco",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Devon Carribine",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Joker",
+                    "opp": "Greninja",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Joker",
+                    "opp": "Greninja",
+                    "result": "win"
+                }
+            ]
+        },
+        {
+            "name": "Caleb Marcotte",
+            "games": [
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Kazuya",
+                    "opp": "Lucina",
+                    "result": "win"
+                },
+                {
+                    "season": "Spring 2025",
+                    "stage": "Smashville",
+                    "char": "Kazuya",
+                    "opp": "Incineroar",
+                    "result": "win"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Taveon Williams",
+            "games": [
+                {
+                    "season": "Spring 2025",
                     "stage": "Smashville",
                     "char": "Ness",
                     "opp": "Little Mac",
@@ -489,662 +607,6 @@
                     "char": "Lucas",
                     "opp": "Lucario",
                     "result": "win"
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "name": "Caleb Marcotte",
-            "games": [
-                {
-                    "season": "Fall 2024",
-                    "stage": "Small Battlefield",
-                    "char": "Kazuya",
-                    "opp": "Meta Knight",
-                    "result": "win"
-                },
-                {
-                    "season": "Fall 2024",
-                    "stage": "Small Battlefield",
-                    "char": "Random",
-                    "opp": "Meta Knight",
-                    "result": "loss"
-                },
-                {
-                    "season": "Fall 2024",
-                    "stage": "Small Battlefield",
-                    "char": "Kazuya",
-                    "opp": "Meta Knight",
-                    "result": "loss"
-                }
-            ]
-        },
-        {
-            "name": "Claire Philp",
-            "games": [
-                {
-                    "season": "Fall 2024",
-                    "stage": "Small Battlefield",
-                    "char": "Kazuya",
-                    "opp": "Joker",
-                    "result": "loss"
-                },
-                {
-                    "season": "Fall 2024",
-                    "stage": "Small Battlefield",
-                    "char": "Terry",
-                    "opp": "Joker",
-                    "result": "loss"
-                }
-            ]
-        },
-        {
-            "name": "Sam Woodard",
-            "games": [
-                {
-                    "season": "Fall 2024",
-                    "stage": "Small Battlefield",
-                    "char": "Luigi",
-                    "opp": "Incineroar",
-                    "result": "loss"
-                },
-                {
-                    "season": "Fall 2024",
-                    "stage": "Small Battlefield",
-                    "char": "Pichu",
-                    "opp": "Incineroar",
-                    "result": "loss"
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "name": "Caleb Marcotte",
-            "games": [
-                {
-                    "season": "Fall 2024",
-                    "stage": "Smashville",
-                    "char": "Kazuya",
-                    "opp": "Bowser",
-                    "result": "win"
-                },
-                {
-                    "season": "Fall 2024",
-                    "stage": "Smashville",
-                    "char": "Kazuya",
-                    "opp": "Bowser",
-                    "result": "win"
-                }
-            ]
-        },
-        {
-            "name": "Claire Philp",
-            "games": [
-                {
-                    "season": "Fall 2024",
-                    "stage": "Smashville",
-                    "char": "Kazuya",
-                    "opp": "Pyra/Mythra",
-                    "result": "win"
-                },
-                {
-                    "season": "Fall 2024",
-                    "stage": "Smashville",
-                    "char": "Kazuya",
-                    "opp": "Pyra/Mythra",
-                    "result": "win"
-                }
-            ]
-        },
-        {
-            "name": "Alan Davis",
-            "games": [
-                {
-                    "season": "Fall 2024",
-                    "stage": "Smashville",
-                    "char": "Wii Fit Trainer",
-                    "opp": "Banjo & Kazooie",
-                    "result": "win"
-                },
-                {
-                    "season": "Fall 2024",
-                    "stage": "Smashville",
-                    "char": "Banjo & Kazooie",
-                    "opp": "Zero Suit Samus",
-                    "result": "win"
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "name": "Claire Philp",
-            "games": [
-                {
-                    "season": "Fall 2024",
-                    "stage": "Small Battlefield",
-                    "char": "R.O.B.",
-                    "opp": "Ganondorf",
-                    "result": "win"
-                },
-                {
-                    "season": "Fall 2024",
-                    "stage": "Small Battlefield",
-                    "char": "R.O.B.",
-                    "opp": "Hero",
-                    "result": "win"
-                }
-            ]
-        },
-        {
-            "name": "Caleb Marcotte",
-            "games": [
-                {
-                    "season": "Fall 2024",
-                    "stage": "Small Battlefield",
-                    "char": "Kazuya",
-                    "opp": "Little Mac",
-                    "result": "loss"
-                },
-                {
-                    "season": "Fall 2024",
-                    "stage": "Small Battlefield",
-                    "char": "Kazuya",
-                    "opp": "Terry",
-                    "result": "win"
-                },
-                {
-                    "season": "Fall 2024",
-                    "stage": "Small Battlefield",
-                    "char": "Kazuya",
-                    "opp": "Little Mac",
-                    "result": "win"
-                }
-            ]
-        },
-        {
-            "name": "Alan Davis",
-            "games": [
-                {
-                    "season": "Fall 2024",
-                    "stage": "Small Battlefield",
-                    "char": "Joker",
-                    "opp": "Inkling",
-                    "result": "loss"
-                },
-                {
-                    "season": "Fall 2024",
-                    "stage": "Small Battlefield",
-                    "char": "Cloud",
-                    "opp": "Joker",
-                    "result": "loss"
-                }
-            ]
-        },
-        {
-            "name": "Claire Philp",
-            "games": [
-                {
-                    "season": "Fall 2024",
-                    "stage": "Small Battlefield",
-                    "char": "R.O.B.",
-                    "opp": "Joker",
-                    "result": "loss"
-                },
-                {
-                    "season": "Fall 2024",
-                    "stage": "Small Battlefield",
-                    "char": "Terry",
-                    "opp": "Joker",
-                    "result": "win"
-                },
-                {
-                    "season": "Fall 2024",
-                    "stage": "Small Battlefield",
-                    "char": "Terry",
-                    "opp": "Joker",
-                    "result": "loss"
-                }
-            ]
-        },
-        {
-            "name": "Caleb Marcotte",
-            "games": [
-                {
-                    "season": "Fall 2024",
-                    "stage": "Small Battlefield",
-                    "char": "Kazuya",
-                    "opp": "Terry",
-                    "result": "win"
-                },
-                {
-                    "season": "Fall 2024",
-                    "stage": "Small Battlefield",
-                    "char": "Kazuya",
-                    "opp": "Piranha Plant",
-                    "result": "win"
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "name": "Lorenzo Johnson",
-            "games": [
-                {
-                    "season": "Fall 2024",
-                    "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Captain Falcon",
-                    "opp": "Greninja",
-                    "result": "win"
-                },
-                {
-                    "season": "Fall 2024",
-                    "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Cloud",
-                    "opp": "Greninja",
-                    "result": "loss"
-                },
-                {
-                    "season": "Fall 2024",
-                    "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Mewtwo",
-                    "opp": "Greninja",
-                    "result": "win"
-                }
-            ]
-        },
-        {
-            "name": "Sam Woodard",
-            "games": [
-                {
-                    "season": "Fall 2024",
-                    "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Little Mac",
-                    "opp": "Captain Falcon",
-                    "result": "loss"
-                },
-                {
-                    "season": "Fall 2024",
-                    "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Little Mac",
-                    "opp": "Captain Falcon",
-                    "result": "loss"
-                }
-            ]
-        },
-        {
-            "name": "Caleb Marcotte",
-            "games": [
-                {
-                    "season": "Fall 2024",
-                    "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Kazuya",
-                    "opp": "King K. Rool",
-                    "result": "win"
-                },
-                {
-                    "season": "Fall 2024",
-                    "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Kazuya",
-                    "opp": "King K. Rool",
-                    "result": "win"
-                }
-            ]
-        },
-        {
-            "name": "Caleb Marcotte",
-            "games": [
-                {
-                    "season": "Fall 2024",
-                    "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Kazuya",
-                    "opp": "Captain Falcon",
-                    "result": "win"
-                },
-                {
-                    "season": "Fall 2024",
-                    "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Kazuya",
-                    "opp": "Wii Fit Trainer",
-                    "result": "win"
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "name": "Caleb Marcotte",
-            "games": [
-                {
-                    "season": "Fall 2024",
-                    "stage": "Smashville",
-                    "char": "Kazuya",
-                    "opp": "Pyra/Mythra",
-                    "result": "win"
-                },
-                {
-                    "season": "Fall 2024",
-                    "stage": "Smashville",
-                    "char": "Kazuya",
-                    "opp": "Steve",
-                    "result": "win"
-                }
-            ]
-        },
-        {
-            "name": "Alan Davis",
-            "games": [
-                {
-                    "season": "Fall 2024",
-                    "stage": "Smashville",
-                    "char": "Pyra/Mythra",
-                    "opp": "Ness",
-                    "result": "loss"
-                },
-                {
-                    "season": "Fall 2024",
-                    "stage": "Smashville",
-                    "char": "Pyra/Mythra",
-                    "opp": "Ness",
-                    "result": "loss"
-                }
-            ]
-        },
-        {
-            "name": "Claire Philp",
-            "games": [
-                {
-                    "season": "Fall 2024",
-                    "stage": "Smashville",
-                    "char": "R.O.B.",
-                    "opp": "Sonic",
-                    "result": "win"
-                },
-                {
-                    "season": "Fall 2024",
-                    "stage": "Smashville",
-                    "char": "R.O.B.",
-                    "opp": "Bayonetta",
-                    "result": "win"
-                }
-            ]
-        },
-        {
-            "name": "Caleb Marcotte",
-            "games": [
-                {
-                    "season": "Fall 2024",
-                    "stage": "Smashville",
-                    "char": "Kazuya",
-                    "opp": "Ness",
-                    "result": "win"
-                },
-                {
-                    "season": "Fall 2024",
-                    "stage": "Smashville",
-                    "char": "Kazuya",
-                    "opp": "Ness",
-                    "result": "win"
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "name": "Caleb Marcotte",
-            "games": [
-                {
-                    "season": "Fall 2024",
-                    "stage": "Small Battlefield",
-                    "char": "Kazuya",
-                    "opp": "Samus",
-                    "result": "win"
-                },
-                {
-                    "season": "Fall 2024",
-                    "stage": "Small Battlefield",
-                    "char": "Kazuya",
-                    "opp": "Samus",
-                    "result": "win"
-                }
-            ]
-        },
-        {
-            "name": "Sam Woodard",
-            "games": [
-                {
-                    "season": "Fall 2024",
-                    "stage": "Small Battlefield",
-                    "char": "R.O.B.",
-                    "opp": "Kazuya",
-                    "result": "win"
-                },
-                {
-                    "season": "Fall 2024",
-                    "stage": "Small Battlefield",
-                    "char": "R.O.B.",
-                    "opp": "Kazuya",
-                    "result": "win"
-                }
-            ]
-        },
-        {
-            "name": "Claire Philp",
-            "games": [
-                {
-                    "season": "Fall 2024",
-                    "stage": "Small Battlefield",
-                    "char": "Terry",
-                    "opp": "Steve",
-                    "result": "win"
-                },
-                {
-                    "season": "Fall 2024",
-                    "stage": "Small Battlefield",
-                    "char": "Terry",
-                    "opp": "Steve",
-                    "result": "win"
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "name": "Caleb Marcotte",
-            "games": [
-                {
-                    "season": "Fall 2024",
-                    "stage": "Smashville",
-                    "char": "Kazuya",
-                    "opp": "Kazuya",
-                    "result": "win"
-                },
-                {
-                    "season": "Fall 2024",
-                    "stage": "Smashville",
-                    "char": "Kazuya",
-                    "opp": "Mr. Game & Watch",
-                    "result": "win"
-                }
-            ]
-        },
-        {
-            "name": "Alan Davis",
-            "games": [
-                {
-                    "season": "Fall 2024",
-                    "stage": "Smashville",
-                    "char": "R.O.B.",
-                    "opp": "Zero Suit Samus",
-                    "result": "win"
-                },
-                {
-                    "season": "Fall 2024",
-                    "stage": "Smashville",
-                    "char": "R.O.B.",
-                    "opp": "Zero Suit Samus",
-                    "result": "loss"
-                },
-                {
-                    "season": "Fall 2024",
-                    "stage": "Smashville",
-                    "char": "Terry",
-                    "opp": "Zero Suit Samus",
-                    "result": "win"
-                }
-            ]
-        },
-        {
-            "name": "Claire Philp",
-            "games": [
-                {
-                    "season": "Fall 2024",
-                    "stage": "Smashville",
-                    "char": "Kazuya",
-                    "opp": "Sora",
-                    "result": "win"
-                },
-                {
-                    "season": "Fall 2024",
-                    "stage": "Smashville",
-                    "char": "Kazuya",
-                    "opp": "Sora",
-                    "result": "win"
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "name": "Lorenzo Johnson",
-            "games": [
-                {
-                    "season": "Fall 2024",
-                    "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Kazuya",
-                    "opp": "Link",
-                    "result": "win"
-                },
-                {
-                    "season": "Fall 2024",
-                    "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Kazuya",
-                    "opp": "Meta Knight",
-                    "result": "win"
-                }
-            ]
-        },
-        {
-            "name": "Caleb Marcotte",
-            "games": [
-                {
-                    "season": "Fall 2024",
-                    "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Kazuya",
-                    "opp": "King Dedede",
-                    "result": "win"
-                },
-                {
-                    "season": "Fall 2024",
-                    "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Kazuya",
-                    "opp": "Bowser Jr.",
-                    "result": "win"
-                }
-            ]
-        },
-        {
-            "name": "Claire Philp",
-            "games": [
-                {
-                    "season": "Fall 2024",
-                    "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Kazuya",
-                    "opp": "Byleth",
-                    "result": "win"
-                },
-                {
-                    "season": "Fall 2024",
-                    "stage": "Pok\u00e9mon Stadium 2",
-                    "char": "Kazuya",
-                    "opp": "Joker",
-                    "result": "win"
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "name": "Claire Philp",
-            "games": [
-                {
-                    "season": "Fall 2024",
-                    "stage": "Town & City",
-                    "char": "R.O.B.",
-                    "opp": "Kazuya",
-                    "result": "loss"
-                },
-                {
-                    "season": "Fall 2024",
-                    "stage": "Town & City",
-                    "char": "Terry",
-                    "opp": "Kazuya",
-                    "result": "win"
-                },
-                {
-                    "season": "Fall 2024",
-                    "stage": "Town & City",
-                    "char": "Terry",
-                    "opp": "Terry",
-                    "result": "loss"
-                }
-            ]
-        },
-        {
-            "name": "Lorenzo Johnson",
-            "games": [
-                {
-                    "season": "Fall 2024",
-                    "stage": "Town & City",
-                    "char": "Kazuya",
-                    "opp": "Little Mac",
-                    "result": "loss"
-                },
-                {
-                    "season": "Fall 2024",
-                    "stage": "Town & City",
-                    "char": "Kazuya",
-                    "opp": "Little Mac",
-                    "result": "loss"
-                }
-            ]
-        },
-        {
-            "name": "Caleb Marcotte",
-            "games": [
-                {
-                    "season": "Fall 2024",
-                    "stage": "Town & City",
-                    "char": "Kazuya",
-                    "opp": "Incineroar",
-                    "result": "win"
-                },
-                {
-                    "season": "Fall 2024",
-                    "stage": "Town & City",
-                    "char": "Kazuya",
-                    "opp": "Incineroar",
-                    "result": "loss"
-                },
-                {
-                    "season": "Fall 2024",
-                    "stage": "Town & City",
-                    "char": "Bowser",
-                    "opp": "Incineroar",
-                    "result": "loss"
                 }
             ]
         }
