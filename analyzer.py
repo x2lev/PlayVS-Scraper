@@ -1,24 +1,34 @@
 import json
-import pandas as pd
+import os
 
-TEAM_1 = 'Creek Smash Red Team'
-TEAM_2 = 'ACHS Varsity'
+FREQ_CUTOFF = .30
 
-with open(f'match_data/{TEAM_1}.json', 'r', encoding='UTF-8') as f:
-    team_1 = json.loads(f.read())
+teams = {}
+for team_name in os.listdir('team_data'):
+    if team_name != 'Creek Smash Red Team.json':
+        with open(f'team_data/{team_name}', 'r', encoding='UTF-8') as f:
+            teams[team_name] = json.loads(f.read())
 
-with open(f'match_data/{TEAM_2}.json', 'r', encoding='UTF-8') as f:
-    team_2 = json.loads(f.read())
+char_freq = {}
+weighted_char_freq = {} 
+for team_name, team in teams.items():
+    for player_name, player in team.items():
+        total = 0
+        char_num = {}
+        for char, record in player['char'].items():
+            char_num.setdefault(char, 0)
+            char_num[char] += record['win'] + record['loss']
+            total += record['win'] + record['loss']
+        for char, num in char_num.items():
+            record = player['char'][char]
+            if (freq := char_num[char] / total) >= FREQ_CUTOFF:
+                char_freq.setdefault(char, 0)
+                weighted_char_freq.setdefault(char, 0)
+                char_freq[char] += freq
+                weighted_char_freq[char] += freq * record['win'] / (record['win'] + record['loss'])
 
-mu_chart = pd.DataFrame(index=team_1.keys(), columns=team_2.keys())
-mu_chart.fillna(0)
+sorted_char_freq = sorted(char_freq.items(), key=lambda t: list(t)[1])
+sorted_weighted_char_freq = sorted(weighted_char_freq.items(), key=lambda t: list(t)[1])
 
-def total(item):
-    _, record = item
-    return record['win'] + record['loss']
-
-for player_1 in team_1:
-    for player_2 in team_2:
-        for stage in player_1['stage']:
-            record_1 = player_1['stage'][stage]
-            record_2 = player_2['stage'][stage]
+for (c1, f), (c2, wf) in zip(sorted_char_freq, sorted_weighted_char_freq):
+    print(f'{c1:>15}: {round(f, 3)}\t{c2:>15}: {round(wf, 3)}')
